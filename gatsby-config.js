@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Lever Press`,
-    description: `Lever Press is a scholarly press supported by more than 50 liberal arts institutions. It publishes peer-reviewed, born digital, open access monographs at no cost to authors or their academic institutions.`,
-    author: `Lever Press`,
+    title: `Amherst Press`,
+    description: `AP`,
+    author: `Amherst Press`,
   },
   plugins: [
     {
