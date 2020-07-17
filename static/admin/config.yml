@@ -1,0 +1,120 @@
+media_folder: static/assets
+public_folder: assets
+collections:
+  - name: news
+    label: News
+    folder: src/content/news
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: news }
+      - { name: title, label: Title }
+      - { name: summary, label: Summary }
+      - { name: date, label: Published, widget: datetime }
+      - { name: body, label: Body, widget: markdown }
+  - name: events
+    label: Events
+    folder: src/content/events
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: event }
+      - { name: title, label: Title }
+      - { name: summary, label: Summary }
+      - { name: date, label: Published, widget: datetime }
+      - { name: body, label: Body, widget: markdown }
+  - name: books
+    label: Books
+    folder: src/content/books
+    create: true
+    slug: "{{authorLastname}}-{{title}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: book }
+      - { name: title, label: Title }
+      - { name: authorLastname, label: "Primary Author Last Name" }
+      - { name: author, label: "Author(s)" }
+      - { name: cover, label: Cover, widget: image }
+      - { name: description, label: Description }
+      - { name: orderOnPage, label: "Order on Front Page", widget: number }
+      - { name: readLink, label: "Read Link" }
+      - { name: buyLink, label: "Buy Link" }
+  - name: pages
+    label: Pages
+    files:
+      - file: src/content/home.md
+        name: home
+        label: Home
+        editor:
+          preview: false
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: home-page }
+          - name: taglineSection
+            label: "Tag Line Section"
+            widget: object
+            fields:
+              - { name: text, label: Text, widget: markdown }
+          - name: newsletterSection
+            label: "Newsletter Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: description, label: Description }
+              - { name: url, label: "Newsletter URL" }
+              - { name: buttonLabel, label: "Button Label" }
+          - name: videoSection
+            label: "Video Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: description, label: Description }
+              - { name: embed, label: "Video Embed Code", widget: text }
+          - name: mapSection
+            label: "Map Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: description, label: Description }
+              - { name: mapImage, label: "Map Image", widget: image }
+      - file: "src/content/about.md"
+        name: about
+        label: About
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: About }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/authors.md"
+        name: authors
+        label: Authors
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: authors-page }
+          - { name: title, label: Authors }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/join.md"
+        name: join
+        label: Join
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: join-page }
+          - { name: title, label: Join }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/series.md"
+        name: series
+        label: Series
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
+          - { name: title, label: Series }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/peerreview.md"
+        name: peerReview
+        label: "Peer Review"
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: series-page }
+          - { name: title, label: Series }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/impact.md"
+        name: impact
+        label: Impact
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: impact-page }
+          - { name: title, label: Impact }
+          - { name: readershipMapDescription, label: "Readership Map Description", widget: markdown }
+          - { name: googleDataStudioDescription, label: "Google Data Studio Description", widget: markdown }
