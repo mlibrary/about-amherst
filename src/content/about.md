@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About Lever Press
+title: About Amherst
 ---
 <ul class="list-unstyled">
 <li><a href="#editorial">Editorial Board</a></li>
