@@ -149,7 +149,6 @@ const IndexPage = ({data}) => {
             </div>
           </div>
         </section>
-
         <section className="author-library-container">
           <div className="container">
             <div className="row">
@@ -165,11 +164,8 @@ const IndexPage = ({data}) => {
               </div>
               <div className="library-container col">
                 <div className="row">
-                  <div className="col-md-8">
-                    <p>Join over 50 liberal arts colleges and their libraries who support our Open Access mission</p>
-                  </div>
-                  <div className="col-md-4">
-                    <a className="btn btn-lg btn-secondary" href="/join">Join Us</a>
+                  <div className="col-md-12">
+                    <p> "join us" section was here </p>
                   </div>
                 </div>
               </div>
@@ -180,7 +176,7 @@ const IndexPage = ({data}) => {
           <div className="container">
           <div className="row">
             <div className="video-container col-md-6">
-              <p> video was here </p>
+              <p> video section was here </p>
             </div>
             <div className="map-container col-md-6">
               <MapImage mapImage={map} />

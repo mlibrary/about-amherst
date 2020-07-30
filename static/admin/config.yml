@@ -82,13 +82,6 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: authors-page }
           - { name: title, label: Authors }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/join.md"
-        name: join
-        label: Join
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: join-page }
-          - { name: title, label: Join }
-          - { name: body, label: Body, widget: markdown }
       - file: "src/content/series.md"
         name: series
         label: Series
