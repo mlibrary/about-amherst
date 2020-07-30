@@ -1,18 +1,5 @@
 import React, {useState} from "react"
 import {Link} from "gatsby"
-// import Img from 'gatsby-image'
-
-//export const getLogo = graphql`
-//{
-//  logo:file(relativePath:{eq: "LeverLogo.svg"}) {
-//    childImageSharp{
-//      fluid(maxWidth: 700){
-//        ...GatsbyImageSharpFluid
-//      }
-//    }
-//  }
-//}
-// `
 
 const Navbar = () => {
   const [isOpen, setNav] = (useState(false))
@@ -24,8 +11,8 @@ const Navbar = () => {
     <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light border-bottom">
       <div className="container">
         <a href="/" className="navbar-brand">
-          <img src="/assets/LeverLogo.svg" alt="" height="70" width="auto" className="navbar-brand-logo"/> <h1>Lever Press</h1>
-        </a> 
+          <img src="/assets/LeverLogo.svg" alt="" height="70" width="auto" className="navbar-brand-logo"/> <h1>Amherst College Press</h1>
+        </a>
         <button className="navbar-toggler" type="button" onClick={toggleNav}>
           <span className="navbar-toggler-icon" />
         </button>
@@ -42,7 +29,7 @@ const Navbar = () => {
               </Link>
             </li>
             <li>
-              <a href="https://www.fulcrum.org/leverpress" className="nav-link text-dark">
+              <a href="https://www.fulcrum.org/amherst" className="nav-link text-dark">
                 Books
               </a>
             </li>

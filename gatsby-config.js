@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Amherst Press`,
-    description: `AP`,
-    author: `Amherst Press`,
+    title: `Amherst College Press`,
+    description: `Amherst College Press`,
+    author: `Amherst College Press`,
   },
   plugins: [
     {

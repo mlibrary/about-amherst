@@ -61,13 +61,6 @@ collections:
               - { name: description, label: Description }
               - { name: url, label: "Newsletter URL" }
               - { name: buttonLabel, label: "Button Label" }
-          - name: videoSection
-            label: "Video Section"
-            widget: object
-            fields:
-              - { name: heading, label: Heading }
-              - { name: description, label: Description }
-              - { name: embed, label: "Video Embed Code", widget: text }
           - name: mapSection
             label: "Map Section"
             widget: object
