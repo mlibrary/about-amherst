@@ -61,6 +61,14 @@ collections:
               - { name: description, label: Description }
               - { name: url, label: "Newsletter URL" }
               - { name: buttonLabel, label: "Button Label" }
+          - name: fundraiserSection
+            label: "Fundraiser Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: description, label: Description }
+              - { name: url, label: "Fundraiser URL" }
+              - { name: buttonLabel, label: "Button Label" }
           - name: mapSection
             label: "Map Section"
             widget: object

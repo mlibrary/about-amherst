@@ -7,6 +7,7 @@ import {graphql, Link} from "gatsby"
 import BookList from "../components/books/bookList"
 import Tagline from "../components/tagline"
 import Newsletter from "../components/newsletter"
+import Fundraiser from "../components/fundraiser"
 import NewsList from "../components/news/newsList"
 import EventList from "../components/events/eventList"
 import MapImage from "../components/mapImage"
@@ -19,6 +20,12 @@ query {
         text
       }
       newsletterSection {
+        heading
+        description
+        url
+        buttonLabel
+      }
+      fundraiserSection {
         heading
         description
         url
@@ -119,6 +126,7 @@ query {
 const IndexPage = ({data}) => {
   const tagline = data.home.frontmatter.taglineSection
   const newsletter = data.home.frontmatter.newsletterSection
+  const fundraiser = data.home.frontmatter.fundraiserSection
   const map = data.home.frontmatter.mapSection
   const books = data.books.edges
   const news = data.news.edges
@@ -176,7 +184,7 @@ const IndexPage = ({data}) => {
           <div className="container">
           <div className="row">
             <div className="video-container col-md-6">
-              <p> video section was here </p>
+              <Fundraiser fundraiser={fundraiser} />
             </div>
             <div className="map-container col-md-6">
               <MapImage mapImage={map} />
