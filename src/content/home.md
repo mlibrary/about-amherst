@@ -12,11 +12,10 @@ newsletterSection:
   url: >-
     https://visitor.r20.constantcontact.com/manage/optin?v=001WXZkjjlBP1ZO4vWwIA9HU80CKVVKX-DWmCItOAZxMlaI6uN2m3u7Ni8ELHYeO4PkjOocQfUTRPY390FT7lD5ykY3B-6NcZU3GXwUKc1ZRYc%3D
 fundraiserSection:
-  buttonLabel: Fundraiser Button
+  buttonLabel: Support
   description: This is the fundraiser section description.
-  heading: Fund ACP
-  url: >-
-    https://acpress.amherst.edu/
+  heading: Support Amherst College Press
+  url: 'https://engage.amherst.edu/give/library'
 mapSection:
   description: >-
     Learn about our impact with real-time mapping of views and downloads of our
