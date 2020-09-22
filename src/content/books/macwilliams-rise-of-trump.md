@@ -1,6 +1,7 @@
 ---
 templateKey: book
-title: 'The Rise of Trump: America's Authoritarian Spring'
+title: >-
+  The Rise of Trump: America's Authoritarian Spring
 authorLastname: MacWilliams
 author: Matthew MacWilliams
 cover: /assets/macwilliams.jpg
