@@ -11,6 +11,7 @@ import Fundraiser from "../components/fundraiser"
 import NewsList from "../components/news/newsList"
 import EventList from "../components/events/eventList"
 import MapImage from "../components/mapImage"
+import CommunityImage from "../components/communityImage"
 
 export const IndexQuery = graphql`
 query {
@@ -35,6 +36,17 @@ query {
         heading
         description
         mapImage {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
+      communitySection {
+        heading
+        description
+        communityImage {
           childImageSharp {
             fluid {
               ...GatsbyImageSharpFluid
@@ -128,6 +140,7 @@ const IndexPage = ({data}) => {
   const newsletter = data.home.frontmatter.newsletterSection
   const fundraiser = data.home.frontmatter.fundraiserSection
   const map = data.home.frontmatter.mapSection
+  const community = data.home.frontmatter.communitySection
   const books = data.books.edges
   const news = data.news.edges
   const events = data.events.edges
@@ -140,7 +153,7 @@ const IndexPage = ({data}) => {
           <div className="row mt-4">
             <div className="col-md-12">
               <p className="text-right">
-                <a href="https://fulcrum.org/leverpress">Read more books...</a>
+                <a href="https://fulcrum.org/amherst">Read more books...</a>
               </p>
             </div>
           </div>
@@ -162,7 +175,7 @@ const IndexPage = ({data}) => {
             <div className="row">
               <div className="author-container col">
                 <div className="row">
-                <div className="col-md-6">
+                  <div className="col-md-6">
                     <p>Interested in publishing your next book with us?</p>
                   </div>
                   <div className="col-md-6">
@@ -171,11 +184,7 @@ const IndexPage = ({data}) => {
                 </div>
               </div>
               <div className="library-container col">
-                <div className="row">
-                  <div className="col-md-12">
-                    <p> "join us" section was here </p>
-                  </div>
-                </div>
+                   <Fundraiser fundraiser={fundraiser} />
               </div>
             </div>
           </div>
@@ -184,7 +193,7 @@ const IndexPage = ({data}) => {
           <div className="container">
           <div className="row">
             <div className="video-container col-md-6">
-              <Fundraiser fundraiser={fundraiser} />
+              <CommunityImage communityImage={community} />
             </div>
             <div className="map-container col-md-6">
               <MapImage mapImage={map} />

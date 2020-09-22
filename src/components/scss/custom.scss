@@ -1,7 +1,7 @@
 // colors and theming
 $theme-colors: (
-  "primary": #40658f,
-  "secondary": #003352,
+  "primary": #311A4D,
+  "secondary": #5D3C85,
   "muted": #EAEAEA
 );
 
@@ -9,24 +9,24 @@ $theme-colors: (
 @import "../bootstrap/scss/bootstrap";
 
 // typography
-@mixin meta-serif {
-  font-family: "ff-meta-serif-web-pro", Georgia, "Times New Roman", serif;
+@mixin brandon {
+  font-family: brandon-grotesque, sans-serif;
 }
 
-.meta-serif {
-  @include meta-serif;
+.brandon {
+  @include brandon;
 }
 
-@mixin scala-sans {
-  font-family: "ff-scala-sans-pro", Helvetica, Arial, sans-serif;
+@mixin abril {
+  font-family: abril-text, serif;
 }
 
-.scala-sans {
-  @include scala-sans;
+.abril {
+  @include abril;
 }
 
 body {
-  @include meta-serif;
+  @include brandon;
 }
 
 h1,
@@ -34,8 +34,8 @@ h2,
 h3,
 h4,
 h5 {
-    @include scala-sans;
-    font-weight: 700;
+    @include abril;
+    font-weight: 500;
 }
 
 h2 {
@@ -49,9 +49,13 @@ h5 {
 }
 
 // colors
-$lever-brand-color: #003352;
-$lever-accent-color: #78B3E0;
-$lever-black-80: #342f2e;
+$amherst-brand-color: #311A4D;
+$amherst-accent-color: #6837A3;
+$amherst-light-blue: #64dfeb;
+$amherst-green: #458246;
+$amherst-dark-grey: #505061;
+$amherst-light-grey: #9BA1A7;
+$amherst-black-80: #342f2e;
 
 // links
 p {
@@ -62,13 +66,13 @@ p {
 
 // buttons
 .btn {
-  @include scala-sans;
+  @include brandon;
 }
 
 
 // navigation
 .navbar {
-  @include scala-sans;
+  @include brandon;
 
   min-height: 6rem;
 
@@ -141,11 +145,12 @@ p {
 
 // home - tagline and newsletter button
 .tagline-newsletter-container {
-  background-color: $lever-brand-color;
+  background-color: $amherst-brand-color;
   padding: 4rem 0;
   border-top: 1px solid rgba(0,0,0,.125);
 
   .tagline {
+    @include abril;
     font-weight: bold;
     font-size: 1.6rem;
   }
@@ -190,12 +195,18 @@ p {
   }
 }
 
+.news-item .main {
+  @include abril;
+  line-height: 1.7;
+  font-size: 1.1rem;
+}
+
 .summary {
 
     p {
-      font-size: 1.3rem;
-      margin-bottom: 0;
-      @include scala-sans;
+      font-size: 1.5rem;
+      margin-bottom: 1em;
+      @include brandon;
       line-height: 1.5;
     }
 
@@ -212,7 +223,7 @@ p {
   }
 
   .card:hover {
-    border: 1px solid $lever-brand-color;
+    border: 1px solid $amherst-brand-color;
   }
 
   .card-image {
@@ -237,7 +248,7 @@ p {
 }
 
 .jumbotron {
-  background-color: $lever-brand-color;
+  background-color: $amherst-brand-color;
   margin-bottom: 4rem;
 }
 
@@ -251,7 +262,7 @@ p {
     color: #f8f9fa;
   }
   p.join-tag {
-    color: $lever-accent-color;
+    color: $amherst-accent-color;
     font-size: 1.5rem;
     margin-bottom: 0;
   }
@@ -263,7 +274,7 @@ p {
 }
 
 thead {
-  background-color: $lever-brand-color;
+  background-color: $amherst-brand-color;
   color: #f8f9fa;
 }
 
@@ -300,14 +311,14 @@ p.social {
     svg {
       display: inline-block;
       vertical-align: middle;
-      fill: $lever-brand-color;
+      fill: $amherst-brand-color;
     }
   }
 }
 
 // footer
 .footer {
-  background-color: $lever-brand-color;
+  background-color: $amherst-brand-color;
   border-top: 1px solid rgba(0,0,0,.125);
   padding: 3rem 0;
 
@@ -326,7 +337,7 @@ p.social {
       svg {
         display: inline-block;
         vertical-align: middle;
-        fill: $lever-accent-color;
+        fill: $amherst-light-blue;
       }
     }
   }

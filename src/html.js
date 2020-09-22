@@ -13,7 +13,7 @@ export default function HTML(props) {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         <script async src={withPrefix('jquery-3.4.1.min.js')} type="text/javascript" />
-        <link rel="stylesheet" href="https://use.typekit.net/bml2ueg.css"></link>
+        <link rel="stylesheet" href="https://use.typekit.net/oxd2vmw.css"></link>
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>

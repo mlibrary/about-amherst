@@ -2,11 +2,15 @@ import React from "react"
 
 const Fundraiser = ({fundraiser}) => {
   return (
-    <div className="text-dark">
-      <h2 className="sr-only">{fundraiser.heading}</h2>
-      <p>{fundraiser.description}</p>
-      <a className="btn btn-primary" href={fundraiser.url}>{fundraiser.buttonLabel}</a>
-    </div>
+    <div className="row">
+      <div className="col-md-6">
+        <h2 className="sr-only">{fundraiser.heading}</h2>
+        <p>{fundraiser.description}</p>
+      </div>
+    <div className="col-md-6">
+      <a className="btn btn-lg btn-secondary" href={fundraiser.url}>{fundraiser.buttonLabel}</a>
+    </div> 
+  </div>
   )
 }
 

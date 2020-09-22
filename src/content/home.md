@@ -2,18 +2,16 @@
 templateKey: home-page
 taglineSection:
   text: >-
-    We are a scholarly press supported by more than 50 liberal arts
-    institutions. We publish peer-reviewed, born digital, open access monographs
-    at no cost to our authors or their academic institutions.
+    Digital First. Open Access. Liberal Arts. We produce pathbreaking, peer-reviewed studies by scholars and make it available to readers everywhere as digital, open-access work. 
 newsletterSection:
   buttonLabel: Subscribe
   description: Stay current with our quarterly newsletter
-  heading: Keep up to date with Lever
+  heading: Keep up to date with ACP
   url: >-
     https://visitor.r20.constantcontact.com/manage/optin?v=001WXZkjjlBP1ZO4vWwIA9HU80CKVVKX-DWmCItOAZxMlaI6uN2m3u7Ni8ELHYeO4PkjOocQfUTRPY390FT7lD5ykY3B-6NcZU3GXwUKc1ZRYc%3D
 fundraiserSection:
-  buttonLabel: Support
-  description: This is the fundraiser section description.
+  buttonLabel: Support Us
+  description: Keep us producing pathbreaking scholarship
   heading: Support Amherst College Press
   url: 'https://engage.amherst.edu/give/library'
 mapSection:
@@ -22,5 +20,11 @@ mapSection:
     published content that occurred over the previous four weeks across the
     world and other statistics about the usage of our books.
   heading: Our impact and reach is global
-  mapImage: /assets/screen-shot-2019-11-18-at-11.29.58-am.png
+  mapImage: /assets/map-image.png
+communitySection:
+  description: >-
+    Learn how ACP is involved in the Amherst campus community and opportunites to connect
+    with us.
+  heading: We help build community
+  communityImage: /assets/community-image.jpg
 ---

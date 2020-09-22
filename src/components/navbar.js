@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light border-bottom">
       <div className="container">
         <a href="/" className="navbar-brand">
-          <img src="/assets/LeverLogo.svg" alt="" height="70" width="auto" className="navbar-brand-logo"/> <h1>Amherst College Press</h1>
+          <img src="/assets/AmherstLogo.svg" alt="" height="70" width="auto" className="navbar-brand-logo" aria-labelledby="title"/> <h1 id="title" class="sr-only">Amherst College Press</h1>
         </a>
         <button className="navbar-toggler" type="button" onClick={toggleNav}>
           <span className="navbar-toggler-icon" />

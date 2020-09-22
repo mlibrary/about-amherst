@@ -76,6 +76,13 @@ collections:
               - { name: heading, label: Heading }
               - { name: description, label: Description }
               - { name: mapImage, label: "Map Image", widget: image }
+          - name: communitySection
+            label: "Community Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: description, label: Description }
+              - { name: communityImage, label: "Community Image", widget: image }
       - file: "src/content/about.md"
         name: about
         label: About

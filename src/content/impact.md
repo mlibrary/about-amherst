@@ -5,8 +5,8 @@ readershipMapDescription: >-
   ## Readership Map
 
 
-  The Readership Map replays every view or download of Lever Press books or
-  media components that occurred the previous four weeks.
+  The Readership Map replays every view or download of Amherst Press books or
+  media components that occurred over the previous four weeks.
 googleDataStudioDescription: >-
   ## Book Usage
 

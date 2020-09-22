@@ -17,7 +17,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-79270005-1",
+        trackingId: "UA-77847516-13",
       }
     },
     {
@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/lever-logo.png`, // This path is relative to the root of the site.
+        icon: `src/images/AmherstLogo-Badge.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
