@@ -1,4 +1,4 @@
-## About Lever Press
+## About Amherst Press
 
 1. clone the repo
 2. run `yarn`
