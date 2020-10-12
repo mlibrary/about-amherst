@@ -1,7 +1,7 @@
 ---
 templateKey: event
-title: 'American Comparative Literature Association, March 19-20'
-summary: Lever Press will be in Chicago for the ACLA Meeting this March
+title: 'Association of Internet Researchers, Oct. 26-31'
+summary: Amherst College Press attends its first ever AoIR
 date: 2020-01-31T17:25:21.341Z
 ---
-Going to Chicago for [ACLA](https://www.acla.org/)? Lever Press representatives will be there from March 19-20 and available to meet with you. Just reach out to setup a meeting.
+We are excited to be attending the Association of Internet Researchers for the first time. The conference is online, and we will be too. Reach out if you'd like to connect.
