@@ -7,3 +7,5 @@ Amherst College Press is relatively unique among university presses for being si
 We are committed to developing and sustaining an internship program for Amherst College undergraduates in the particular hopes of creating pipeline opportunities for those who have been historically underrepresented in the publishing industry. On this page you can find resources connected to our internship program.
 
 <a href="assets/acp_lever-intern-guide.pdf">Amherst College Press/Lever Press Intern Guide</a>
+
+<a href="assets/future-intern-letter.pdf">Letter from a former intern to future interns</a>
