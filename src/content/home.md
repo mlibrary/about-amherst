@@ -3,8 +3,8 @@ templateKey: home-page
 taglineSection:
   text: >-
     Digital First. Open Access. Liberal Arts. We produce pathbreaking,
-    peer-reviewed studies by scholars and make it available to readers
-    everywhere as digital, open-access work. 
+    peer-reviewed scholarship and make it available to readers everywhere as
+    digital, open-access work.
 newsletterSection:
   buttonLabel: Subscribe
   description: Stay current with our quarterly newsletter
