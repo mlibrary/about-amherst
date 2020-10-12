@@ -28,5 +28,5 @@ communitySection:
     Learn how ACP is generating awareness about open access publishing in the
     Amherst campus and community 
   heading: Working towards an inclusive scholarly publishing community
-  communityImage: assets/amherst-bear.jpg
+  communityImage: assets/screen-shot-2020-10-12-at-4.14.15-pm.png
 ---
