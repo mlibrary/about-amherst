@@ -25,8 +25,8 @@ mapSection:
   mapImage: /assets/map-image.png
 communitySection:
   description: >-
-    Learn how ACP is involved in the Amherst campus community and opportunites
-    to connect with us.
-  heading: Amherst College Campus & Community
+    Learn how ACP is generating awareness about open access in the Amherst
+    campus and community 
+  heading: Working towards an inclusive scholarly publishing community
   communityImage: assets/amherst-bear.jpg
 ---
