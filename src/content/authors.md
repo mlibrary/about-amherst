@@ -4,67 +4,63 @@ title: Publish With Us
 ---
 ## Authors
 
-We’re interested in proposals both for individual projects and for series of works consistent with our theme and focus. Please consult our editorial program below to read about the areas of work of particular interest to our editors.
+Please consult our editorial program below to read about areas of particular interest to our editors. See our individual project proposal template to get a sense of what we look for when considering projects.
 
-If you’d like to get a sense of what we ask for in a proposal, you may download the templates to review:
+<a href="assets/acp-individual-project-proposal-guidelines_1-1.pdf">Individual project proposal template</a>
 
-<a href="/assets/leverpressindividualprojectproposaltemplatepubliclyaccessible.pdf">Individual project proposal template</a>
+When you’re ready, submit a proposal to Amherst College Press at acpress@amherst.edu
 
-* (Please note that the principal editor of a proposed series must be affiliated with a Lever Press participating institution)
+Have questions? Want guidance before proceeding with a proposal? Write to us at acpress@amherst.edu
 
-When you’re ready, [submit a proposal to Lever Press at info@leverpress.org](mailto:info@leverpress.org)
+## The Amherst College Press Editorial Program
 
-Have questions? Want guidance before proceeding with a proposal? Write to us at info@leverpress.org
+We seek works that fit into either or both of these broad categories:
 
-## The Lever Press Editorial Program
+***Topics, fields, and communities that would benefit from open access books.*** Smaller fields—particularly emerging fields and subfields—can encounter difficulty finding a pathway to publication in market-based publishing. We’re especially interested in receiving proposals from scholars in such fields, and from those whose work engages and speaks to reading and scholarly communities typically underserved by traditional publishing models.
 
-Lever Press is a publisher of pathbreaking scholarship. Supported by a consortium of liberal arts institutions focused on excellence in research and teaching, we have founded our press on three essential commitments:
-
-* To be a press aligned with the ethos and mission of liberal arts colleges;
-* To be a peer-reviewed, open access press that charges no fees to either authors or their institutions; and
-* To publish rich media digital books simultaneously available in print. 
-
-We seek out, identify, evaluate, and advocate for transformative scholarship that
-
-* Emerges from **creative dialogue** within and between traditional fields of inquiry, with an emphasis on **disciplinary innovation and transformation**;
-* Engages with issues of **social and civic importance**; and
-* **Transcends divisions** between research and teaching by drawing from new models of **collaborative inquiry addressing a broad audience**.
-
-This century has been marked by the tension between human progress and optimism on the one hand and increasingly complex global crises on the other hand. Creating the conditions for thriving communities, colleges, and universities in the coming decades requires moving beyond traditional disciplinary boundaries and finding ways to think and work together across divergent methodologies, perspectives, contexts—even, sometimes, fundamental commitments. Accordingly, Lever Press seeks proposals that bring diverse perspectives to bear upon pressing issues of social, moral, political, and scientific concern. 
-
- Such projects might be single-authored monographs; they might also involve interdisciplinary groups of scholars bringing a variety of perspectives to bear on a given question; discussions among scholars of contending, even irreconcilable, viewpoints, modeling civil discourse; or a constructive approach to a question from a discipline not ordinarily thought to be the obvious starting point. 
-
-Our works are published on [Fulcrum](https://www.fulcrum.org/), which provides a platform allowing narrative to be richly integrated with associated data (images, videos, audio files, visualizations, etc.), optimized for long-term preservation and accessibility. 
+***Fields better served by digital platforms for the communication of ideas.*** As a press focused on the creation of digital-first work, we are interested in proposals utilizing digital technologies to convey ideas and modes of inquiry in the humanities implementing technology in new and creative ways. Our works are published on[ Fulcrum](https://www.fulcrum.org/), which provides a platform allowing narrative to be richly integrated with associated data (images, videos, audio files, visualizations, etc.), optimized for long-term preservation and accessibility.
 
 ## Existing series
 
- *ASIANetwork Books*, series editors Erin McCarthy and Lisa Trivedi 
+ *Law, Literature & Culture*
 
-This series publishes high-quality, original monographs embodying a rigorous liberal arts approach to Asian Studies. Manuscripts published in the ASIANetwork series, no matter how narrowly focused, are expected to raise broad questions of interest and potential classroom utility for Asian Studies scholars in the liberal arts. We encourage authors to discuss a work’s pedagogical relevance when submitting their manuscript for consideration. While the *ASIANetwork Series* assists teachers in their own professional development and deepens the understanding of Asia within our campus communities, it is also intended to provide a broader reading public with reliable and accurate scholarship about Asia. 
+*S*eries Editor: Austin Sarat, Amherst College
 
-*Multimodal Monographs*, series editor Jason Mittell
+Editorial Board: Peter Brooks, Princeton University; Susan Sage Heinzelman, University of Texas, Austin; Bernadette Meyler, Stanford University; Ravit Reichman, Brown University; Eric Slauter, University of Chicago
 
-Combining the possibilities of digital scholarship with the long-standing strengths of the print monograph, this series strives to publish works that *convey ideas and expand knowledge via digital rhetorics*. Multimodal Monographs will resemble traditional print books as accessed via an online e-reader, but use embedded media forms such as video, audio, and high-resolution images to convey ideas that could not be sufficiently expressed in static print. The published works will explore a wide-range of topics and approaches, but be united through a commitment to born-digital publishing as structured through the stable, archivable, and library-optimized open-access Fulcrum platform, and the use of media assets as core components of intellectual expression, not just illustrations or examples.
+Law and literature have for millennia been closely allied as means of persuasion and the creation of cultural norms. This series sets law, literature, and culture in new dialogues, exploring the textual dimensions and cultural work of law and the legal frameworks of literature. We seek work that brings literary, legal, and/or cultural analysis together to explore specific social and political problems and that attends carefully to historical contexts and issues. Of particular interest are works that define and argue a thesis drawing on both textual and non-textual sources for which a multimodal, digital presentation offers unique expressive power.
 
-*Re-Editions*: Literary and cultural texts, recovered for the classroom, series editor Michelle Burnham 
+*Mammoth Records*
 
-The Re-Editions series is dedicated to recovering forgotten or overlooked texts from archives, special collections, and the dustbins of history. Quality critical digital editions of books with the potential to change the way we imagine and teach literary and cultural history, suitable for classroom use.   
+Series Editor: Darryl Harper, Amherst College
+
+Editors: Xavier Davis, Michigan State University; Eric Oberstein, Duke University
+
+Mammoth Records is an academic record label focusing on new jazz recordings. In music today, the means of production are increasingly accessible yet distribution has become tightly controlled by a few actors. Mammoth Records employs the structure of open access scholarly publishing to rectify the music industry’s neglect of “new knowledge” by utilizing digital formats, peer review as a collaborative process, and limited distribution rights associated with Creative Commons licensing. The series models a commitment to the liberal arts by cultivating discovery through analysis, interpretation, and connecting ideas across disciplines.
+
+*Russian Travelogues*
+
+Series Editor: Sergey Glebov, Smith College and Amherst College
+
+Russian Travelogues introduces to the English-speaking world narratives of exploration, travel, and conquest produced by representatives of the military, missionary, and scholarly communities in imperial Russia. “These travelogues represent a very helpful contribution to bringing the imperial turn into the classroom and broader scholarly discussion. They provide a revealing entree into problems of empire, difference, hierarchical relations, and other complexes of ideas and practices that characterized nineteenth-century approaches to rulership… at the same time, scholars working on that period of European imperial history will find their own avenue into a more broadly comparative approach” - David McDonald, University of Wisconsin, Madison
+
+*Public Works*
+
+*S*eries Editor: Austin Sarat, Amherst College
+
+Public Works seeks out and makes available the perspective of leading scholars in the humanities and humanistic social sciences on emergent questions that have long-term significance in our public conversations. Shorter than monographs, these works offer the freedom of long-form essays and the tools of digital media.
 
 ## Areas of Interest
 
-*Teaching, Learning, and Leading in Liberal Arts Colleges* 
-
-Liberal arts colleges have played a distinctive, leadership role in the development of American higher education. Lever Press seeks to publish work that highlights excellence in the scholarship of teaching and learning and strategies that enable transformational student development. We will also seek contributions from academic leadership reflecting on the present and future state of liberal arts education, providing a forum for both constructive self-reflection and leadership for policy makers, administrators, trustees, graduates, and others who care about sustaining and improving upon the liberal arts college tradition.
-
-__
-
-*Archives and Special Collections*
-
-The Helen Hartness Flanders Ballad Archive at Middlebury College and the Kuna Indian or Burmese works housed in the Denison Museum are just two of many examples of the remarkable materials held by many liberal arts colleges. Lever Press welcomes interdisciplinary studies of a specific collection, and encourages thematic studies across institutional collections that promote collaboration and illustrate our connections. Of particular interest are as-yet unexplored narratives of communities, movements, and populations whose voices have been marginalized and excluded.
+The press publishes titles in Art History, Latin American Studies, Literary Studies, Music, Slavic Studies, and Visual Studies with a deep interest in interdisciplinary scholarship.
 
 ## For Current Authors
 
-* Lever Press Project Metadata Template
-* Final Manuscript Preparation Guidelines
+The following resources, accessible via Google Drive, are for authors preparing their final manuscript materials for submission to production after they've been peer reviewed and approved. Please download these documents for your own use and reference.
 
-  Lever Press Subvention Statement
+* [Author Guide and Final Manuscript Preparation Guidelines](https://docs.google.com/document/d/1R5nmG9-FS6X8yA6vMtkjTcjxZfHfHgg2HS4G4deYIKg/edit)
+* [Metadata Template](https://docs.google.com/spreadsheets/d/1ibNeACiXKZbk2MVNj4bpHoopqtt-7HyDxf7ana3SI_s/edit#gid=0)
+* [Amherst College Press Subvention Statement](https://docs.google.com/document/d/1s2PXqXTJ2qBEeD1ZRXMeBJy79pc6yrtsXTP-b2DstnM/edit?usp=sharing)
+* [Pre-Production Checklist](https://docs.google.com/document/d/12Zkv_aCeAsNi7RaRxhRxofWEJm3GzIKaKs9i_5Uc9pY/edit)
+* [Contributor's Agreement](https://docs.google.com/document/d/1Svqoo0-W3tKqlP-F8usmIrlIrc6l6kpUE2FTC0FX7-4/edit)
+* [Permissions Requests](https://docs.google.com/document/d/1mR4s0DOJrqIUo5kJepEUvnb38oT3_0LVXp8JCS4Qk4w/edit)
