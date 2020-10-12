@@ -25,8 +25,8 @@ mapSection:
   mapImage: /assets/map-image.png
 communitySection:
   description: >-
-    Learn how ACP is involved in the Amherst College campus and community and
-    opportunites to connect with us.
-  heading: We help build community
+    Learn how ACP is involved in the Amherst campus community and opportunites
+    to connect with us.
+  heading: Amherst College Campus & Community
   communityImage: assets/amherst-bear.jpg
 ---
