@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About Amherst College Press
+title: Amherst College Press
 ---
 <ul class="list-unstyled">
 <li><a href="#editorial">Editorial Board</a></li>
