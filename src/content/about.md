@@ -14,7 +14,7 @@ title: Amherst College Press
 
 <h2 id="governance">About Amherst College Press</h2>
 
-Amherst College Press produces path-breaking, peer-reviewed studies by scholars and makes it available to readers everywhere as digital, open-access work. The press publishes titles in Art History, Latin American Studies, Literary Studies, Music, Slavic Studies, and Visual Studies with a deep interest in interdisciplinary scholarship. We publish our books on Fulcrum, a platform created by University of Michigan Publishing, allowing narrative to be richly integrated with multimedia and optimized for long-term preservation and accessibility.
+Amherst College Press produces pathbreaking, peer-reviewed studies by scholars and makes it available to readers everywhere as digital, open-access work. The press publishes titles in Art History, Latin American Studies, Literary Studies, Music, Slavic Studies, and Visual Studies with a deep interest in interdisciplinary scholarship. We publish our books on Fulcrum, a platform created by University of Michigan Publishing, allowing narrative to be richly integrated with multimedia and optimized for long-term preservation and accessibility.
 
 Amherst College Press is a member of the [Association of University Presses](http://www.aupresses.org/) and is fully funded by Amherst College.
 
