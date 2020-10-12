@@ -1,7 +1,7 @@
 ---
 templateKey: event
-title: 'Library Publishing Forum, May 4-6'
-summary: Meet up with us in Worchester during 2020's LPF
+title: 'American Musicological Society, Nov. 7-8 & Nov. 14-15'
+summary: We'll be online for the 86th AMS meeting
 date: 2020-01-31T17:37:02.202Z
 ---
-Lever Press staff will be attending this year's [Library Publishing Forum](https://librarypublishing.org/library-publishing-forum/) from May 4-6 in Worchester, MA. We'd be excited to meet with you if you're attending - send an email to [info@leverpress.org](mailto:info@leverpress.org).
+Amherst College Press staff will be available to meet during this year's AMS/SMT virtual meeting. Send us an email if you'd like to discuss a project that might be a fit for our model!
