@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Amherst College Press
+title: About Amherst College Press
 ---
 <ul class="list-unstyled">
 <li><a href="#editorial">Editorial Board</a></li>
@@ -11,8 +11,6 @@ title: Amherst College Press
 <li><a href="#discovery">Discovery and Reuse</a></li>
 <li><a href="#historical-docs">Historical Documents</a></li>
 </ul>
-
-<h2 id="governance">About Amherst College Press</h2>
 
 Amherst College Press produces pathbreaking, peer-reviewed scholarship and makes it available to readers everywhere as digital, open-access work. The press publishes titles in Art History, Latin American Studies, Literary Studies, Music, Slavic Studies, and Visual Studies with a deep interest in interdisciplinary scholarship. We publish our books on Fulcrum, a platform created by University of Michigan Publishing, allowing narrative to be richly integrated with multimedia and optimized for long-term preservation and accessibility.
 
@@ -54,7 +52,7 @@ Amherst College Press was founded with the objective of supporting scholarship i
 
 We seek to lead the way in establishing best practices for born-digital, peer-reviewed, open access monograph publishing by identifying, evaluating, and advocating for transformative scholarship that spurs creative dialogue within and between traditional fields of inquiry, emphasizes disciplinary innovation, draws upon new models of collaborative research, and strives to reach the broadest audience possible.
 
-**Statement on Diversity, Equity, and Inclusion**
+<h3 id="dei-statement">Statement on Diversity, Equity, and Inclusion</h3>
 
 Amherst College Press holds diversity, equity, inclusion, and justice as core values. As an extension of Amherst College, we recognize and acknowledge the Nonotuck land Amherst occupies, and we also acknowledge our neighboring Indigenous nations: the Nipmuc and the Wampanoag to the East, the Mohegan and Pequot to the South, the Mohican to the West, and the Abenaki to the North.
 
