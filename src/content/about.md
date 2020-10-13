@@ -81,7 +81,7 @@ As a small open-access press based at Amherst College, we seek to offer a differ
 
 Amherst College Press is committed to the highest standards of peer review in evaluating the work it considers for publication and to communicating the nature of review to readers in a transparent fashion. 
 
-As a process of independent and informed evaluation of both argument and originality of scholarly work, peer review is the principal means by which ACP assures the quality and merit of the work it publishes. Please see our [Peer Review Commitments and Guidelines page](https://leverpress.org/peerreview) for more details.
+As a process of independent and informed evaluation of both argument and originality of scholarly work, peer review is the principal means by which ACP assures the quality and merit of the work it publishes. Please see our [Peer Review Commitments and Guidelines page](https://about-amherstpress.netlify.app/peerreview/) for more details.
 
 <h2 id="discovery">Discovery and Reuse</h2>
 
