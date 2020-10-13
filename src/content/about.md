@@ -71,7 +71,7 @@ As a small open-access press based at Amherst College, we seek to offer a differ
 
 ***Focus on the Liberal Arts.*** We welcome works exploring intellectual connections across academic disciplines and divisions and champion works whose methods and modalities reach beyond the standard monograph.
 
-***Platinum Open Access.*** Amherst College Press is committed to funding all the costs of acquiring, editing, developing, and producing the work. Platinum OA means we can consider works with regard to scholarly merit only. We are particularly interested in topics, fields, and reading and scholarly communities that would benefit from open access books.
+***Platinum Open Access.*** Amherst College Press is committed to funding all the costs of acquiring, editing, developing, and producing scholarship. Platinum OA means we can consider works with regard to scholarly merit only. We are particularly interested in topics, fields, and reading and scholarly communities that would benefit from open access books.
 
 ***Born digital.*** Amherst College Press makes print copies available for works that render well in print. We also welcome projects of digital scholarship not well served by scholarly conventions limited to print-only outcomes and looks forward to partnering with an emerging community of scholars in the digital humanities who are linking together disciplinary perspectives and using new tools for visualization and reader engagement.
 
