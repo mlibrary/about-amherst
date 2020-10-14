@@ -87,8 +87,8 @@ Amherst College Press Press titles are made available under Creative Commons (CC
 
 <h2 id="historical-docs">Historical Documents</h2>
 
-<a href="assets/acp-2014-charter.pdf">Read the original Amherst College Press charter from 2014. </a>
+<a href="/assets/acp-2014-charter.pdf">Read the original Amherst College Press charter from 2014. </a>
 
  The current Amherst College Press extends the long tradition of publishing at Amherst College.
 
-<a href="assets/acp-historical-titles.pdf">Take a look at some of our legacy titles here.</a>
+<a href="/assets/acp-historical-titles.pdf">Take a look at some of our legacy titles here.</a>
