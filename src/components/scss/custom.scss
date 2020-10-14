@@ -314,6 +314,9 @@ p.social {
       fill: $amherst-brand-color;
     }
   }
+  a:first-of-type {
+    padding-left: 1em;
+  }
 }
 
 // footer
@@ -339,6 +342,9 @@ p.social {
         vertical-align: middle;
         fill: $amherst-light-blue;
       }
+    }
+    a:first-of-type {
+      padding-left: 0;
     }
   }
 

@@ -38,6 +38,17 @@ collections:
       - { name: orderOnPage, label: "Order on Front Page", widget: number }
       - { name: readLink, label: "Read Link" }
       - { name: buyLink, label: "Buy Link" }
+  - name: community
+    label: Community
+    folder: src/content/community
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: news }
+      - { name: title, label: Title }
+      - { name: summary, label: Summary }
+      - { name: date, label: Published, widget: datetime }
+      - { name: body, label: Body, widget: markdown }
   - name: pages
     label: Pages
     files:
@@ -125,11 +136,4 @@ collections:
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: internships-page }
           - { name: title, label: Internships }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/community.md"
-        name: community
-        label: Community
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: community-page }
-          - { name: title, label: Community }
           - { name: body, label: Body, widget: markdown }
