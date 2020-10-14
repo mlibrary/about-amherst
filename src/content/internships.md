@@ -8,4 +8,4 @@ We are committed to developing and sustaining an internship program for Amherst 
 
 <a href="assets/acp_lever-intern-guide.pdf">Amherst College Press/Lever Press Intern Guide</a>
 
-<a href="assets/future-intern-letter.pdf">Letter from a former intern to future interns</a>
+<a href="assets/future-intern-letter.pdf">Letter from a Former Intern to Future Interns</a>
