@@ -137,3 +137,10 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: internships-page }
           - { name: title, label: Internships }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/contact.md"
+        name: contact
+        label: Contact
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
+          - { name: title, label: Contact }
+          - { name: body, label: Body, widget: markdown }
