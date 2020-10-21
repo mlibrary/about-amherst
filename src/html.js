@@ -14,6 +14,14 @@ export default function HTML(props) {
         />
         <script async src={withPrefix('jquery-3.4.1.min.js')} type="text/javascript" />
         <link rel="stylesheet" href="https://use.typekit.net/oxd2vmw.css"></link>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              var _ctct_m = '98b89e982c3afb0a2e338c89f9467ee9';
+              `,
+          }}
+        />
+        <script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer type="text/javascript"></script>
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>

@@ -10,7 +10,7 @@ newsletterSection:
   description: Stay current with our quarterly newsletter
   heading: Keep up to date with ACP
   url: >-
-    https://visitor.r20.constantcontact.com/manage/optin?v=001WXZkjjlBP1ZO4vWwIA9HU80CKVVKX-DWmCItOAZxMlaI6uN2m3u7Ni8ELHYeO4PkjOocQfUTRPY390FT7lD5ykY3B-6NcZU3GXwUKc1ZRYc%3D
+    /contact
 fundraiserSection:
   buttonLabel: Support Us
   description: Keep us producing pathbreaking scholarship
