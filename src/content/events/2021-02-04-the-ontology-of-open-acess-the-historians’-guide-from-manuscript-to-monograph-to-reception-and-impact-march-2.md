@@ -2,7 +2,7 @@
 templateKey: event
 title: >-
   The Ontology of Open Acess: The Historians’ Guide from Manuscript to Monograph
-  to Reception and Impact, March 2 
+  to Reception and Impact, March 2 at 11:00
 summary: >-
   Join us for this live webinar, part of the American Historical Association's
   virtual 2021 event programming
