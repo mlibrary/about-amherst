@@ -80,6 +80,13 @@ collections:
               - { name: description, label: Description }
               - { name: url, label: "Fundraiser URL" }
               - { name: buttonLabel, label: "Button Label" }
+          - name: catalogSection
+            label: "Catalog Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: catalogImage, label: "Catalog Image", widget: image }
+              - { name: catalogPdf, label: "Catalog PDF", widget: markdown }
           - name: mapSection
             label: "Map Section"
             widget: object

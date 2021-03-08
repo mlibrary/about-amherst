@@ -34,6 +34,11 @@ const Navbar = () => {
               </a>
             </li>
             <li>
+              <a href="/series" className="nav-link text-dark">
+                Series
+              </a>
+            </li>
+            <li>
               <Link to="/authors" className="nav-link text-dark">
                 Publish With Us
               </Link>

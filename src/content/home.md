@@ -29,4 +29,9 @@ communitySection:
     Amherst and beyond.
   heading: An inclusive scholarly publishing community
   communityImage: /assets/screen-shot-2020-10-12-at-4.14.15-pm.png
+catalogSection:
+  heading: Amherst College Press Seasonal Catalog
+  catalogImage: /assets/screen-shot-2020-10-12-at-12.08.40-pm.png
+  catalogPdf: >-
+    <a class="btn btn-secondary" href="/assets/acp-digital-catalog-2020-21.pdf">Explore our Catalog</a>
 ---

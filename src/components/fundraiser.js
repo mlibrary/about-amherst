@@ -8,7 +8,7 @@ const Fundraiser = ({fundraiser}) => {
         <p>{fundraiser.description}</p>
       </div>
     <div className="col-md-6">
-      <a className="btn btn-lg btn-secondary" href={fundraiser.url}>{fundraiser.buttonLabel}</a>
+      <a className="btn btn-secondary" href={fundraiser.url}>{fundraiser.buttonLabel}</a>
     </div> 
   </div>
   )
