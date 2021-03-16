@@ -2,7 +2,7 @@
 templateKey: event
 title: >-
   Public Works: Academics in the Arena in the Trump Era and Beyond, Friday,
-  April 23 03:00 to 5:00 EST & Saturday, April 24 03:00 to 5:00 EST
+  April 23 3:00 to 5:00 EST & Saturday, April 24 3:00 to 5:00 EST
 summary: >-
   Join us for a special Zoom conference co-hosted by the Amherst College
   Department of Law, Jurisprudence and Social Thought; the Center for Humanistic
