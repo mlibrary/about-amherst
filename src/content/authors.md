@@ -52,7 +52,7 @@ Public Works seeks out and makes available the perspective of leading scholars i
 
 ## Areas of Interest
 
-The press publishes titles in Art History, Latin American Studies, Literary Studies, Music, Slavic Studies, and Visual Studies with a deep interest in interdisciplinary scholarship.
+The press publishes titles in Art History and Visual Studies, Latin American Studies, Literary Studies, Music, and Russian, East European, and Eurasian Studies with a deep interest in interdisciplinary scholarship.
 
 ## For Current Authors
 
