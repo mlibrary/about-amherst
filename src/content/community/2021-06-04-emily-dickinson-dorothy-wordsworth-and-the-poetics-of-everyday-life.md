@@ -4,7 +4,7 @@ title: 'Emily Dickinson, Dorothy Wordsworth, and the Poetics of Everyday Life '
 summary: 'Olive Amdur (''23) on solitude, community, and the dailiness of creativity'
 date: 2021-06-04T14:57:55.398Z
 ---
-*Note from the editors: As interns, we wanted to find new ways to engage students with Amherst College Press. We put out a call to the Amherst student body for submissions to our Community page; these submissions could have been any piece of writing that is inspired by or about the books that the press has published. Once we approved the proposal, we worked with the student to help with editing and suggestions for the piece. Now, we are excited to share our first student submission and look forward to submissions that follow.*
+*Note: As ACP interns, we wanted to find new ways to engage students with Amherst College Press. We put out a call to the Amherst student body for submissions to our Community page; these submissions could have been any piece of writing that is inspired by or about the books that the press has published. Once we approved the proposal, we worked with the student to help with editing and suggestions for the piece. Now, we are excited to share our first student submission and look forward to submissions that follow.*
 
 *\-Sydney Ireland ('23) and Angel Musyimi ('23)*
 
@@ -29,8 +29,6 @@ Marta Werner, in her essay for the collection, “Emily Dickinson: Manuscripts, 
 Dorothy and Emily, as poets in a time when women—white and class-privileged women—were bound to home routines and given voice almost exclusively in domestic spheres, reaffirm the power that extends from these routines, spaces, and communal processes of home. As they find poetry in the daily movements of home, Dickinson and Wordsworth establish their strong, singular voices and root those voices in their surrounding webs of art, intellect, and life. Their poetry allows for their “dazzlingly complex” environments to surface alongside their more solitary ones.
 
 One of the essays in *The Networked Recluse*, a piece by Susan Howe, includes a fragment of a letter Howe’s aunt sent her in conversation about Dickinson. She writes, “\[Dickinson] is the quintessence…of the Puritan descent....We conversed with our own souls till we lost the art of communicating with other people.” Yet in Dickinson’s letters we see her in conversation with her closest friends, the people of the farmlands surrounding her home, and the elements of her domestic life. We see her, too, in conversation with Dorothy Wordsworth, a conversation that carries us ahead in time and across an ocean, about the defiant poetry of everyday life. What we see, holding the subtle poetry of Dorothy’s journals with Dickinson’s manuscripts, is a new way of understanding poetic voice and practice: one at once solitary and constantly engaged with the world. They model holistic poetics, born of an environmental and interconnected daily creativity: a writing that, to echo Frost, another Amherst poet, may be alone but is not lonely.
-
-
 
 BIO: 
 
