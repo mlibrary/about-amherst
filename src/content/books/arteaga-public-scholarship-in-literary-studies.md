@@ -9,7 +9,7 @@ description: >-
   accomplished public scholars in essays demonstrating that literary criticism
   has the potential not only to explain, but to actively change our terms of
   engagement with current realities.
-orderOnPage: 1
+orderOnPage: 2
 readLink: 'https://doi.org/10.3998/mpub.12225223'
 buyLink: >-
   https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781943208227&PRESS=amherst
