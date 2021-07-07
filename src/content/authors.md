@@ -6,9 +6,15 @@ title: Publish With Us
 
 Please consult our editorial program below to read about areas of particular interest to our editors. See our individual project proposal template to get a sense of what we look for when considering projects.
 
-<a href="/assets/acp-individual-project-proposal-guidelines_1-2.pdf">Individual project proposal template</a>
+<a href="/assets/acp-individual-project-proposal-guidelines_1-3.pdf">Individual project proposal template</a>
 
 When you’re ready, submit a proposal to Amherst College Press at acpress@amherst.edu
+
+If you are interested in proposing a series, please review our series proposal guidelines.
+
+
+
+<a href="/assets/amherst-series-proposal-template_new.pdf">Series proposal template</a>
 
 Have questions? Want guidance before proceeding with a proposal? Write to us at acpress@amherst.edu
 
