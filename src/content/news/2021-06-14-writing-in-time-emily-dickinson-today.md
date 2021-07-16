@@ -17,6 +17,6 @@ Werner’s analysis shows the power of this in between, that space which exists 
 
 \- *Angel Musyimi ('23)*
 
-To watch Marta Werner, Mike Kelly, and Jane Wald in conversation, please visit the following:[https://www.youtube.com/watch?​v=KcBXKbg0UhM](https://www.youtube.com/watch?v=KcBXKbg0UhM)
+To watch Marta Werner, Mike Kelly, and Jane Wald in conversation, please visit the following:[ https://www.youtube.com/watch?​v=KcBXKbg0UhM](https://www.youtube.com/watch?v=KcBXKbg0UhM)
 
 This event was generously sponsored by Amherst College Parent and Alumni Programs; our thanks to Kim Roeder, Alina Basilone, and Roberta Diehl.
