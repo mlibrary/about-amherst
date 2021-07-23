@@ -4,7 +4,7 @@ title: >-
   The Border of Lights Reader: Bearing Witness to Genocide in the Dominican
   Republic
 authorLastname: Myers
-author: Edited by Megan Jeannette Myers and Edward Paulino
+author: Edited by Megan Jeanette Myers and Edward Paulino
 cover: assets/9781943208265.jpg
 description: >-
   A multimodal, multi-vocal space for activists, artists, scholars, and others
