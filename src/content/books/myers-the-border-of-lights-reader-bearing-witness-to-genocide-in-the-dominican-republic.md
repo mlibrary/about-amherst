@@ -5,7 +5,7 @@ title: >-
   Republic
 authorLastname: Myers
 author: Edited by Megan Jeanette Myers and Edward Paulino
-cover: assets/9781943208272zoom.jpg
+cover: assets/9781943208265.jpg
 description: >-
   A multimodal, multi-vocal space for activists, artists, scholars, and others
   connected to the Border of Lights movement, this edited volume provides an
