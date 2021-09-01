@@ -23,16 +23,17 @@ The Editorial Board of the Amherst College Press is composed of faculty members 
 **Editorial Board members:**
 
 * Class of 2019: Leah Schmalzbauer, David Little, Vanessa Walker
-* Class of 2020: Martha Umphrey (chair), Hannah Holleman
+* Class of 2020: Martha Umphrey, Hannah Holleman
 * Class of 2021: Tariq Jaffer, Laure Katsaros 
-* Class of 2022: Jen Manion, Michael Kunichika 
+* Class of 2022: Jen Manion (chair), Michael Kunichika 
 * Class of 2023: Aneeka Henderson
+* Class of 2024: Kristin Bumiller, Chris Grobe, Paul Schroeder Rodriguez
 
 **Ex officio positions:**
 
 * Martin Garnar, Director, Frost Library, Amherst College
 * Darryl Harper, Director, Center for Humanistic Inquiry, Amherst College
-* David Little, Director, Mead Art Museum, Amherst College
+* Lisa Crossman, Curator of American Art and Arts of the Americas, Mead Art Museum, Amherst College
 
 <h2 id="operations">Operations Group</h2>
 
