@@ -26,6 +26,12 @@ We seek works that fit into either or both of these broad categories:
 
 ## Existing series
 
+#### *Electronic Communities of Making*
+
+*S*eries Editors: Anastasia Salter, University of Central Florida & Stuart Moulthrop, University of Wisconsin, Madison
+
+Electronic Communities of Making promotes thoughtful reflection on the communities and practices driving electronic creativity by publishing works that reach across electronic literature, game studies, and internet research to explore the intersection of theory, practice, and pedagogy. We particularly hope to encourage engagement with open-source tools that invite and encourage inclusive making: from established platforms for interactive fiction, to alternative games platforms redefining play, to artistic communities shaping procedural expression.
+
 #### *Law, Literature & Culture*
 
 *S*eries Editor: Austin Sarat, Amherst College
