@@ -84,7 +84,7 @@ As a process of independent and informed evaluation of both argument and origina
 
 <h2 id="discovery">Discovery and Reuse</h2>
 
-Amherst College Press Press titles are made available under Creative Commons (CC) licenses to maximize opportunities for reuse. The particular CC license chosen is up to the author. As well as being delivered [through the Fulcrum platform](https://www.fulcrum.org/amherst?locale=en), Amherst College Press titles are delivered to a range of book indexers, library discovery services, and platforms including JSTOR Open, Muse Open, Open Research Library, and OAPEN. [MARC records are available for free download under a CC0 license](https://umich.app.box.com/s/rj343wsgdseart0mg0jkmzij0afva7xh/folder/131458219189). See how Amherst College Press titles receive usage all over the world on the Readership Map.
+Amherst College Press Press titles are made available under Creative Commons (CC) licenses to maximize opportunities for reuse. The particular CC license chosen is up to the author. As well as being delivered [through the Fulcrum platform](https://www.fulcrum.org/amherst?locale=en), Amherst College Press titles are delivered to a range of book indexers, library discovery services, and platforms including JSTOR Open, Muse Open, Open Research Library, and OAPEN. [MARC records are available for free download under a CC0 license](https://ftp.fulcrum.org/Amherst_College_Press/). See how Amherst College Press titles receive usage all over the world on the Readership Map.
 
 <h2 id="historical-docs">Historical Documents</h2>
 
