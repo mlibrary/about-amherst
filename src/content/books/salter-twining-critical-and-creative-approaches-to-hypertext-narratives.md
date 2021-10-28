@@ -9,7 +9,7 @@ description: >-
   commentary on exemplary works, and discuss the technological and cultural
   background of Twine, a platform for building choice-driven stories without
   relying heavily on code.
-orderOnPage: 2
+orderOnPage: 0
 readLink: 'https://doi.org/10.3998/mpub.12255695'
 buyLink: >-
   https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781943208241&PRESS=amherst
