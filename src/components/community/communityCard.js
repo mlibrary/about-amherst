@@ -13,7 +13,7 @@ const CommunityCard = ({singleCommunity, cardStyle}) => {
           <div className="row no-gutters">
             <div className="col-md-8">
               <div className="card-body">
-                <h5 className="card-title">{title}</h5>
+                <h2 className="card-title">{title}</h2>
                 <p className="card-text">{summary}</p>
                 <p className="published"><small className="text-muted">Published {date}</small></p>
               </div>

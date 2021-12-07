@@ -57,6 +57,15 @@ $amherst-dark-grey: #505061;
 $amherst-light-grey: #9BA1A7;
 $amherst-black-80: #342f2e;
 
+:focus {
+  outline: 3px solid #00AFEC;
+  outline-offset: 0;
+  -webkit-transition: outline .05s ease-out;
+  -o-transition: outline .05s ease-out;
+  transition: outline .05s ease-out;
+}
+
+
 // links
 p {
   a {
@@ -232,7 +241,7 @@ p {
       line-height: 1.5;
     }
 
-    h4 {
+    time {
       font-size: .9em;
       margin-top: .2em !important;
     }
@@ -251,6 +260,12 @@ p {
   .card-image {
     max-height: 300px;
     overflow: hidden;
+  }
+}
+
+.event-card-container {
+  h3 {
+    font-size: 1.25rem;
   }
 }
 
@@ -368,6 +383,13 @@ p.social {
     a:first-of-type {
       padding-left: 0;
     }
+  }
+
+  .footer-head {
+    font-size: 1.25rem;
+    margin-top: 1.5rem;
+    margin-bottom: .5rem;
+    font-weight: 500;
   }
 
 }

@@ -9,7 +9,7 @@ const EventCard = ({event, cardStyle}) => {
         <li className="media my-4 event-card-container">
           <Link to={slug}>
           <div className="media-body">
-            <h5 className="mt-0 mb-1">{title}</h5>
+            <h3 className="mt-0 mb-1">{title}</h3>
             <p>{summary}</p>
           </div>
           </Link>

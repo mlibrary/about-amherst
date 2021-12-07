@@ -15,7 +15,7 @@ const News = ({data}) => {
           <div className="col-md-10">
             <h1 className="mb-3">{title}</h1>
             <div className="summary">
-              <h4 className="mt-4">{date}</h4>
+              <time className="mt-4">{date}</time>
               <p className="lead">{summary}</p>
             </div>
           </div>
