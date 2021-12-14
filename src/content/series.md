@@ -38,11 +38,15 @@ Series Editor: Austin Sarat, Amherst College
 
 Public Works seeks out and makes available the perspective of leading scholars in the humanities and humanistic social sciences on emergent questions that have long-term significance in our public conversations. Shorter than monographs, these works offer the freedom of long-form essays and the tools of digital media.
 
+<a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Public+Works&locale=en">Read Public Works</a>
+
 <h2 id="russian-travelogues"><cite>Russian Travelogues</cite></h2>
 
 Series Editor: Sergey Glebov, Smith College & Amherst College
 
 Russian Travelogues introduces to the English-speaking world narratives of exploration, travel, and conquest produced by representatives of the military, missionary, and scholarly communities in imperial Russia. “These travelogues represent a very helpful contribution to bringing the imperial turn into the classroom and broader scholarly discussion. They provide a revealing entree into problems of empire, difference, hierarchical relations, and other complexes of ideas and practices that characterized nineteenth-century approaches to rulership… at the same time, scholars working on that period of European imperial history will find their own avenue into a more broadly comparative approach” - David McDonald, University of Wisconsin, Madison
+
+<a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Russian+Travelogues&locale=en">Read Russian Travelogues</a>
 
 <h2 id="video-game-art-reader"><cite>Video Game Art Reader</cite></h2>
 
