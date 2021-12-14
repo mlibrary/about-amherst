@@ -50,4 +50,4 @@ Series Editor: Tiffany Funk, University of Illinois, Chicago & Video Game Art Ga
 
 The Video Game Art Reader (VGAR) is a peer-reviewed journal for video game audiences and video game practitioners interested in the history, theory, and criticism of video games, explored through the lens of art history and visual culture. We seek to advocate for video games as art and to create an inclusive, multivalent, diversified conversation about the past, present, and possible futures of video games. The Video Game Art Reader's editorial board comprises artists, scholars, and video game enthusiasts from cultural and educational institutions throughout the United States.
 
-<a class="btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Video+Game+Art+Reader&locale=en">Read the Video Game Art Reader</a>
+<a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Video+Game+Art+Reader&locale=en">Read the Video Game Art Reader</a>
