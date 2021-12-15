@@ -80,3 +80,4 @@ The following resources, accessible via Google Drive, are for authors preparing 
 * [Pre-Production Checklist](https://docs.google.com/document/d/12Zkv_aCeAsNi7RaRxhRxofWEJm3GzIKaKs9i_5Uc9pY/edit)
 * [Contributor's Agreement](https://docs.google.com/document/d/1Svqoo0-W3tKqlP-F8usmIrlIrc6l6kpUE2FTC0FX7-4/edit)
 * [Permissions Requests](https://docs.google.com/document/d/1mR4s0DOJrqIUo5kJepEUvnb38oT3_0LVXp8JCS4Qk4w/edit)
+* [Permissions Log](https://docs.google.com/spreadsheets/d/1m5hzxO1l-n4gF_j4e5BeIXwQl5_m4Mqf9U5yJEVr82I/edit?usp=sharing)
