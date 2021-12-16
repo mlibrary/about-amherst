@@ -29,3 +29,9 @@ III. How is the type of review signaled?
 > \[t]he system of scholarly publication must continue to include processes for evaluating the quality of scholarly work and every publication should provide the reader with information about evaluation the work has undergone.
 
 Amherst College Press is committed to providing readers with specific information about the nature of the peer review process for each of its published works. To that end, we specify the type of review used in the front matter of each of our publications—both online and in print—to signal in a clear, consistent way how each project has been reviewed.
+
+You can find our current reader report forms below. We undertook an iterative, collaborative process to create these forms, working with Amherst College Press interns to review, analyze, and synthesize current reader report forms from other university presses. We also sought to to engage in and incorporate anti-racist practices as articulated in this[ Anti-Racist Scholarly Reviewing Practices](https://docs.google.com/document/d/1lZmZqeNNnYfYgmTKSbL2ijYbR4OMovv6A-bDwJRnwx8/edit?usp=sharing).
+
+[ACP reader report form for proposals](https://docs.google.com/document/d/1qPhWyABNPNcDT_-V7tI8_gIyUeptHdFixrELk81FLFY/edit?usp=sharing)
+
+[ACP reader report form for full manuscripts](https://docs.google.com/document/d/1Pn1IV67WIyZkOiz3Nc-vulowq5bwCbjfyya5NBrh_Hg/edit?usp=sharing)
