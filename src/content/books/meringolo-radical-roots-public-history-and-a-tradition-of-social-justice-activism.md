@@ -11,7 +11,7 @@ description: >-
   record. It demonstrates the core practices that have shaped radical public
   history, how they have been mobilized to promote social justice, and how
   public historians can facilitate civic discourse in order to promote equality.
-orderOnPage: 2
+orderOnPage: 0
 readLink: 'https://doi.org/10.3998/mpub.12366495'
 buyLink: >-
   https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781943208203&PRESS=amherst
