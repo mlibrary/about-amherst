@@ -3,7 +3,7 @@ templateKey: book
 title: 'Netprov: Networked Improvised Literature for the Classroom and Beyond'
 authorLastname: Wittig
 author: Rob Wittig
-cover: assets/wittig_front.jpg
+cover: assets/wittig_front_border.jpg
 description: >-
   In this accessible history of Netprov, an emerging interdisciplinary digital
   art form that offers a literature-based “show” of insightful, healing satire
