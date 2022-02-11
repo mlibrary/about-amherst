@@ -10,7 +10,7 @@ description: >-
   and architectural design. Each of the essays in this volume engages in
   critical investigations that reveal how game spaces evoke meaning, enhance
   game narratives, and explore unconventional themes.
-orderOnPage: 1
+orderOnPage: 2
 readLink: 'https://doi.org/10.3998/mpub.12471295'
 buyLink: >-
   https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781943208425&PRESS=amherst
