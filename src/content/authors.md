@@ -8,7 +8,7 @@ Please consult our editorial program below to read about areas of particular int
 
 <a href="/assets/acp-individual-project-proposal-guidelines_1-3.pdf">Individual project proposal template</a>
 
-When you’re ready, submit a proposal to Amherst College Press at acpress@amherst.edu
+For guidance on proposing and developing edited collections, please see our [Edited Collections Information Sheet](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing). When you’re ready, submit a proposal to Amherst College Press at acpress@amherst.edu
 
 If you are interested in proposing a series, please review our series proposal guidelines.
 
@@ -83,4 +83,3 @@ The following resources, accessible via Google Drive, are for authors preparing 
 * [Contributor's Agreement](https://docs.google.com/document/d/1Svqoo0-W3tKqlP-F8usmIrlIrc6l6kpUE2FTC0FX7-4/edit)
 * [Permissions Requests](https://docs.google.com/document/d/1mR4s0DOJrqIUo5kJepEUvnb38oT3_0LVXp8JCS4Qk4w/edit)
 * [Permissions Log](https://docs.google.com/spreadsheets/d/1m5hzxO1l-n4gF_j4e5BeIXwQl5_m4Mqf9U5yJEVr82I/edit?usp=sharing)
-* [Edited Collections: Information for Editors](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing)
