@@ -75,6 +75,8 @@ The press publishes titles in Art History and Visual Studies, Latin American Stu
 The following resources, accessible via Google Drive, are for authors preparing their final manuscript materials for submission to production after they've been peer reviewed and approved. Please download these documents for your own use and reference.
 
 * [Author Guide and Final Manuscript Preparation Guidelines](https://docs.google.com/document/d/1R5nmG9-FS6X8yA6vMtkjTcjxZfHfHgg2HS4G4deYIKg/edit)
+
+  * [Edited Collections: Information for Editors](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing)
 * [Metadata Template](https://docs.google.com/spreadsheets/d/1ibNeACiXKZbk2MVNj4bpHoopqtt-7HyDxf7ana3SI_s/edit#gid=0)
 * [Amherst College Press Subvention Statement](https://docs.google.com/document/d/1s2PXqXTJ2qBEeD1ZRXMeBJy79pc6yrtsXTP-b2DstnM/edit?usp=sharing)
 * [Pre-Production Checklist](https://docs.google.com/document/d/12Zkv_aCeAsNi7RaRxhRxofWEJm3GzIKaKs9i_5Uc9pY/edit)
