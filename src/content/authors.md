@@ -8,15 +8,17 @@ Please consult our editorial program below to read about areas of particular int
 
 <a href="/assets/acp-individual-project-proposal-guidelines_1-3.pdf">Individual project proposal template</a>
 
-For guidance on proposing and developing edited collections, please see our [Edited Collections Information Sheet](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing). When you’re ready, submit a proposal to Amherst College Press at acpress@amherst.edu
+For guidance on proposing and developing edited collections, please see our [Edited Collections Information Sheet](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing). 
+
+When you’re ready, submit a proposal to Amherst College Press at acpress@amherst.edu
 
 If you are interested in proposing a series, please review our series proposal guidelines.
 
 <a href="/assets/amherst-series-proposal-template_new.pdf">Series proposal template</a>
 
-Have questions? Want guidance before proceeding with a proposal? Write to us at acpress@amherst.edu
+Have questions? Write to us at acpress@amherst.edu
 
-You can find more information about scholarly publishing at [Ask UP](https://ask.up.hcommons.org/), a website maintained by the Association of University Presses that answers "basic and not-so-basic questions about how to publish and promote scholarship."
+You can also find more useful information about scholarly publishing at [Ask UP](https://ask.up.hcommons.org/), a website maintained by the Association of University Presses that answers "basic and not-so-basic questions about how to publish and promote scholarship."
 
 ## The Amherst College Press Editorial Program
 
