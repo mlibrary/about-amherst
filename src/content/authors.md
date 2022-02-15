@@ -16,6 +16,8 @@ If you are interested in proposing a series, please review our series proposal g
 
 Have questions? Want guidance before proceeding with a proposal? Write to us at acpress@amherst.edu
 
+You can find more information about scholarly publishing at [Ask UP](https://ask.up.hcommons.org/), a website maintained by the Association of University Presses that answers "basic and not-so-basic questions about how to publish and promote scholarship."
+
 ## The Amherst College Press Editorial Program
 
 We seek works that fit into either or both of these broad categories:
