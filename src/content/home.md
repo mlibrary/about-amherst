@@ -18,7 +18,7 @@ fundraiserSection:
   url: 'https://engage.amherst.edu/give/library'
 catalogSection:
   heading: Amherst College Press Seasonal Catalog
-  catalogImage: assets/22-catalog_printcover.jpg
+  catalogImage: /assets/22-catalog_printcover.jpg
   catalogPdf: >-
     <a class="btn btn-secondary" href="/assets/acp-catalog_web.pdf">Explore our
     Catalog</a>
