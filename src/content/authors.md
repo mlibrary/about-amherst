@@ -70,6 +70,12 @@ Series Editor: Sergey Glebov, Smith College & Amherst College
 
 Russian Travelogues introduces to the English-speaking world narratives of exploration, travel, and conquest produced by representatives of the military, missionary, and scholarly communities in imperial Russia. “These travelogues represent a very helpful contribution to bringing the imperial turn into the classroom and broader scholarly discussion. They provide a revealing entree into problems of empire, difference, hierarchical relations, and other complexes of ideas and practices that characterized nineteenth-century approaches to rulership… at the same time, scholars working on that period of European imperial history will find their own avenue into a more broadly comparative approach” - David McDonald, University of Wisconsin, Madison
 
+#### *Video Game Art Reader*
+
+Series Editor: Tiffany Funk, University of Illinois, Chicago & Video Game Art Gallery; Managing Editor: Michael Reed, Video Game Art Gallery
+
+The Video Game Art Reader (VGAR) is a peer-reviewed annual series for video game audiences and video game practitioners interested in the history, theory, and criticism of video games, explored through the lens of art history and visual culture. We seek to advocate for video games as art and to create an inclusive, multivalent, diversified conversation about the past, present, and possible futures of video games. The Video Game Art Reader's editorial board comprises artists, scholars, and video game enthusiasts from cultural and educational institutions throughout the United States.
+
 ## Areas of Interest
 
 The press publishes titles in Art History and Visual Studies, Latin American Studies, Literary Studies, Music, and Russian, East European, and Eurasian Studies with a deep interest in interdisciplinary scholarship.
