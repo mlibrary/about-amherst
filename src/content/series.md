@@ -48,9 +48,13 @@ Russian Travelogues introduces to the English-speaking world narratives of explo
 
 <a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Russian+Travelogues&locale=en">Read Russian Travelogues</a>
 
+<h2 id="vera-list-center-for-art-and-politics"><cite>Vera List Center for Art and Politics</cite></h2>
+
+The Vera List Center for Art and Politics is a research center and a public forum for public scholarship on art, culture, and politics. Their publishing partnership with ACP will further each institution’s commitment to advancing the understanding of the intersection of art and politics and center exciting contemporary publishing on art and politics in an international discourse. All titles will be available in print and as open access works.
+
 <h2 id="video-game-art-reader"><cite>Video Game Art Reader</cite></h2>
 
-Series Editor: Tiffany Funk, University of Illinois, Chicago & Video Game Art Gallery; Managing Editor: Michael Reed, Video Game Art Gallery
+Series Editors: University of Illinois, Chicago & Video Game Art Gallery; Managing Editor: Michael Reed, Video Game Art Gallery
 
 The Video Game Art Reader (VGAR) is a peer-reviewed annual series for video game audiences and video game practitioners interested in the history, theory, and criticism of video games, explored through the lens of art history and visual culture. We seek to advocate for video games as art and to create an inclusive, multivalent, diversified conversation about the past, present, and possible futures of video games. The Video Game Art Reader's editorial board comprises artists, scholars, and video game enthusiasts from cultural and educational institutions throughout the United States.
 
