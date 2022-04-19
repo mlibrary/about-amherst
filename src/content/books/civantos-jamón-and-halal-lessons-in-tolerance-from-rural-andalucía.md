@@ -3,7 +3,7 @@ templateKey: book
 title: 'Jamón and Halal: Lessons in Tolerance from Rural Andalucía'
 authorLastname: Civantos
 author: Christina Civantos
-cover: assets/jamón-and-halal-ad.jpg
+cover: assets/9781943208364-1-.jpg
 description: >-
   Contemporary Spain reflects broader patterns of globalization and has been the
   site of tensions between nationalists and immigrants. This case study examines
