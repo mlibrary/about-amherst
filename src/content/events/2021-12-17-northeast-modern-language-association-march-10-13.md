@@ -1,7 +1,7 @@
 ---
 templateKey: event
-title: 'Northeast Modern Language Association, March 10-13'
-summary: ACP will be at NeMLA 2022
+title: 'American Comparative Literature Association, June 15-18'
+summary: ACP will be virtual ACLA's 2022 annual meeting
 date: 2021-12-17T14:35:32.116Z
 ---
-Amherst College Press will be in attendance at this year's NeMLA in Baltimore. Send an email to connect with us, stop by our booth, or attend our publishing workshop.
+Amherst College Press will be online for this year's ACLA. Reach out if you'd like to connect about a potential project or with questions about open access.
