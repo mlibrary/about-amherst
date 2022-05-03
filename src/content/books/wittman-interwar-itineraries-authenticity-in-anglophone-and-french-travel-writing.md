@@ -5,9 +5,10 @@ authorLastname: Wittman
 author: Emily O. Wittman
 cover: assets/wittman_front.jpg
 description: >-
-  Emily O. Wittman identifies a diverse group of writers from two languages who
-  embarked on such quests. For these writers, authenticity was achieved through
-  rugged adventure abroad to economically poorer destinations.
+  Using translation theory and new approaches in travel studies and global
+  modernisms, Wittman links and complicates the symbolic and rhetorical
+  strategies of a diverse group of writers from two languages who embarked on
+  the search for new places and “authentic” experiences.
 orderOnPage: 1
 readLink: 'https://doi.org/10.3998/mpub.12404656'
 buyLink: >-
