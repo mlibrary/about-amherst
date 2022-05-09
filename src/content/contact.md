@@ -18,6 +18,6 @@ Beth acquires a wide range of subjects including Latin American Studies, Musicol
 
 Email: hbrooksmotl@amherst.edu
 
-Hannah acquires for ACP's Art History, Literary Studies, Visual Studies, and Russian, East European, and Eurasian Studies lists.
+Hannah acquires for ACP's Art History, Literary Studies, Visual and Media Studies, and Russian, East European, and Eurasian Studies lists.
 
 <div class="ctct-inline-form" data-form-id="e216dee7-7292-46ad-8706-34aa5ef2aacf"></div>
