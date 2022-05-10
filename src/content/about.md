@@ -43,6 +43,7 @@ The Amherst College Press Operations Group is essentially the production backbon
 * Hannah Brooks-Motl, Assistant Acquisitions Editor, Amherst College Press 
 * Jason Colman, Director, Michigan Publishing Services
 * Amanda Karby, Senior Digital Publishing Coordinator, Michigan Publishing Services
+* Jeremy Morse, Director of Publishing Technology, Michigan Publishing Services
 
 <h2 id="values">Our Values</h2>
 
