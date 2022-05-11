@@ -54,7 +54,9 @@ The Vera List Center for Art and Politics is a research center and a public foru
 
 <h2 id="video-game-art-reader"><cite>Video Game Art Reader</cite></h2>
 
-Series Editors: University of Illinois, Chicago & Video Game Art Gallery; Managing Editor: Michael Reed, Video Game Art Gallery
+Series Editor: Tiffany Funk, University of Illinois, Chicago & Video Game Art Gallery
+
+Editorial Board: James Conley, Loyola University Chicago; Kishonna Gray, University of Kentucky; Reem Hilu, Washington University St. Louis; Carly Kocurek, Illinois Institute of Technology; Stephan Moore, Northwestern University; Whitney Pow, New York University; Joyce Rudinsky, University of North Carolina at Chapel Hill; Maureen Ryan, University of South Carolina; Victoria Szabo, Duke University; Chris Totten, Kent State University; Kelli Wood, University of Tennesee Knoxville
 
 The Video Game Art Reader (VGAR) is a peer-reviewed annual series for video game audiences and video game practitioners interested in the history, theory, and criticism of video games, explored through the lens of art history and visual culture. We seek to advocate for video games as art and to create an inclusive, multivalent, diversified conversation about the past, present, and possible futures of video games. The Video Game Art Reader's editorial board comprises artists, scholars, and video game enthusiasts from cultural and educational institutions throughout the United States.
 
