@@ -1,8 +1,6 @@
 ---
 templateKey: book
-title: >-
-  Studies into Darkness: Artists and Activists on the Perils and Promises of
-  Freedom of Speech
+title: 'Studies into Darkness: The Perils and Promise of Freedom of Speech'
 authorLastname: Kuoni
 author: Edited by Carin Kuoni and Laura Raicovich
 cover: assets/studies_front.jpg
