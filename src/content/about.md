@@ -40,7 +40,7 @@ The Editorial Board of the Amherst College Press is composed of faculty members 
 The Amherst College Press Operations Group is essentially the production backbone of Amherst College Press. It consists of staff at Amherst College Press and Michigan Publishing with a key role in acquiring, developing, and producing ACP titles, or in the administration of this initiative. The current Operations Group consists of:
 
 * Beth Bouloukos, Director, Amherst College Press 
-* Hannah Brooks-Motl, Assistant Acquisitions Editor, Amherst College Press 
+* Hannah Brooks-Motl, Acquisitions Editor, Amherst College Press 
 * Jason Colman, Director, Michigan Publishing Services
 * Amanda Karby, Senior Digital Publishing Coordinator, Michigan Publishing Services
 * Jeremy Morse, Director of Publishing Technology, Michigan Publishing Services
