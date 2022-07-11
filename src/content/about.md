@@ -27,9 +27,10 @@ The Editorial Board of the Amherst College Press is composed of faculty members 
 * Class of 2019: Leah Schmalzbauer, David Little, Vanessa Walker
 * Class of 2020: Martha Umphrey, Hannah Holleman
 * Class of 2021: Tariq Jaffer, Laure Katsaros 
-* Class of 2022: Jen Manion (chair), Michael Kunichika 
+* Class of 2022: Jen Manion, Michael Kunichika 
 * Class of 2023: Aneeka Henderson
-* Class of 2024: Kristin Bumiller, Chris Grobe, Paul Schroeder Rodriguez
+* Class of 2024: Kristin Bumiller, Chris Grobe (chair), Paul Schroeder Rodriguez
+* Class of 2025: Pawan Dhingra, Pooja Rangan
 
 **Ex officio positions:**
 
