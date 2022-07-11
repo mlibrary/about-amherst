@@ -52,6 +52,8 @@ Russian Travelogues introduces to the English-speaking world narratives of explo
 
 The Vera List Center for Art and Politics is a research center and a public forum for public scholarship on art, culture, and politics. Their publishing partnership with ACP will further each institution’s commitment to advancing the understanding of the intersection of art and politics and center exciting contemporary publishing on art and politics in an international discourse. All titles will be available in print and as open access works.
 
+<a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Vera+List+Center+for+Art+and+Politics&locale=en">Vera List Center for Art and Politics</a>
+
 <h2 id="video-game-art-reader"><cite>Video Game Art Reader</cite></h2>
 
 Series Editor: Tiffany Funk, University of Illinois, Chicago & Video Game Art Gallery
