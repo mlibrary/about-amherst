@@ -6,6 +6,8 @@ title: About Amherst College Press
 <li><a href="#editorial">Editorial Board</a></li>
 <li><a href="#operations">Operations Group</a></li>
 <li><a href="#values">Our Values</a></li><li><a href="#dei-statement">Statement on Diversity, Equity, and Inclusion</a></li>
+<li><a href="#accessibility">Statement on Accessibility</a></li>
+
 <li><a href="#commitments">Our Commitments</a></li>
 <li><a href="#peerreview">Peer Review</a></li>
 <li><a href="#discovery">Discovery and Reuse</a></li>
@@ -65,6 +67,12 @@ As a small open-access press based at Amherst College, we seek to offer a differ
 * Maintaining the mission of open access, including the removal of price and permissions barriers to readers, authors, and institutions.
 * Developing and sustaining an internship program for Amherst College undergraduates in the hopes of creating pipeline opportunities for those who have been historically underrepresented in the publishing industry.
 * Taking part in ongoing trainings and workshops led by the Office of Diversity, Equity, and Inclusion at Amherst College; participating in the work of the Frost Library DEI committee.
+
+<h2 id="accessibility">Statement on Accessibility</h2>
+
+Amherst College Press strives to ensure our books and their associated media and resources are available and accessible to anyone who wants to read or use them. As an open access press, we also seek to eliminate some historic barriers to publishing, particularly for those who are first-time authors or who lack institutional support: we charge no fees (commonly called “book processing charges”) to authors or their institutions to publish OA; we make resources available that guide authors through the publication process on our website; we communicate to readers the type of peer review each project underwent in a transparent fashion. We also utilize [Creative Commons licensing](https://creativecommons.org/licenses/) to ensure our titles can be easily and fairly cited and reused.
+
+We understand that there are many ways to do and read scholarship, which is why we partner with Fulcrum, a platform that makes accessibility a core value and design component. Read more about the ways Fulcrum is developing the platform and its content to be inclusive, accessible, and[ usable for all readers here](https://www.fulcrum.org/accessibility/).
 
 <h2 id="commitments">Our Commitments</h2>
 
