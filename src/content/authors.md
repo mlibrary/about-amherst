@@ -6,7 +6,7 @@ title: Publish With Us
 
 Please consult our editorial program below to read about areas of particular interest to our editors. See our individual project proposal template to get a sense of what we look for when considering projects.
 
-<a href="/assets/acp-individual-project-proposal-guidelines_1-3.pdf">Individual project proposal template</a>
+<a href="/assets/acp-individual-project-proposal-guidelines_new.pdf">Individual project proposal template</a>
 
 For guidance on proposing and developing edited collections, please see our [Edited Collections Information Sheet](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing). 
 
