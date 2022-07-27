@@ -6,7 +6,7 @@ Amherst College Press is relatively unique among university presses for being si
 
 We are committed to developing and sustaining an internship program for Amherst College undergraduates in the particular hopes of creating pipeline opportunities for those who have been historically underrepresented in the publishing industry. On this page you can find resources connected to our internship program, including a [working syllabus](https://docs.google.com/document/d/1FQuncoinqADp7R0MyIiIS0LV2RmwoXX_EBJUD-VBa0g/edit?usp=sharing) with links to articles and resources we're using to introduce undergrads to workflows, topics, and issues in scholarly communications.
 
-<a href="/assets/acp-intern-guide-2021.pdf">Amherst College Press Intern Guide</a>
+<a href="/assets/2022-acp-intern-guide.pdf">Amherst College Press Intern Guide</a>
 
 <a href="/assets/future-intern-letter.pdf">Letter from a Former Intern to Future Interns</a>
 
