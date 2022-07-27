@@ -1,7 +1,7 @@
 ---
 templateKey: event
-title: 'The Association for the Study of Law, Culture, and the Humanities, June 16-17'
-summary: Stop by ACP's table at the 2022 LCH Conference in Atlanta
+title: 'The Association for the Study of the Arts of the Present, September 15-17'
+summary: Stop by ACP's table at ASAP 2022 in LA
 date: 2022-04-20T17:26:01.729Z
 ---
-ACP will have a table with information and swag at this year's LCH Conference at Emory University School of Law; send us an email if you'd like to connect before or after the conference.
+ACP will have a table with books, information, swag, and people at this year's ASAP at UCLA; send us an email if you'd like to connect before, during, or after the conference!
