@@ -31,7 +31,7 @@ if (process.env.BRANCH === "preview") {
         name: 'gitlab',
         repo: 'michigan-publishing/about-amherstpress',
         branch: 'master',
-        auth_type: 'implicit',
+        auth_type: 'pkce',
         app_id: '545ebea7edb9c3563a9d704ced042c0c173a3c034183e1122bb46659d6682fb9',
         api_root: 'https://gitlab.umich.edu/api/v4',
         base_url: 'https://gitlab.umich.edu',
