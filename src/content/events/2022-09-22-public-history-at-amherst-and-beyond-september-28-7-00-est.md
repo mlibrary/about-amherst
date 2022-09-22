@@ -1,0 +1,10 @@
+---
+templateKey: event
+title: Public History at Amherst and Beyond, September 28, 7:00 EST
+summary: Join us for this free online event about the radical roots of public
+  history and work being done at Amherst Museums
+date: 2022-09-22T18:03:44.793Z
+---
+In 2021, Amherst College Press published Denise Meringolo’s field-defining collection *Radical Roots: Public History and a Tradition of Social Justice Activism*. While all history has the potential to be political, public history is uniquely so: public historians engage in historical inquiry outside the bubble of scholarly discourse. Many see their work as future-focused, committed to the advancement of social justice, and engaged in creating a more inclusive public record. Join *[Radical Roots: Public History and a Tradition of Social Justice Activism](https://www.fulcrum.org/concern/monographs/rf55z988p)* editor **Denise Meringolo** in conversation with **Emily Potter-Ndiaye**, Dwightand Kirsten Poler and Andrew W. Mellon Head of Education and Curator of Academic Programs at the Mead Art Museum, and **Hayley Singleton Hyde**, Head of Collections and Operations at the Beneski Museum of Natural History, about what it means to do public history at Amherst College and beyond.
+
+Presenters will lay out the “radical roots” of public history and its deep connections to social justice and change as well as what public history means to landmark Amherst institutions such as the Mead and Beneski. **Lloyd Barba**, assistant professor of Religion and Latinx and Latin American Studies at Amherst College, will moderate. Learn about the urgency of this work and the role that institutions like Amherst play in furthering public history’s community-centered potential. Audience Q&A to follow. [Link to register](https://www.amherst.edu/alumni/connect/regional/node/853515?destination=mm/498%3Fmm_calendar%3Dlist/2022-W40)
