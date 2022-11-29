@@ -42,11 +42,9 @@ On Wednesday, October 26 ACP co-hosted its annual CHI Salon discussion in honor 
 
 Overall, Open Access Week was a smashing success–thank you to everyone who made it so! 
 
-
-
 BIOS:
 
-Katie Mc’Intyre (‘23)
+Katie McMaye (‘23)
 
 Katie is a senior English and Psychology double major from California. Over her years here at Amherst, she has deepened her love for creative writing and literature. On a typical day, you might find her listening to some form of indie music, watching Youtube video essays on the most obscure topics, or goofing off–I mean, studying–with friends in Frost. 
 
