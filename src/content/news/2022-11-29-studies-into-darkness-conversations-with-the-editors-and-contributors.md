@@ -1,7 +1,7 @@
 ---
 templateKey: news
-title: "Studies into Darkness: Conversations with the Editors and Contributors"
-summary: Read and watch interviews with editors and contributors of the first
+title: "Studies into Darkness: Editors and Artists in Conversations"
+summary: New interviews with editors and artists explore ACP's first
   co-published volume with the Vera List Center
 date: 2022-11-29T18:51:27.690Z
 ---
