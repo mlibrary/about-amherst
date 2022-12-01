@@ -24,7 +24,7 @@ But it wasn’t Halloween quite yet, so they weren’t getting the treats that e
 
  For the question shown below, we had people put candy corn in the jar that was in front of what they guessed the answer was. The question was: “What percentage of Frost’s budget goes to subscriptions? A. 10-40%, B. 41-70%, or C. 71-100%?” Can you guess which option was correct?
 
-![A tri-fold poster with the words What Percentage of Frosts Budget Goes to Subscriptions in an orange circle sits on a purple table with a bowl of candy corn and candy in front of it.](assets/candy-corn-trivia.jpg)
+![A tri-fold poster with the words What Percentage of Frosts Budget Goes to Subscriptions in an orange circle sits on a purple table with a bowl of candy corn and candy in front of it.](assets/candy-corn-trivia-1-.jpeg)
 
 Answer: it’s C.--a whopping 75% of Frost’s budget goes to subscriptions.
 
