@@ -6,7 +6,7 @@ date: 2022-11-29T14:58:28.762Z
 ---
 It’s that time of year again! The last week of October had students buzzing with anticipation for a very special, once-a-year occurrence. Can you guess what it was? Hint: it’s associated with the color orange. No, it wasn’t Halloween–it was International Open Access Week! 
 
-![An Asian woman in white top and black pants holds posters in front of Robert Frost Library. A banner with the words Open Access Week hangs behind her.](assets/oa-week.jpg)
+![An Asian woman in white top and black pants holds posters in front of Robert Frost Library. A banner with the words Open Access Week hangs behind her.](assets/oa-week_40_med.jpg)
 
 This is a week dedicated to informing people about new, more accessible ways of sharing knowledge and scholarship. Take a look at how we celebrated OA Week here at Amherst College Press.
 
