@@ -14,7 +14,7 @@ This is a week dedicated to informing people about new, more accessible ways of 
 
 The theme for this year’s OA Week was “Open for Climate Justice.” In honor of the theme, we set up a table in the Science Center to lure stressed-out STEM students with Halloween candy and cookies as they rushed from class to class. 
 
-![Candy and posters decorated with lettering and image cutouts sit on a table with a purple tablecloth and the words Amherst College Science Center on it. A Black woman and an Asian woman wearing masks stand people stand behind it.](assets/sci-center.jpg)
+![Candy and posters decorated with lettering and image cutouts sit on a table with a purple tablecloth and the words Amherst College Science Center on it. A Black woman and an Asian woman wearing masks stand people stand behind it.](assets/sci-center_orig.jpg)
 
 But it wasn’t Halloween quite yet, so they weren’t getting the treats that easily. First, they had to answer one of five trivia questions associated with OA week, like these ones shown in the photo above:
 
@@ -24,7 +24,7 @@ But it wasn’t Halloween quite yet, so they weren’t getting the treats that e
 
  For the question shown below, we had people put candy corn in the jar that was in front of what they guessed the answer was. The question was: “What percentage of Frost’s budget goes to subscriptions? A. 10-40%, B. 41-70%, or C. 71-100%?” Can you guess which option was correct?
 
-![A tri-fold poster with the words What Percentage of Frosts Budget Goes to Subscriptions in an orange circle sits on a purple table with a bowl of candy corn and candy in front of it.](assets/candy-corn-trivia-1-.jpeg)
+![A tri-fold poster with the words What Percentage of Frosts Budget Goes to Subscriptions in an orange circle sits on a purple table with a bowl of candy corn and candy in front of it.](assets/candy-corn-trivia_orig.jpg)
 
 Answer: it’s C.--a whopping 75% of Frost’s budget goes to subscriptions.
 
@@ -34,7 +34,7 @@ All in all, we had a great time talking to everyone who stopped by the table and
 
 Leading up to the main event in the Science Center, we also set up a book display in Frost. For two weeks starting on October 20, we highlighted some open access books that were published by Amherst College Press. We chose to display 13 of our newest books, featuring works like Radical Roots: Public History and A Tradition of Social Justice Activism edited by Denise D. Meringolo, and Jamon and Halal: Lessons in Tolerance from Rural Andalucia by Christina Civantos. We think it turned out beautifully! And we wanted to say a big thank you to Frost librarian Blake Doherty – we couldn’t have set up this book display without you.
 
-![Books in stands and two posters with the words Amherst College Press sit on a table in front of stairs. ](assets/book-display.jpg)
+![Books in stands and two posters with the words Amherst College Press sit on a table in front of stairs. ](assets/book-display_orig.jpg)
 
 **CHI Salon Talk** 
 
