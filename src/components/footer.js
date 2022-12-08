@@ -35,8 +35,8 @@ const Footer = () => {
           <div className="col-md-3">
             <div className="footer-head abril">Our Partners</div>
             <ul className="list-unstyled text-small">
-              <li><a href="https://leverpress.org/" className="text-light">Lever Press</a></li>
-              <li><a href="http://www.oberlingroup.org/" className="text-light">Oberlin Group</a></li>
+              <li><a href="https://www.veralistcenter.org/" className="text-light">Vera List Center</a></li>
+              <li><a href="https://vgagallery.org/" className="text-light">Video Game Art Gallery</a></li>
               <li><a href="https://www.publishing.umich.edu" className="text-light">Michigan Publishing</a></li>
             </ul>
           </div>
