@@ -14,6 +14,8 @@ We are committed to developing and sustaining an internship program for Amherst 
 
 Current and former ACP interns:
 
+2022-23 academic year interns: Katie McMaye ('23); Evelyn Chi ('25)
+
 2021-22 academic year interns: Liz Tran (‘23); Priscilla Lee (‘25)
 
 2021 Greg Call summer intern: Angel Musyimi (‘23)
