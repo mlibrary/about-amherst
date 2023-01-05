@@ -4,6 +4,14 @@ title: Series
 ---
 Interested in submitting a proposal to one of our existing series? Please send inquires to acpress@amherst.edu
 
+<h2 id="acp-records"><cite>ACP Records</cite></h2>
+
+Series Editor: Darryl Harper, Amherst College
+
+Editors: Reginar Carter, Violinist & MacArthur Fellow; Xavier Davis, Michigan State University; Tom Welsh, Managing Director, Big Ears Festival
+
+ACP Records is an academic record label focusing on new jazz recordings. In music today, the means of production are increasingly accessible yet distribution has become tightly controlled by a few actors. ACP Records employs the structure of open access scholarly publishing to rectify the music industry’s neglect of “new knowledge” by utilizing digital formats, peer review as a collaborative process, and limited distribution rights associated with Creative Commons licensing. The series models a commitment to the liberal arts by cultivating discovery through analysis, interpretation, and connecting ideas across disciplines.
+
 <h2 id="electronic-communities-of-making"><cite>Electronic Communities of Making</cite></h2>
 
 Series Editors: Anastasia Salter, University of Central Florida & Stuart Moulthrop, University of Wisconsin, Madison
@@ -19,14 +27,6 @@ Editorial Board: Peter Brooks, Princeton University; Susan Sage Heinzelman, Univ
 Law and literature have for millennia been closely allied as means of persuasion and the creation of cultural norms. This series sets law, literature, and culture in new dialogues, exploring the textual dimensions and cultural work of law and the legal frameworks of literature. We seek work that brings literary, legal, and/or cultural analysis together to explore specific social and political problems and that attends carefully to historical contexts and issues. Of particular interest are works that define and argue a thesis drawing on both textual and non-textual sources for which a multimodal, digital presentation offers unique expressive power.
 
 <a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Law%2C+Literature+%26+Culture&locale=en">Read Law, Literature & Culture</a>
-
-<h2 id="mammoth-records"><cite>Mammoth Records</cite></h2>
-
-Series Editor: Darryl Harper, Amherst College
-
-Editors: Reginar Carter, Violinist & MacArthur Fellow; Xavier Davis, Michigan State University; Tom Welsh, Managing Director, Big Ears Festival
-
-Mammoth Records is an academic record label focusing on new jazz recordings. In music today, the means of production are increasingly accessible yet distribution has become tightly controlled by a few actors. Mammoth Records employs the structure of open access scholarly publishing to rectify the music industry’s neglect of “new knowledge” by utilizing digital formats, peer review as a collaborative process, and limited distribution rights associated with Creative Commons licensing. The series models a commitment to the liberal arts by cultivating discovery through analysis, interpretation, and connecting ideas across disciplines.
 
 <h2 id="Music & Material Encounters"><cite>Music & Material Encounters</cite></h2>
 
