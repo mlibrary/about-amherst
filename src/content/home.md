@@ -15,7 +15,7 @@ fundraiserSection:
   heading: Support Amherst College Press
   url: https://engage.amherst.edu/give/library
 catalogSection:
-  heading: Amherst College Press Seasonal Catalog
+  heading: Amherst College Press Catalog
   catalogImage: assets/2023_acp-catalog_cover.jpg
   catalogPdf: >-
     <a href="">undefined</a>
