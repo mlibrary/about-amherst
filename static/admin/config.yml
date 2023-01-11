@@ -152,3 +152,10 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
           - { name: title, label: Contact }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/community.md"
+        name: "community page"
+        label: "Community Page"
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: community-page }
+          - { name: title, label: Community }
+          - { name: body, label: Body, widget: markdown }

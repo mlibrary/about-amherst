@@ -2,10 +2,12 @@ import React from "react"
 import {graphql} from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
+import Title from '../components/title'
 import CommunityList from "../components/community/communityList"
 
 const Community = ({data}) => {
-  const community = data.allMarkdownRemark.edges
+  const heading = data.heading
+  const community = data.communities.edges
 
   return (
     <Layout>
@@ -21,10 +23,8 @@ const Community = ({data}) => {
         </div>
         <div className="row">
           <div className="col-md-12">
-          <h1>Amherst College Campus &amp; Community</h1>
-            <p>Amherst College Press is proud to participate in the life and community at Amherst College and beyond. We are particularly invested in raising awareness about open access and working towards more inclusive scholarly publishing practices. And we are always eager to partner with organizations, community groups, and colleagues at other academic and public libraries. <a href="/contact">Reach out to us</a> if you would like to learn more about open access humanities book publishing, to request a publishing workshop on your campus, or to simply say hi.</p>
-            <p>As one of the only university presses based at a liberal arts college, Amherst College Press is committed to developing opportunities for Amherst College undergraduates to become involved in the work of the press. Read more about the <a href="/internships">Amherst College Press internship program here</a>.</p>
-            <p>Below you'll find resources created by our interns, including blog posts, book lists, author interviews, and more.</p>
+          <Title title={heading.frontmatter.title} />
+          <div dangerouslySetInnerHTML={{ __html: heading.html }} />
           </div>
         </div>
         <div className="row justify-content-md-center">
@@ -38,8 +38,14 @@ const Community = ({data}) => {
 }
 
 export const query = graphql`
-{
-  allMarkdownRemark (
+query {
+  heading: markdownRemark(frontmatter: { templateKey: { eq: "community-page" } }) {
+    html
+    frontmatter{
+      title
+    }
+  },
+  communities: allMarkdownRemark (
     filter: {
       frontmatter: { templateKey: { eq: "community" } }
     },

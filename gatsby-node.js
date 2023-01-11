@@ -30,9 +30,12 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   // Filter out books, we don't make pages for those
   // Also the home-page, or index.js. It just has pieces of content,
   // not a generated page.
+  // FULCRUMOPS-290 also community is different, not a generated "page" but more like index.js 
+  // mostly just because of historical reasons
   pages = results.data.allMarkdownRemark.edges.filter(edge => {
     if (edge.node.frontmatter.templateKey === "book" ||
-        edge.node.frontmatter.templateKey === "home-page") {
+        edge.node.frontmatter.templateKey === "home-page" ||
+        edge.node.frontmatter.templateKey === "community-page") {
       return false
     } else {
       return edge
