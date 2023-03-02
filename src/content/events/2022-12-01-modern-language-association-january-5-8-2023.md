@@ -1,7 +1,7 @@
 ---
 templateKey: event
-title: "Modern Language Association: January 5-8, 2023"
-summary: ACP will be attending this year's MLA in San Francisco
+title: "Northeast Modern Language Association: March 23-26, 2023"
+summary: ACP will be virtual at this year's NeMLA
 date: 2022-12-01T19:08:56.010Z
 ---
-Editors will be on-site for this year's MLA in San Francisco as well as scheduling meetings online. If you have a project that might be a fit for us, don't hesitate to reach out for a meeting in person at the conference or virtually before or after.
+ACP will have a virtual booth at this year's NeMLA. If you have a project that might be a fit for us, don't hesitate to reach out for a meeting, either before or after the conference.
