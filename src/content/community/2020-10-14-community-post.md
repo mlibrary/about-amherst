@@ -1,9 +1,8 @@
 ---
 templateKey: community
 title: Bootleg Beowulf and Pirated Proust
-summary: >-
-  ACP's spring 2020 intern, Jaclyn Chetty ('20), on Why Internet Archive’s Open
-  Library Isn’t All It's Cracked Up To Be 
+summary: "ACP's spring 2020 intern, Jaclyn Chetty ('20), on Why Internet
+  Archive’s Open Library Isn’t All It's Cracked Up To Be "
 date: 2020-10-14T01:06:03.352Z
 ---
 It is news to nobody that COVID-19’s effects have been far-reaching.[ Libraries are feeling the pressure](https://www.nytimes.com/2020/05/28/opinion/libraries-coronavirus.html) to find new ways to provide access to patrons. Yet, one library in particular is causing a stir in the publishing world - the Internet Archive’s Open Library is removing its waitlists and giving free and unlimited access to all e-books on its site.
@@ -22,9 +21,6 @@ So why should we care? Despite all the good that the Internet Archive has done i
 
 The point is although many readers are tempted by the vastness of the Internet Archive’s Emergency Library, OA publishers have a similarly wide array of titles available online, free of charge, all year round. The Emergency Library, on the other hand, is set to end its unlimited access two weeks earlier than projected due to the copyright lawsuit against the Internet Archive. OA’s mission to provide access to literature and scholarly work to the masses is one that has existed long before the global pandemic began, and is one that was built with a sustainable, legal model free of copyright infringement and therefore able to stand the test of time -- and lawsuits. It is important that we support Open Access efforts now, so that when the next pandemic hits, OA publishers are well-established and well-equipped to serve its readers and scholars alike.
 
-Jaclyn Chetty\
-Class of 2020\
-\
-BIO:
 
-Jaclyn graduated from Amherst College this past spring, double-majoring in English and Educational Policy & Research. Her time as a Student Assistant at Amherst College Press blends her love for her literature with her passion for universal access to education. Her senior thesis melds post-colonial studies, ethnography and Fijian talanoa research to explore the effects of parental involvement in her own parents’ K12 education. Outside of this, she enjoys being in the kitchen and spending time with her cat, Jacinda!
+
+*Jaclyn Chetty ('20) graduated from Amherst College this past spring, double-majoring in English and Educational Policy & Research. Her time as a Student Assistant at Amherst College Press blends her love for her literature with her passion for universal access to education. Her senior thesis melds post-colonial studies, ethnography and Fijian talanoa research to explore the effects of parental involvement in her own parents’ K12 education. Outside of this, she enjoys being in the kitchen and spending time with her cat, Jacinda!*
