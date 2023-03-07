@@ -22,6 +22,4 @@ Not only does this concentrate all the power, money, and influence within a smal
 
 By the time I finished the transom project, what I’d learned about prestige completely changed how I viewed scholarly publishing. I realized that none of the scholarly works I read exist in a vacuum. There is so much that lies beneath the finished product, and it is all intricately tied to a larger system that is not divorced from the same problems that plague the rest of society. While I don’t hold the solutions to these problems, I’m grateful this project allowed me to take the first steps in recognizing them and acknowledging the wider issues they are connected with.
 
-
-
-Bio: Katie is a senior English and Psychology double major from California. Over her years here at Amherst, she has deepened her love for creative writing and literature. On a typical day, you might find her listening to indie music, watching YouTube video essays on obscure topics, or studying with friends in Frost.
+*Katie is a senior English and Psychology double major from California. Over her years here at Amherst, she has deepened her love for creative writing and literature. On a typical day, you might find her listening to indie music, watching YouTube video essays on obscure topics, or studying with friends in Frost.*
