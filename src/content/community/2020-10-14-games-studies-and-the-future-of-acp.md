@@ -1,9 +1,8 @@
 ---
 templateKey: community
 title: Games Studies and the Future of ACP
-summary: >-
-  Greg Call summer intern Joy Won on new titles and directions underway at the
-  Press
+summary: Greg Call summer intern Joy Won on new titles and directions underway
+  at the Press
 date: 2020-10-14T13:55:25.220Z
 ---
 With Google Forms to Zoom meetings becoming staples in our lives, the importance of open-access and free digital resources has come to the forefront. It is interesting to see the role of digital technologies and resources during this time when new forms of scholarship and resources are coming to the forefront of pedagogy and access.
@@ -20,10 +19,6 @@ Many people may be unfamiliar with [Twine, an open-source platform](twinery.org)
 
 Much like Twine, Amherst College Press is a newer initiative focused on creating, and above all, accessibility. Accessibility is a core value and goal of both the ACP and Lever Press, and we hope to continue our work for many years to come as we work to redefine the publishing world. Whether you give making your own narrative on Twine a go, or wait in anticipation for *Twining* to be published as I am, I hope that you are well during this time and continue to support Amherst College Press and Lever Press on any platform you desire as we look to the future of open-access scholarly publishing.
 
-Joy Won
 
-Class of 2023
 
-BIO:
-
-Joy is a rising sophomore at Amherst College majoring in English with an interest in educational and health equity. As the Greg Call Summer Intern she dived into the world of open-access and hopes to learn more throughout her career at Amherst. In her spare time she plays with her kitten who has listened in on many of Joy’s Amherst classes during the last few months.
+*Joy Won ('23) is a rising sophomore at Amherst College majoring in English with an interest in educational and health equity. As the Greg Call Summer Intern she dived into the world of open-access and hopes to learn more throughout her career at Amherst. In her spare time she plays with her kitten who has listened in on many of Joy’s Amherst classes during the last few months.*
