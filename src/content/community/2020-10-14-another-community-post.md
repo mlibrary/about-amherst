@@ -1,14 +1,11 @@
 ---
 templateKey: community
 title: An Introduction to Amherst College Press and Open Access
-summary: >-
-  ACP's Greg Call summer intern, Joy Won ('23), on What Open Access Means to
-  Undergrads
+summary: ACP's Greg Call summer intern, Joy Won ('23), on What Open Access Means
+  to Undergrads
 date: 2020-10-14T12:55:40.888Z
 ---
 ![open access logo opened lock](assets/2000px-open_access_logo_smaller.png "Open Access Logo")
-
-
 
 Every October, a banner with the Open Access logo adorns the front of Frost Library to commemorate Open Access Week. The open lock is eye-catching, and yet many students easily glance over the sign and continue speed walking as most Amherst students are seen doing on the daily. Despite living at North and glancing at the banner multiple times throughout the week, I too was guilty of being yet another speedwalker too busy to indulge my curiosity. Only now, months after my initial exposure, am I beginning to grasp what open access is and why it not only holds relevance, but importance, to me as an Amherst student.
 
@@ -28,12 +25,8 @@ During our interview, Martel connected the recent protests against police brutal
 
 Professor Martel recommends Walter Benjamin’s *Critique of Violence* as a great read that explains how “the police are this violent, chaotic force that are \[unfortunately] the reality of the law. It’s the opposite of what law imagines itself to be. It’s the source of chaos not the solution to chaos.” In addition, Martel believes “it’s fair to say yet that racism is ending or anything like that, but \[I do] think that what \[George Floyd’s death has] done is it’s exposed the hypocrisy of a lot of white liberal apologies for racism.” Professor Martel’s words are strongly felt, and offer a view that urges us all to reflect upon our actions and thoughts as we look to the future.I hope *Unburied Bodies* as well as other open access resources (check out our instagram for our racial justice OA book list) can be tools for you and your friends, peers, and family to take one step further in the pursuit of knowledge, which lies at the core of Amherst and the ACP.
 
-Special thanks to Professor Martel for his willingness to contribute to this blog post through his interview.
 
-Joy Won
 
-Class of 2023
+\* Special thanks to Professor Martel for his willingness to contribute to this blog post through his interview.
 
-BIO:
-
-Joy is a rising sophomore at Amherst College majoring in English with an interest in educational and health equity. As the Greg Call Summer Intern she dived into the world of open-access and hopes to learn more throughout her career at Amherst. In her spare time she plays with her kitten who has listened in on many of Joy’s Amherst classes during the last few months.
+*Joy Won ('23) is a rising sophomore at Amherst College majoring in English with an interest in educational and health equity. As the Greg Call Summer Intern she dived into the world of open-access and hopes to learn more throughout her career at Amherst. In her spare time she plays with her kitten who has listened in on many of Joy’s Amherst classes during the last few months.*
