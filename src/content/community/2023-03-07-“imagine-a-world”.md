@@ -1,7 +1,7 @@
 ---
 templateKey: community
 title: "“Imagine a World” "
-summary: Zines as Forms of Resistance
+summary: ACP intern Evelyn Chi ('25) on zines as forms of resistance
 date: 2023-03-07T13:22:37.579Z
 ---
 Anyone can make a zine and publish it. Take a piece of printer paper, fold it into a booklet, draw on it, and voilà–you have a zine! Photocopy it, hand it to your friends, and now it’s published. 
