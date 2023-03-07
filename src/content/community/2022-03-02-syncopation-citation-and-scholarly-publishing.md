@@ -1,9 +1,8 @@
 ---
 templateKey: community
-title: 'Syncopation, Citation, and Scholarly Publishing'
-summary: >-
-  Priscilla Lee (‘25) on decentering western tradition and how it can lead to
-  greater bibliodiversity
+title: Syncopation, Citation, and Scholarly Publishing
+summary: Priscilla Lee (‘25) on decentering western tradition and how it can
+  lead to greater bibliodiversity
 date: 2022-03-02T19:41:12.226Z
 ---
 Last semester, the Amherst Choral Society performed an a cappella arrangement of “Water Fountain” by tUnE-yArDs. When we received the sheet music in rehearsal, I was drawn to a curious two-measure phrase: “se pou zan-mi mwen, se pou zan-mi mwen.” A footnote explained that it was Haitian Creole for “It is for my friends, it is for my friends.” At Amherst College Press, we had just been working on promotion for[ *The Border of Lights Reader*](https://www.fulcrum.org/concern/monographs/1v53k057r?locale=en), an anthology of multimodal works about the 1937 massacre of Haitians and Dominicans of Haitian descent. This sent me down a Google spiral of tUnE-yArDs interviews, song critique, lyric analysis, and finally, to questions of cultural appropriation, epistemic justice, and bibliodiversity in open access publishing.
@@ -45,4 +44,4 @@ As for diversifying knowledge, ACP's former intern Angel Musyimi wrote [this com
 The exciting thing is that digital open access publishing is still relatively new. In exploring what it might become and how it can progress from what has come before, we must get out from under the overpowering hand of tradition. It’s not syncopation. It’s another beat.
 
 \
-BIO: Priscilla Lee is a first year English major from Hong Kong. She also studies Classics and French, with a growing interest in translation. In addition to singing in Choral Society, she loves poetry, enjoys reading literary and translated fiction, and writes book reviews on Instagram!
+*Priscilla Lee ('25) is a first year English major from Hong Kong. She also studies Classics and French, with a growing interest in translation. In addition to singing in Choral Society, she loves poetry, enjoys reading literary and translated fiction, and writes book reviews on Instagram!*
