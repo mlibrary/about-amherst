@@ -38,8 +38,6 @@ What would this little border island of 7 million look like without China, witho
 
 
 
-Endnote: I want to give a big shout out to Frost Research and Instruction librarian and zine expert Alana Kumbier for helping me research and find sources about zines. Thank you! 
+\* I want to give a big shout out to Frost Research and Instruction librarian and zine expert Alana Kumbier for helping me research and find sources about zines. Thank you! 
 
-
-
-Bio: Evelyn is a sophomore English and Sexuality, Women’s, and Gender Studies double major from Los Angeles. She is interested in postcolonial literature, Asian American writers, and intersectionality. Outside of class, she likes playing piano, baking cookies, and drinking good matcha lattes.
+*Evelyn is a sophomore English and Sexuality, Women’s, and Gender Studies double major from Los Angeles. She is interested in postcolonial literature, Asian American writers, and intersectionality. Outside of class, she likes playing piano, baking cookies, and drinking good matcha lattes.*
