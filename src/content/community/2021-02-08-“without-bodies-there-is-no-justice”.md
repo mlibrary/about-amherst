@@ -1,9 +1,8 @@
 ---
 templateKey: community
 title: “Without Bodies There Is No Justice”
-summary: >-
-  ACP interns Angel Musyimi (‘23) and Sydney Ireland (‘23) explore the works of
-  James R. Martel and Carlos Alberto Sánchez 
+summary: "ACP interns Angel Musyimi (‘23) and Sydney Ireland (‘23) explore the
+  works of James R. Martel and Carlos Alberto Sánchez "
 date: 2021-02-08T17:15:26.298Z
 ---
 On October 21st, 2020 Amherst College Press (ACP) Director Beth Bouloukos sat down for a CHI Salon over Zoom with two ACP authors, Carlos Alberto Sánchez, whose book *A Sense of Brutality: Philosophy after Narco-Culture*, ACP published in 2020, and James R. Martel, who wrote *Unburied Bodies: Subversive Corpses and the Authority of the Dead*, published in 2018. Students, faculty, staff, and other community members gathered to learn about and discuss the connections between these two open-access books. There was one recurring connection that prevailed throughout the Salon which was the idea of state power and resistance to authority.
@@ -36,10 +35,10 @@ Read *[A Sense of Brutality: Philosophy after Narco-culture](https://doi.org/10.
 
 
 
-BIOS:
 
-Sydney Ireland is a sophomore at Amherst College double majoring in Political Science and Psychology. She began interning for ACP in August and has enjoyed learning about equity in peer review and the benefits of open access. During her free time, she enjoys dancing, playing with her dogs, including two current foster puppies, and watching low quality reality tv.
 
-Angel Musyimi is a sophomore at Amherst College majoring in Law, Jurisprudence, and Social Thought doubled with Black Studies. Angel has a background in writing, and as an intern at ACP she has learned ways to implement her passion for literature into learning about the various aspects of scholarly publishing as well as the ways discrimination affects topics such as open access and peer review. In her free time she enjoys reading, watching films, and playing with her puppy, Sofia!
+*Sydney Ireland ('23) is a sophomore at Amherst College double majoring in Political Science and Psychology. She began interning for ACP in August and has enjoyed learning about equity in peer review and the benefits of open access. During her free time, she enjoys dancing, playing with her dogs, including two current foster puppies, and watching low quality reality tv.*
+
+*Angel Musyimi ('23) is a sophomore at Amherst College majoring in Law, Jurisprudence, and Social Thought doubled with Black Studies. Angel has a background in writing, and as an intern at ACP she has learned ways to implement her passion for literature into learning about the various aspects of scholarly publishing as well as the ways discrimination affects topics such as open access and peer review. In her free time she enjoys reading, watching films, and playing with her puppy, Sofia!*
 
 ![](https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif)
