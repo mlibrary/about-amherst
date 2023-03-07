@@ -1,9 +1,8 @@
 ---
 templateKey: community
-title: '“Not what has been lost, but what remains?”'
-summary: >-
-  ACP intern Liz Tran (‘23) explores materiality and accessibility through Marta
-  Werner’s Writing in Time. 
+title: “Not what has been lost, but what remains?”
+summary: "ACP intern Liz Tran (‘23) explores materiality and accessibility
+  through Marta Werner’s Writing in Time. "
 date: 2022-03-02T19:38:06.755Z
 ---
 It seems as though we will never stop learning about Emily Dickinson. Since her death in 1886, there has been a relentless stream of playwrights, scholars, biographers, poets, and admirers attempting to recreate her life through the vast abundance of writings she left behind. There is no definitive corpus of her work and as such, she has become the perfect candidate for the creative imagination of others. In this ambiguity, multiple versions of Emily Dickinson have been shaped and reconfigured through the years, each one changing with the newest finding on her life.
@@ -28,4 +27,6 @@ In 2013, however, the [Emily Dickinson Archive](https://www.edickinson.org/) was
 
 It’s funny to think about the experience of using an open access archive as an intimate one, isn’t it? With the complete Dickinson Archive, there is hardly anything separating the reader from Dickinson and vice versa. The decades-old analyses and preconceived notions about her works are no longer necessary to interact and learn from her manuscripts, and through this the reader can experience Dickinson in their own right. It’s easier than ever to browse for a favorite poem, the tilted dash mark, or the slanted script curving underneath and over dirty envelopes. It’s raw and bold and it’s the type of private that feels personal but not isolated. I think Emily would approve.
 
-BIO: Liz Tran is a junior at Amherst College majoring in Spanish and Statistics. She loves libraries, Spanish literature, and dogs without leashes. She is an appreciator of all things vintage and hopes to own some really, really old furniture someday. Raised in New Hampshire, she loves the familiar green of Amherst and is grateful for the purple, too.
+
+
+*Liz Tran ('23) is a junior at Amherst College majoring in Spanish and Statistics. She loves libraries, Spanish literature, and dogs without leashes. She is an appreciator of all things vintage and hopes to own some really, really old furniture someday. Raised in New Hampshire, she loves the familiar green of Amherst and is grateful for the purple, too.*
