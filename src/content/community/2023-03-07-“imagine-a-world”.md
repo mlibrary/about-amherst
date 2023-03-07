@@ -28,13 +28,13 @@ By defying for-profit systems, zines are similar to open-access presses. [Open-a
 
 But perhaps equally important to the idea of resistance and open access in zines is the concept of intimacy. Passages feels deeply personal in a way that only a zine can. I feel intimately connected to Fu when I see the photographs of her mother’s apartment, or when I’m invited to write in the red-blue lined workbook section “Imagine a World.” 
 
-![On the left side of a zine are photographs of a purple-and-orange sunset and a balcony with AC units with the word“memory” in Cantonese in the middle. The right side has text that says: “I stay in my mom’s childhood home in Yuen Long and I think it is a poem. I imagine what my life could have been if it weren’t for movement and it takes the shape of a poem. There is a hole I keep filling and filling–do you make of that a poem?”](assets/zine_workbook.jpg)
+![On the left side of a zine are photographs of a purple-and-orange sunset and a balcony with AC units with the word“memory” in Cantonese in the middle. The right side has text that says: “I stay in my mom’s childhood home in Yuen Long and I think it is a poem. I imagine what my life could have been if it weren’t for movement and it takes the shape of a poem. There is a hole I keep filling and filling–do you make of that a poem?”](assets/zine_photographs.jpg)
 
 As a Taiwanese American, I share Fu’s anger towards Chinese hegemony, colonialism, and dictatorship. Like Hong Kong, Taiwan was colonized by many countries, including the Netherlands, Portugal, Japan, and now China. I feel Fu’s loss intimately when she states how she is in Hong Kong “on borrowed time in a borrowed place” – the feeling of being traded between colonizers and borrowed like money. For both of our countries, democracy feels elusive, almost impossible. When will we be truly free? 
 
 This is why Fu encourages me–encourages us–to “imagine a world”: 
 
-What would this little border island of 7 million look like without China, without Britain, without America? Without capitalism, without class inequality? Without police? The struggle, the work, the obligation and duty of this borrowed place is to create itself–imagine itself.
+"What would this little border island of 7 million look like without China, without Britain, without America? Without capitalism, without class inequality? Without police? The struggle, the work, the obligation and duty of this borrowed place is to create itself–imagine itself."
 
 
 
