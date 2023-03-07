@@ -40,14 +40,4 @@ Leading up to the main event in the Science Center, we also set up a book displa
 
 On Wednesday, October 26 ACP co-hosted its annual CHI Salon discussion in honor of OA week. Presidential Scholar Karma Chávez sat down with Amherst College Press authors Megan Jeanette Myers and Edward Paulino and ACP director Beth Bouloukos to discuss open access, collaborative scholarship, and community activism. Myers and Paulino edited the book The Border of Lights Reader: Bearing Witness to Genocide in the Dominican Republic, and they spoke of their experiences working with local activist organizations and the importance of cross-border and collaborative histories. As a group, they also provided insight into the relationship between scholarship and tenure and the importance of open access across all institutions.
 
-Overall, Open Access Week was a smashing success–thank you to everyone who made it so! 
-
-BIOS:
-
-Katie McMaye (‘23)
-
-Katie is a senior English and Psychology double major from California. Over her years here at Amherst, she has deepened her love for creative writing and literature. On a typical day, you might find her listening to some form of indie music, watching Youtube video essays on the most obscure topics, or goofing off–I mean, studying–with friends in Frost. 
-
-Evelyn Chi (‘25)
-
-Evelyn is a sophomore English and Sexuality, Women’s, and Gender Studies double major from Los Angeles. In her studies, she is particularly interested in postcolonial literature, Asian American writers, and intersectional identities. Outside of class, she sings in the Choral Society, and she loves baking cookies, taking long walks during sunset, and drinking good matcha lattes.
+Overall, Open Access Week was a smashing success–thank you to everyone who made it so!
