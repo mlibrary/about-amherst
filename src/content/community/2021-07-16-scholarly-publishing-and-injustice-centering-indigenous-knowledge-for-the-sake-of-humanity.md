@@ -1,12 +1,10 @@
 ---
 templateKey: community
-title: >-
-  Scholarly Publishing and Injustice: Centering Indigenous Knowledge for the
-  Sake of Humanity
-summary: >-
-  ACP's Greg Call intern Angel Musyimi ('23) explores epistemic justice and
-  openness as a practice to support, preserve, and sustain Indigenous knowledge
-  for us all
+title: "Scholarly Publishing and Injustice: Centering Indigenous Knowledge for
+  the Sake of Humanity"
+summary: ACP's Greg Call intern Angel Musyimi ('23) explores epistemic justice
+  and openness as a practice to support, preserve, and sustain Indigenous
+  knowledge for us all
 date: 2021-07-16T13:06:33.318Z
 ---
 One of the most important things that we do at Amherst College Press is understand how to publish equitably. As an open access scholarly publication, one of the ways we accomplish this is zero charge for writers to publish with us. This means that our books are freely accessible to writers, readers, and institutions like libraries, with no fees for authors wishing to publish with us. However, openness is not made equal. Though OA implies full accessibility, OA can also undermine the sanctity of knowledge, especially knowledge that is ancestral or has historic ties to communities. Western scholarly practices also have a deep history of stealing the knowledge of Indigenous peoples from the Global South and using it for personal gain, either to profit from or to twist that knowledge to package their own needs.
@@ -31,6 +29,6 @@ Work is underway in scholarly publishing to develop radical practices that cente
 
 This is what is required of us as publishers. We owe Indigenous, Black, and all marginalized communities the ability to control how their sacred knowledge is shared. Changing established tenets of scholarly publishing, such as peer review, is a radical concept. Yet it is necessary in the way that change always is.
 
-BIO
 
-Angel Musyimi is a rising junior at Amherst College majoring in Law, Jurisprudence, and Social Thought doubled with Black Studies. Angel has a background in writing, and as an intern at ACP she has learned ways to implement her passion for literature into learning about the various aspects of scholarly publishing as well as the ways discrimination affects topics such as open access and peer review. In her free time she enjoys reading, watching films, and playing with her puppy, Sofia!
+
+*Angel Musyimi ('23) is a rising junior at Amherst College majoring in Law, Jurisprudence, and Social Thought doubled with Black Studies. Angel has a background in writing, and as an intern at ACP she has learned ways to implement her passion for literature into learning about the various aspects of scholarly publishing as well as the ways discrimination affects topics such as open access and peer review. In her free time she enjoys reading, watching films, and playing with her puppy, Sofia!*
