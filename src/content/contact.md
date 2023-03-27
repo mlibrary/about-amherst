@@ -2,7 +2,7 @@
 templateKey: contact-page
 title: Contact Us
 ---
-Sign up for our mailing list if you’d like to receive updates from the Amherst College Press. We’ll send out regular news about our new titles, series, developments in digital and open access scholarship, and other interests. You can also[ follow us on Twitter](https://twitter.com/AmCollPress) and [Instagram](https://www.instagram.com/amherstcollegepress/). If you have an idea for a work you’d like us to consider, you can contact us at: acpress@amherst.edu or get in touch with an editor directly. 
+Sign up for our mailing list if you’d like to receive updates from the Amherst College Press. We’ll send out regular news about our new titles, series, developments in digital and open access scholarship, and other interests. You can also[ follow us on Twitter](https://twitter.com/AmCollPress) and [Instagram](https://www.instagram.com/amherstcollegepress/) or check out our [YouTube channel](https://www.youtube.com/channel/UCvGjw8D-MFynNzHPT05zUYQ). If you have an idea for a work you’d like us to consider, you can contact us at: acpress@amherst.edu or get in touch with an editor directly. 
 
 **For marketing and publicity inquiries, please contact acpress-marketing@amherst.edu**
 
