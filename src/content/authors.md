@@ -2,31 +2,40 @@
 templateKey: authors-page
 title: Publish With Us
 ---
-## Authors
+## For Prospective Authors
 
-Please consult our editorial program below to read about areas of particular interest to our editors. See our individual project proposal template to get a sense of what we look for when considering projects.
+Please consult our editorial program below to read about areas of particular interest to our editors. See our [individual project proposal template](https://docs.google.com/document/d/1jGNlpD6nT7ZlVTs6tNwyNB164AExiIQ0lPHhWM8usLs/edit?usp=sharing) to get a sense of what we look for when considering projects. For guidance on proposing and developing edited collections, please see our [Edited Collections Information Sheet](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing).  If you are interested in proposing a series, please review our [series proposal guidelines](https://docs.google.com/document/d/1j3W09SHS3fj0VKvC8WiilYmpg3P0w3lecp8liRZSAvw/edit?usp=sharing). When you’re ready, submit a proposal to Amherst College Press at acpress@amherst.edu
 
-<a href="/assets/acp-individual-project-proposal-guidelines_new.pdf">Individual project proposal template</a>
-
-For guidance on proposing and developing edited collections, please see our [Edited Collections Information Sheet](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing). 
-
-When you’re ready, submit a proposal to Amherst College Press at acpress@amherst.edu
-
-If you are interested in proposing a series, please review our [series proposal guidelines](https://docs.google.com/document/d/1j3W09SHS3fj0VKvC8WiilYmpg3P0w3lecp8liRZSAvw/edit?usp=sharing).
-
-<a href=""></a>
-
-You can find our current reader report forms below. We undertook an iterative, collaborative process to create these forms, working with Amherst College Press interns to review, analyze, and synthesize current reader report forms from other university presses. We also sought to to engage in and incorporate anti-racist practices as articulated in this [Anti-Racist Scholarly Reviewing Practices](https://docs.google.com/document/d/1lZmZqeNNnYfYgmTKSbL2ijYbR4OMovv6A-bDwJRnwx8/edit).
-
-[ACP reader report form for proposals](https://docs.google.com/document/d/1qPhWyABNPNcDT_-V7tI8_gIyUeptHdFixrELk81FLFY/edit?usp=sharing)
-
-[ACP reader report form for full manuscripts](https://docs.google.com/document/d/1Pn1IV67WIyZkOiz3Nc-vulowq5bwCbjfyya5NBrh_Hg/edit?usp=sharing)
+Here you can find our [ACP reader report form for proposals ](https://docs.google.com/document/d/1qPhWyABNPNcDT_-V7tI8_gIyUeptHdFixrELk81FLFY/edit?usp=sharing)and [ACP reader report form for full manuscripts](https://docs.google.com/document/d/1Pn1IV67WIyZkOiz3Nc-vulowq5bwCbjfyya5NBrh_Hg/edit?usp=sharing). We undertook an iterative, collaborative process to create these forms, working with Amherst College Press interns to review, analyze, and synthesize current reader report forms from other university presses. We also sought to to engage in and incorporate anti-racist practices as articulated in this [Anti-Racist Scholarly Reviewing Practices](https://docs.google.com/document/d/1lZmZqeNNnYfYgmTKSbL2ijYbR4OMovv6A-bDwJRnwx8/edit).
 
 Have questions? Write to us at acpress@amherst.edu
 
 You can also find more useful information about scholarly publishing at [Ask UP](https://ask.up.hcommons.org/), a website maintained by the Association of University Presses that answers "basic and not-so-basic questions about how to publish and promote scholarship."
 
-## The Amherst College Press Editorial Program
+## For Current Authors
+
+The following resources, accessible via Google Drive, are for authors preparing their final manuscript materials for submission to production after they've been peer reviewed and approved. **Please download these documents for your own use and upload them to the folder provided by your production coordinator**. You can find ACP's [Subvention Statement](https://docs.google.com/document/d/1s2PXqXTJ2qBEeD1ZRXMeBJy79pc6yrtsXTP-b2DstnM/edit?usp=sharing) here. 
+
+Production documents:
+
+* [Author Guide and Final Manuscript Preparation Guidelines](https://docs.google.com/document/d/1ophHc6i5g4KiEfBgyarmZozhbciXcL7Gj0kAQaWqUVs/edit?usp=sharing)
+* [Metadata Template](https://docs.google.com/spreadsheets/d/1ibNeACiXKZbk2MVNj4bpHoopqtt-7HyDxf7ana3SI_s/edit#gid=0)
+* [](https://docs.google.com/document/d/1s2PXqXTJ2qBEeD1ZRXMeBJy79pc6yrtsXTP-b2DstnM/edit?usp=sharing)[Pre-Production Checklist](https://docs.google.com/document/d/12Zkv_aCeAsNi7RaRxhRxofWEJm3GzIKaKs9i_5Uc9pY/edit)
+* [Cover Info Sheet](https://docs.google.com/document/d/1cP0m9EPmbMittQmfeJthyJESC6SFfZV3f44iwlyg8I8/edit?usp=share_link)
+
+Agreements and rights requests:
+
+* [Contributor's Agreement](https://docs.google.com/document/d/1Svqoo0-W3tKqlP-F8usmIrlIrc6l6kpUE2FTC0FX7-4/edit)
+* [Permissions Requests](https://docs.google.com/document/d/1mR4s0DOJrqIUo5kJepEUvnb38oT3_0LVXp8JCS4Qk4w/edit)
+* [Permissions Log](https://docs.google.com/spreadsheets/d/1m5hzxO1l-n4gF_j4e5BeIXwQl5_m4Mqf9U5yJEVr82I/edit?usp=sharing)
+
+Marketing:
+
+* [Marketing Info Guide for Authors](https://docs.google.com/document/d/1v92C_KEQVFQYIcYEq6_nettIkRKfmXZ6H5XNJ95qR8U/edit?usp=sharing)
+
+## Areas of Interest
+
+The press publishes titles in Art History and Visual Studies; Digital and Game Studies; Latin American Studies; Literary and Media Studies; Music and Sound Studies; and Russian, East European, and Eurasian Studies with a deep interest in interdisciplinary scholarship.
 
 We seek works that fit into either or both of these broad categories:
 
@@ -87,28 +96,3 @@ Series Editor: Tiffany Funk, University of Illinois, Chicago & Video Game Art Ga
 Editorial Board: James Conley, Loyola University Chicago; Kishonna Gray, University of Kentucky; Reem Hilu, Washington University St. Louis; Carly Kocurek, Illinois Institute of Technology; Stephan Moore, Northwestern University; Whitney Pow, New York University; Joyce Rudinsky, University of North Carolina at Chapel Hill; Maureen Ryan, University of South Carolina; Victoria Szabo, Duke University; Chris Totten, Kent State University; Kelli Wood, University of Tennesee Knoxville
 
 The Video Game Art Reader (VGAR) is a peer-reviewed annual series for video game audiences and video game practitioners interested in the history, theory, and criticism of video games, explored through the lens of art history and visual culture. We seek to advocate for video games as art and to create an inclusive, multivalent, diversified conversation about the past, present, and possible futures of video games. The Video Game Art Reader's editorial board comprises artists, scholars, and video game enthusiasts from cultural and educational institutions throughout the United States.
-
-## Areas of Interest
-
-The press publishes titles in Art History and Visual Studies; Digital and Game Studies; Latin American Studies; Literary and Media Studies; Music and Sound Studies; and Russian, East European, and Eurasian Studies with a deep interest in interdisciplinary scholarship.
-
-## For Current Authors
-
-The following resources, accessible via Google Drive, are for authors preparing their final manuscript materials for submission to production after they've been peer reviewed and approved. **Please download these documents for your own use and upload them to the folder provided by your production coordinator**. You can find ACP's [Subvention Statement](https://docs.google.com/document/d/1s2PXqXTJ2qBEeD1ZRXMeBJy79pc6yrtsXTP-b2DstnM/edit?usp=sharing) here. 
-
-Production documents:
-
-* [Author Guide and Final Manuscript Preparation Guidelines](https://docs.google.com/document/d/1ophHc6i5g4KiEfBgyarmZozhbciXcL7Gj0kAQaWqUVs/edit?usp=sharing)
-* [Metadata Template](https://docs.google.com/spreadsheets/d/1ibNeACiXKZbk2MVNj4bpHoopqtt-7HyDxf7ana3SI_s/edit#gid=0)
-* [](https://docs.google.com/document/d/1s2PXqXTJ2qBEeD1ZRXMeBJy79pc6yrtsXTP-b2DstnM/edit?usp=sharing)[Pre-Production Checklist](https://docs.google.com/document/d/12Zkv_aCeAsNi7RaRxhRxofWEJm3GzIKaKs9i_5Uc9pY/edit)
-* [Cover Info Sheet](https://docs.google.com/document/d/1cP0m9EPmbMittQmfeJthyJESC6SFfZV3f44iwlyg8I8/edit?usp=share_link)
-
-Agreements and rights requests:
-
-* [Contributor's Agreement](https://docs.google.com/document/d/1Svqoo0-W3tKqlP-F8usmIrlIrc6l6kpUE2FTC0FX7-4/edit)
-* [Permissions Requests](https://docs.google.com/document/d/1mR4s0DOJrqIUo5kJepEUvnb38oT3_0LVXp8JCS4Qk4w/edit)
-* [Permissions Log](https://docs.google.com/spreadsheets/d/1m5hzxO1l-n4gF_j4e5BeIXwQl5_m4Mqf9U5yJEVr82I/edit?usp=sharing)
-
-Post-publication guides for authors:
-
-* [Marketing Info Guide for Authors](https://docs.google.com/document/d/1v92C_KEQVFQYIcYEq6_nettIkRKfmXZ6H5XNJ95qR8U/edit?usp=sharing)
