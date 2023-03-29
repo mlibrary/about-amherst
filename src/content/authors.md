@@ -90,7 +90,7 @@ The Video Game Art Reader (VGAR) is a peer-reviewed annual series for video game
 
 ## Areas of Interest
 
-The press publishes titles in Art History and Visual Studies, Latin American Studies, Literary Studies, Music, and Russian, East European, and Eurasian Studies with a deep interest in interdisciplinary scholarship.
+The press publishes titles in Art History and Visual Studies; Digital and Game Studies; Latin American Studies; Literary and Media Studies; Music and Sound Studies; and Russian, East European, and Eurasian Studies with a deep interest in interdisciplinary scholarship.
 
 ## For Current Authors
 
