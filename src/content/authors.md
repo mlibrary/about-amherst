@@ -94,7 +94,7 @@ The press publishes titles in Art History and Visual Studies, Latin American Stu
 
 ## For Current Authors
 
-The following resources, accessible via Google Drive, are for authors preparing their final manuscript materials for submission to production after they've been peer reviewed and approved. Please download these documents for your own use and upload them to the folder provided by your production coordinator. You can find ACP's [Subvention Statement](https://docs.google.com/document/d/1s2PXqXTJ2qBEeD1ZRXMeBJy79pc6yrtsXTP-b2DstnM/edit?usp=sharing) here. 
+The following resources, accessible via Google Drive, are for authors preparing their final manuscript materials for submission to production after they've been peer reviewed and approved. **Please download these documents for your own use and upload them to the folder provided by your production coordinator**. You can find ACP's [Subvention Statement](https://docs.google.com/document/d/1s2PXqXTJ2qBEeD1ZRXMeBJy79pc6yrtsXTP-b2DstnM/edit?usp=sharing) here. 
 
 Production documents:
 
