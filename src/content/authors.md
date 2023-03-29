@@ -12,9 +12,9 @@ For guidance on proposing and developing edited collections, please see our [Edi
 
 When you’re ready, submit a proposal to Amherst College Press at acpress@amherst.edu
 
-If you are interested in proposing a series, please review our series proposal guidelines.
+If you are interested in proposing a series, please review our [series proposal guidelines](https://docs.google.com/document/d/1j3W09SHS3fj0VKvC8WiilYmpg3P0w3lecp8liRZSAvw/edit?usp=sharing).
 
-<a href="/assets/amherst-series-proposal-template_new.pdf">Series proposal template</a>
+<a href=""></a>
 
 You can find our current reader report forms below. We undertook an iterative, collaborative process to create these forms, working with Amherst College Press interns to review, analyze, and synthesize current reader report forms from other university presses. We also sought to to engage in and incorporate anti-racist practices as articulated in this [Anti-Racist Scholarly Reviewing Practices](https://docs.google.com/document/d/1lZmZqeNNnYfYgmTKSbL2ijYbR4OMovv6A-bDwJRnwx8/edit).
 
