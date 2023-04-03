@@ -9,7 +9,7 @@ const BookList = ({books}) => {
       <div className="row book-card-list">
         {
           books.map(({node}) => {
-            if (node.frontmatter.orderOnPage === 1 || node.frontmatter.orderOnPage === 2) {
+            if (Array(1,2,3,4).includes(node.frontmatter.orderOnPage)) {
               return (
                 <BookCard key={node.id} cover={node.fields.cover} book={node.frontmatter} />
               )

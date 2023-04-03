@@ -9,7 +9,7 @@ description: Guided by acclaimed artist, filmmaker, and activist Amar Kanwar,
   of public seminars on freedom of speech. This volumes emerges from these
   seminars as a collection of newly commissioned texts, artist projects, and
   resources.
-orderOnPage: 0
+orderOnPage: 3
 readLink: https://doi.org/10.3998/mpub.12625211
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781943208388&PRESS=amherst
 ---
