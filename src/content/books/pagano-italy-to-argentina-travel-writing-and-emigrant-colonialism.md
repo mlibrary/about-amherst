@@ -6,7 +6,7 @@ author: Tullio Pagano
 cover: assets/9781943208548.jpg
 description: Pagano questions the apparent opposition between diaspora and
   empire and argues that there was a continuity between the “peaceful conquest”
-  though spontaneous emigration envisioned by Italian liberal intellectuals at
+  through spontaneous emigration envisioned by Italian liberal intellectuals at
   the turn of the century and the military colonialism of Italian Nationalists
   and Fascists.
 orderOnPage: 1
