@@ -18,7 +18,7 @@ catalogSection:
   heading: Amherst College Press Catalog
   catalogImage: /assets/2023_acp-catalog_cover.jpg
   catalogPdf: <a class="btn btn-secondary"
-    href="/assets/2023_acp-catalog_web.pdf">Explore our Catalog</a>
+    href="/assets/2023_acp-catalog_web-1.pdf">Explore our Catalog</a>
 mapSection:
   description: Learn about our impact with real-time mapping of views and
     downloads of our published content that occurred over the previous four
