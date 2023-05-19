@@ -7,7 +7,7 @@ cover: assets/9781943208500.jpg
 description: In this practical and insightful volume, eleven teachers of
   Vladimir Nabokov describe how and why they teach this notoriously difficult,
   even problematic, writer to the next generations of students.
-orderOnPage: 3
+orderOnPage: 4
 readLink: https://doi.org/10.3998/mpub.12734225
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-943208-50-0&PRESS=mpub
 ---
