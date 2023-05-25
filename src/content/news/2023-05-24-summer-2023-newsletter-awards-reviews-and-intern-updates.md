@@ -1,9 +1,7 @@
 ---
 templateKey: news
 title: "Summer 2023 Newsletter: Awards, Reviews, and Intern Updates"
-summary: "Writing in Time wins the Finneran Award from the Society for Textual
-  Scholarship; Studies into Darkness nominated for the Association of University
-  Presses Book, Jacket, and Journal Show; more news below! "
+summary: Read the latest from ACP
 date: 2023-05-24T15:11:46.939Z
 ---
 ### *Writing in Time* wins 2023 Richard J. Finneran Award for the best book about editorial theory or practice
