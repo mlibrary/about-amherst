@@ -1,5 +1,10 @@
 ## About Amherst Press
->>>>>>> 4c512a91fd00da071358de01df7f8cdb80e47dee
+This is the brochureware/about informational website for the Amherst College Press catalog on Fulcrum.
+
+It uses GatsbyJS, Netlify hosting, and Netlify CMS.
+
+View it at https://acpress.amherst.edu
+
 
 1. clone the repo
 2. run `yarn`
