@@ -13,14 +13,9 @@ if (process.env.BRANCH === "preview") {
   CMS.init({
     config: {
       backend: {
-        name: 'gitlab',
-        repo: 'michigan-publishing/about-amherstpress',
-        branch: 'preview',
-        auth_type: 'implicit',
-        app_id: '',
-        api_root: 'https://gitlab.umich.edu/api/v4',
-        base_url: 'https://gitlab.umich.edu',
-        auth_endpoint: 'oauth/authorize'
+        name: 'github',
+        repo: 'mlibrary/about-amherst',
+        branch: 'preview'
       }
     }
   });
@@ -28,14 +23,9 @@ if (process.env.BRANCH === "preview") {
   CMS.init({
     config: {
       backend: {
-        name: 'gitlab',
-        repo: 'michigan-publishing/about-amherstpress',
-        branch: 'master',
-        auth_type: 'pkce',
-        app_id: '545ebea7edb9c3563a9d704ced042c0c173a3c034183e1122bb46659d6682fb9',
-        api_root: 'https://gitlab.umich.edu/api/v4',
-        base_url: 'https://gitlab.umich.edu',
-        auth_endpoint: 'oauth/authorize'
+        name: 'github',
+        repo: 'mlibrary/about-amherst',
+        branch: 'master'
       }
     }
   });
