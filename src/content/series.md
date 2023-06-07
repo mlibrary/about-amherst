@@ -20,7 +20,7 @@ Electronic Communities of Making promotes thoughtful reflection on the communiti
 
 <a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Electronic+Communities&locale=en">Read Electronic Communities</a>
 
-<h2 id="emergent-ideas"><cite>Emergent Ideas</cite></h2>
+<h2 id="emergent-ideas"><cite>Emergent Ideas: Lateral Books in Cultural Studies</cite></h2>
 
 Series Editors: Robert Carley, Texas A&M University; Anne Donlon, Independent Scholar; Eero Laine, University at Buffalo, State University of New York; SAJ, New York University; Chris Alen Sula, Pratt Institute
 
