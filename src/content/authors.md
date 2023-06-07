@@ -59,6 +59,12 @@ ACP Records is an academic record label focusing on new jazz recordings. In musi
 
 Electronic Communities of Making promotes thoughtful reflection on the communities and practices driving electronic creativity by publishing works that reach across electronic literature, game studies, and internet research to explore the intersection of theory, practice, and pedagogy. We particularly hope to encourage engagement with open-source tools that invite and encourage inclusive making: from established platforms for interactive fiction, to alternative games platforms redefining play, to artistic communities shaping procedural expression.
 
+#### *Emergent Ideas: Lateral Books in Cultural Studies*
+
+*S*eries Editors: Robert Carley, Texas A&M University; Anne Donlon, Independent Scholar; Eero Laine, University at Buffalo, State University of New York; SAJ, New York University; Chris Alen Sula, Pratt Institute
+
+Emergent Ideas: Lateral Books in Cultural Studies publishes concise analyses and interpretations of historically significant, contemporary, and emergent cultural phenomena. Titles in the series will endeavor to remap conceptual terrains of culture in order to better comprehend the complex relations that produce meanings, engender practices, shape emergent relations, and give rise to new social and political subjects. We invite sharp, speculative, and radically novel analyses, critiques, and theories between 15,000 and 40,000 words that advance interdisciplinary conversations across the field of cultural studies internationally.
+
 #### *Law, Literature & Culture*
 
 *S*eries Editor: Austin Sarat, Amherst College
