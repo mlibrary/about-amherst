@@ -20,6 +20,12 @@ Electronic Communities of Making promotes thoughtful reflection on the communiti
 
 <a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Electronic+Communities&locale=en">Read Electronic Communities</a>
 
+<h2 id="emergent-ideas"><cite>Emergent Ideas</cite></h2>
+
+Series Editors: Robert Carley, Texas A&M University; Anne Donlon, Independent Scholar; Eero Laine, University at Buffalo, State University of New York; SAJ, New York University; Chris Alen Sula, Pratt Institute
+
+Emergent Ideas: Lateral Books in Cultural Studies publishes concise analyses and interpretations of historically significant, contemporary, and emergent cultural phenomena. Titles in the series will endeavor to remap conceptual terrains of culture in order to better comprehend the complex relations that produce meanings, engender practices, shape emergent relations, and give rise to new social and political subjects. We invite sharp, speculative, and radically novel analyses, critiques, and theories between 15,000 and 40,000 words that advance interdisciplinary conversations across the field of cultural studies internationally.
+
 <h2 id="law-literature-culture"><cite>Law, Literature & Culture</cite></h2>
 
 Series Editor: Austin Sarat, Amherst College
