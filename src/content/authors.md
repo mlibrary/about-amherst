@@ -2,6 +2,14 @@
 templateKey: authors-page
 title: Publish With Us
 ---
+## Areas of Interest
+
+ACP publishes titles in art history and visual studies; digital and game studies; Latin American studies; literary and media studies; music and sound studies; and Russian, East European, and Eurasian Studies. We also have deep interests in activist studies, environmental and energy humanities, multilingualism and translation, public and community humanities, and all forms of justice-oriented scholarship and methodology.
+
+Our publishing program is aligned with the ethos of the liberal arts and deeply committed to accessibility. All our books are fully peer reviewed, expertly copyedited, and well designed; everything we publish is made available both as open-access, freely downloadable ebooks and pdf files as well as affordable paperbacks . Amherst College covers the cost of the open-access edition, so there are no fees or charges to authors or their institutions.
+
+Amherst College Press partners with [Fulcrum](https://www.fulcrum.org/), the digital publishing platform of Michigan Publishing Services, to produce our books. Fulcrum treats all forms of digital objects equally, which means we have the ability to integrate things like images, video, visualizations, and sound into ebooks in interesting ways. Michigan Publishing Services assures that our titles are discoverable by, and accessible to, the widest possible audience, while being sustainable into the digital future.
+
 ## For Prospective Authors
 
 Please consult our editorial program below to read about areas of particular interest to our editors. See our [individual project proposal template](https://docs.google.com/document/d/1jGNlpD6nT7ZlVTs6tNwyNB164AExiIQ0lPHhWM8usLs/edit?usp=sharing) to get a sense of what we look for when considering projects. For guidance on proposing and developing edited collections, please see our [edited collections information sheet](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing).  If you are interested in proposing a series, please review our [series proposal guidelines](https://docs.google.com/document/d/1j3W09SHS3fj0VKvC8WiilYmpg3P0w3lecp8liRZSAvw/edit?usp=sharing). When you’re ready, submit a proposal to Amherst College Press at acpress@amherst.edu
@@ -32,13 +40,3 @@ Agreements and rights requests:
 Marketing:
 
 * [Marketing Info Guide for Authors](https://docs.google.com/document/d/1v92C_KEQVFQYIcYEq6_nettIkRKfmXZ6H5XNJ95qR8U/edit?usp=sharing)
-
-## Areas of Interest
-
-The press publishes titles in Art History and Visual Studies; Digital and Game Studies; Latin American Studies; Literary and Media Studies; Music and Sound Studies; and Russian, East European, and Eurasian Studies with a deep interest in interdisciplinary scholarship.
-
-We seek works that fit into either or both of these broad categories:
-
-***Topics, fields, and communities that would benefit from open access books.*** Smaller fields—particularly emerging fields and subfields—can encounter difficulty finding a pathway to publication in market-based publishing. We’re especially interested in receiving proposals from scholars in such fields, and from those whose work engages and speaks to reading and scholarly communities typically underserved by traditional publishing models.
-
-***Fields better served by digital platforms for the communication of ideas.*** As a press focused on the creation of digital-first work, we are interested in proposals utilizing digital technologies to convey ideas and modes of inquiry in the humanities implementing technology in new and creative ways. Our works are published on[ Fulcrum](https://www.fulcrum.org/), which provides a platform allowing narrative to be richly integrated with associated data (images, videos, audio files, visualizations, etc.), optimized for long-term preservation and accessibility.
