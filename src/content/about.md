@@ -61,10 +61,10 @@ As a small open-access press based at Amherst College, we seek to offer a differ
 
 Amherst College Press strives to ensure our books and their associated media and resources are available and accessible to anyone who wants to read or use them. As an open access press, we also seek to eliminate some historic barriers to publishing, particularly for those who are first-time authors or who lack institutional support. Specific steps we have taken and plan to take in order to advance accessibility of ACP titles: 
 
-* Continuing to charge no fees (commonly called “book processing charges”) to authors or their institutions to publish OA
-* Making resources available that guide authors through the publication process on our website
-*  Communicating to readers the type of peer review each project underwent in a transparent fashion
-*  Utilizing [Creative Commons licensing](https://creativecommons.org/licenses/) to ensure our titles can be easily and fairly cited and reused
+* Continuing to charge no fees (commonly called “book processing charges”) to authors or their institutions to publish OA.
+* Making resources available that guide authors through the publication process on our website.
+*  Communicating to readers the type of peer review each project underwent in a transparent fashion.
+*  Utilizing [Creative Commons licensing](https://creativecommons.org/licenses/) to ensure our titles can be easily and fairly cited and reused.
 * Working to make our books available and accessible in venues such as Bookshare and in audio formats on, for example, Googleplay. 
 
 We understand that there are many ways to do and read scholarship, which is why we partner with Fulcrum, a platform that makes accessibility a core value and design component. [Read more about the ways Fulcrum is developing the platform](https://www.fulcrum.org/accessibility/) and its content to be inclusive, accessible, and usable for all readers.
