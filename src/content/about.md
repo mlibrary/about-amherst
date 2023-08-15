@@ -2,57 +2,45 @@
 templateKey: about-page
 title: About Amherst College Press
 ---
-<ul class="list-unstyled">
-<li><a href="#editorial">Editorial Board</a></li>
-<li><a href="#operations">Operations Group</a></li>
-<li><a href="#values">Our Values</a></li><li><a href="#dei-statement">Statement on Diversity, Equity, and Inclusion</a></li>
-<li><a href="#accessibility">Statement on Accessibility</a></li>
+Amherst College Press produces pathbreaking, peer-reviewed scholarship and makes it available to readers everywhere as digital, open-access work and affordable paperback books. As a diamond/platinum open-access press, we charge no fees to authors, their institutions, or readers. Our books are published on [Fulcrum](https://www.fulcrum.org/), a platform created by Michigan Publishing, allowing narrative to be richly integrated with multimedia and optimized for long-term preservation and accessibility.
 
-<li><a href="#commitments">Our Commitments</a></li>
-<li><a href="#peerreview">Peer Review</a></li>
-<li><a href="#discovery">Discovery and Reuse</a></li>
-<li><a href="#historical-docs">Historical Documents</a></li>
-</ul>
-
-Amherst College Press produces pathbreaking, peer-reviewed scholarship and makes it available to readers everywhere as digital, open-access work. The press publishes titles in Art History and Visual Studies, Latin American Studies, Literary Studies, Music and Sound Studies, and Russian, East European and Eurasian Studies with a deep interest in interdisciplinary scholarship. We publish our books on Fulcrum, a platform created by Michigan Publishing, allowing narrative to be richly integrated with multimedia and optimized for long-term preservation and accessibility.
+ACP publishes titles in art history and visual studies; digital and game studies; Latin American studies; literary and media studies; music and sound studies; and Russian, East European, and Eurasian Studies. We also have deep interests in activist studies, environmental and energy humanities, multilingualism and translation, public and community humanities, and all forms of justice-oriented scholarship and methodology.
 
 Amherst College Press is a member of the [Association of University Presses](http://www.aupresses.org/) and is fully funded by Amherst College.
 
-<h2 id="editorial">Editorial Board</h2>
+<ul class="list-unstyled">
+<li><a href="#peerreview">Peer Review</a></li>
 
-The Editorial Board of the Amherst College Press is composed of faculty members of Amherst College. Each member serves a three-year term. Ex officio positions are held by the director of the Amherst College Library, the director of the Mead Art Museum, and the director of the Center for Humanistic Inquiry.
+<li><a href="#discovery">Discovery, Preservation and Reuse</a></li>
+<li><a href="#operations">Our Production Process</a></li>
+<li><a href="#values">Our Values</a></li><li><a href="#dei-statement">Statement on Diversity, Equity, and Inclusion</a></li>
+<li><a href="#accessibility">Statement on Accessibility</a></li>
 
-**Editorial Board members:**
+<li><a href="#editorial">Editorial Board</a></li>
+<li><a href="#historical-docs">Historical Documents</a></li>
+</ul>
 
-* Class of 2019: Leah Schmalzbauer, David Little, Vanessa Walker
-* Class of 2020: Martha Umphrey, Hannah Holleman
-* Class of 2021: Tariq Jaffer, Laure Katsaros 
-* Class of 2022: Jen Manion, Michael Kunichika 
-* Class of 2023: Aneeka Henderson
-* Class of 2024: Kristin Bumiller, Chris Grobe (chair), Paul Schroeder Rodríguez
-* Class of 2025: Pawan Dhingra, Pooja Rangan
+<h2 id="peerreview">Peer Review</h2>
 
-**Ex officio positions:**
+Amherst College Press is committed to the highest standards of peer review in evaluating the work it considers for publication and to communicating the nature of review to readers in a transparent fashion. We specify the type of review used in the front matter of each of our publications to signal in a clear, consistent way how each project has been reviewed.
 
-* Martin Garnar, Director of the Library, Amherst College
-* Chris Grobe, Director of the Center for Humanistic Inquiry, Amherst College
-* Lisa Crossman, Curator of American Art and Arts of the Americas, Mead Art Museum, Amherst College
+Please see our [Peer Review Commitments and Guidelines page](https://about-amherstpress.netlify.app/peerreview/) for more details.
 
-<h2 id="operations">Operations Group</h2>
+<h2 id="discovery">Discovery, Preservation, and Reuse</h2>
 
-The Amherst College Press Operations Group is essentially the production backbone of Amherst College Press. It consists of staff at Amherst College Press and Michigan Publishing with a key role in acquiring, developing, and producing ACP titles, or in the administration of this initiative. The current Operations Group consists of:
+ACP publishes books [through the Fulcrum platform](https://www.fulcrum.org/amherst?locale=en) and delivers titles to a range of book indexers, library discovery services, and platforms including JSTOR Open, Muse Open, Open Research Library, and OAPEN. [MARC records are available for free download under a CC0 license](https://ftp.fulcrum.org/Amherst_College_Press/). 
 
-* Beth Bouloukos, Director, Amherst College Press 
-* Hannah Brooks-Motl, Acquisitions Editor, Amherst College Press 
+Fulcrum is dedicated to providing durable, long-term stewardship for digital scholarship through a [comprehensive preservation strategy](https://www.fulcrum.org/preservation/) that adheres to the practices and policies of the University of Michigan Library. ACP titles will also be deposited into [CLOCKSS](https://clockss.org/), a leading digital preservation archive.  
+
+Amherst College Press Press titles are made available under [Creative Commons](https://creativecommons.org/) (CC) licenses. The particular CC license chosen is up to the author.
+
+<h2 id="operations">Our Production Process</h2>
+
+Amherst College Press partners with Fulcrum, the digital publishing platform of Michigan Publishing Services, to produce our books. MPS handles all aspects of our production: copyediting, typesetting, cover design, EPUB creation, and final publication and distribution. Our books are available through the Chicago Distribution Center. Key partners at MPS are:
+
 * Jason Colman, Director, Michigan Publishing Services
 * Carl Lavigne, Digital Publishing Coordinator, Michigan Publishing Services
 * Jeremy Morse, Director of Publishing Technology, Michigan Publishing Services
-
-<h2 id="values">Our Values</h2>
-
-Amherst College Press was founded with the objective of supporting scholarship in the humanities and humanistic social sciences, with a focus on the mission and needs of liberal arts institutions. We aim to locate, develop, and sustain this scholarship through a platinum open access publishing model: our works are published at no cost to authors, their institutions, or readers.
-
-We seek to lead the way in establishing best practices for born-digital, peer-reviewed, open access monograph publishing by identifying, evaluating, and advocating for transformative scholarship that spurs creative dialogue within and between traditional fields of inquiry, emphasizes disciplinary innovation, draws upon new models of collaborative research, and strives to reach the broadest audience possible.
 
 <h2 id="dei-statement">Statement on Diversity, Equity, and Inclusion</h2>
 
@@ -71,27 +59,36 @@ As a small open-access press based at Amherst College, we seek to offer a differ
 
 <h2 id="accessibility">Statement on Accessibility</h2>
 
-Amherst College Press strives to ensure our books and their associated media and resources are available and accessible to anyone who wants to read or use them. As an open access press, we also seek to eliminate some historic barriers to publishing, particularly for those who are first-time authors or who lack institutional support: we charge no fees (commonly called “book processing charges”) to authors or their institutions to publish OA; we make resources available that guide authors through the publication process on our website; we communicate to readers the type of peer review each project underwent in a transparent fashion. We also utilize [Creative Commons licensing](https://creativecommons.org/licenses/) to ensure our titles can be easily and fairly cited and reused.
+Amherst College Press strives to ensure our books and their associated media and resources are available and accessible to anyone who wants to read or use them. As an open access press, we also seek to eliminate some historic barriers to publishing, particularly for those who are first-time authors or who lack institutional support. Specific steps we have taken and plan to take in order to advance accessibility of ACP titles: 
 
-We understand that there are many ways to do and read scholarship, which is why we partner with Fulcrum, a platform that makes accessibility a core value and design component. Read more about the ways Fulcrum is developing the platform and its content to be inclusive, accessible, and[ usable for all readers here](https://www.fulcrum.org/accessibility/).
+* Continuing to charge no fees (commonly called “book processing charges”) to authors or their institutions to publish OA
+* Making resources available that guide authors through the publication process on our website
+*  Communicating to readers the type of peer review each project underwent in a transparent fashion
+*  Utilizing [Creative Commons licensing](https://creativecommons.org/licenses/) to ensure our titles can be easily and fairly cited and reused
+* Working to make our books available and accessible in venues such as Bookshare and in audio formats on, for example, Googleplay. 
 
-<h2 id="commitments">Our Commitments</h2>
+We understand that there are many ways to do and read scholarship, which is why we partner with Fulcrum, a platform that makes accessibility a core value and design component. [Read more about the ways Fulcrum is developing the platform](https://www.fulcrum.org/accessibility/) and its content to be inclusive, accessible, and usable for all readers.
 
-***Focus on the Liberal Arts.*** We welcome works exploring intellectual connections across academic disciplines and divisions and champion works whose methods and modalities reach beyond the standard monograph.
+<h2 id="editorial">Editorial Board</h2>
 
-***Platinum Open Access.*** Amherst College Press is committed to funding all the costs of acquiring, editing, developing, and producing scholarship. Platinum OA means we can consider works with regard to scholarly merit only. We are particularly interested in topics, fields, and reading and scholarly communities that would benefit from open access books.
+The Editorial Board of the Amherst College Press is composed of faculty members of Amherst College. Each member serves a three-year term. Ex officio positions are held by the director of the Amherst College Library, the director of the Mead Art Museum, and the director of the Center for Humanistic Inquiry.
 
-***Born digital.*** Amherst College Press makes print copies available for works that render well in print. We also welcome projects of digital scholarship not well served by scholarly conventions limited to print-only outcomes and looks forward to partnering with an emerging community of scholars in the digital humanities who are linking together disciplinary perspectives and using new tools for visualization and reader engagement.
+Editorial Board members:
 
-<h2 id="peerreview">Peer Review</h2>
+* Class of 2019: Leah Schmalzbauer, David Little, Vanessa Walker
+* Class of 2020: Martha Umphrey, Hannah Holleman
+* Class of 2021: Tariq Jaffer, Laure Katsaros
+* Class of 2022: Jen Manion, Michael Kunichika
+* Class of 2023: Aneeka Henderson
+* Class of 2024: Kristin Bumiller, Chris Grobe (chair), Paul Schroeder Rodríguez
+* Class of 2025: Pawan Dhingra, Pooja Rangan
+* Class of 2026: Yael Rice, Catherine Infante
 
-Amherst College Press is committed to the highest standards of peer review in evaluating the work it considers for publication and to communicating the nature of review to readers in a transparent fashion. 
+Ex officio positions:
 
-As a process of independent and informed evaluation of both argument and originality of scholarly work, peer review is the principal means by which ACP assures the quality and merit of the work it publishes. Please see our [Peer Review Commitments and Guidelines page](https://about-amherstpress.netlify.app/peerreview/) for more details.
-
-<h2 id="discovery">Discovery and Reuse</h2>
-
-Amherst College Press Press titles are made available under Creative Commons (CC) licenses to maximize opportunities for reuse. The particular CC license chosen is up to the author. As well as being delivered [through the Fulcrum platform](https://www.fulcrum.org/amherst?locale=en), Amherst College Press titles are delivered to a range of book indexers, library discovery services, and platforms including JSTOR Open, Muse Open, Open Research Library, and OAPEN. [MARC records are available for free download under a CC0 license](https://ftp.fulcrum.org/Amherst_College_Press/). See how Amherst College Press titles receive usage all over the world on the Readership Map.
+* Martin Garnar, Director of the Library, Amherst College
+* Chris Grobe, Director of the Center for Humanistic Inquiry, Amherst College
+* Lisa Crossman, Curator of American Art and Arts of the Americas, Mead Art Museum, Amherst College
 
 <h2 id="historical-docs">Historical Documents</h2>
 
