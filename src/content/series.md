@@ -2,7 +2,7 @@
 templateKey: series-page
 title: Series
 ---
-Interested in submitting a proposal to one of our existing series? Please send inquires to acpress@amherst.edu
+<p class="lead">Interested in submitting a proposal to one of our existing series? Please send inquires to <a href="mailto:acpress@amherst.edu">acpress@amherst.edu</a>.</p>
 
 <h2 id="acp-records"><cite>ACP Records</cite></h2>
 

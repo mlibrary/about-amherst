@@ -44,23 +44,23 @@ const Navbar = () => {
               </Link>
             </li>
             <li>
-              <Link to="/impact" className="nav-link text-dark">
-                Impact
+              <Link to="/currentauthors" className="nav-link text-dark">
+                For Current Authors
               </Link>
             </li>
             <li>
-              <Link to="/news" className="nav-link text-dark">
-                News
+              <Link to="/blog" className="nav-link text-dark">
+                Blog
               </Link>
             </li>
             <li>
-              <Link to="/events" className="nav-link text-dark">
-                Events
+              <Link to="/conferences" className="nav-link text-dark">
+                Conferences
               </Link>
             </li>
             <li>
-              <Link to="/community" className="nav-link text-dark">
-                Community
+              <Link to="/contact" className="nav-link text-dark">
+                Contact
               </Link>
             </li>
           </ul>

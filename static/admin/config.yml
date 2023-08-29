@@ -2,9 +2,9 @@ media_folder: static/assets
 public_folder: assets
 public_folder_relative: false
 collections:
-  - name: news
-    label: News
-    folder: src/content/news
+  - name: blog
+    label: Blog
+    folder: src/content/blog
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
@@ -13,13 +13,13 @@ collections:
       - { name: summary, label: Summary }
       - { name: date, label: Published, widget: datetime }
       - { name: body, label: Body, widget: markdown }
-  - name: events
-    label: Events
-    folder: src/content/events
+  - name: conferences
+    label: Conferences
+    folder: src/content/conferences
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { name: templateKey, label: "Template Key", widget: hidden, default: event }
+      - { name: templateKey, label: "Template Key", widget: hidden, default: conference }
       - { name: title, label: Title }
       - { name: summary, label: Summary }
       - { name: date, label: Published, widget: datetime }
@@ -94,14 +94,6 @@ collections:
             fields:
               - { name: heading, label: Heading }
               - { name: description, label: Description }
-              - { name: mapImage, label: "Map Image", widget: image }
-          - name: communitySection
-            label: "Community Section"
-            widget: object
-            fields:
-              - { name: heading, label: Heading }
-              - { name: description, label: Description }
-              - { name: communityImage, label: "Community Image", widget: image }
       - file: "src/content/about.md"
         name: about
         label: About
@@ -116,6 +108,13 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: authors-page }
           - { name: title, label: Authors }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/currentauthors.md"
+        name: currentAuthors
+        label: "Current Authors"
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: authors-page }
+          - { name: title, label: Authors }
+          - { name: body, label: Body, widget: markdown }    
       - file: "src/content/series.md"
         name: series
         label: Series

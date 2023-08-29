@@ -20,14 +20,6 @@ catalogSection:
   catalogPdf: <a class="btn btn-secondary"
     href="/assets/2023_acp-catalog_web-1.pdf">Explore our Catalog</a>
 mapSection:
-  description: Learn about our impact with real-time mapping of views and
-    downloads of our published content that occurred over the previous four
-    weeks across the world and other statistics about the usage of our books.
+  description: The Readership Map replays every view or download of Amherst Press books or media components that occurred over the previous four weeks.
   heading: Our impact and reach is global
-  mapImage: /assets/map-image.png
-communitySection:
-  description: Learn how ACP is generating awareness about open access publishing
-    at Amherst and beyond.
-  heading: An inclusive scholarly publishing community
-  communityImage: /assets/screen-shot-2020-10-12-at-4.14.15-pm.png
 ---

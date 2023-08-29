@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About Amherst College Press
 ---
-Amherst College Press produces pathbreaking, peer-reviewed scholarship and makes it available to readers everywhere as digital, open-access work and affordable paperback books. As a diamond/platinum open-access press, we charge no fees to authors, their institutions, or readers. Our books are published on [Fulcrum](https://www.fulcrum.org/), a platform created by Michigan Publishing, allowing narrative to be richly integrated with multimedia and optimized for long-term preservation and accessibility.
+<p class="lead">Amherst College Press produces pathbreaking, peer-reviewed scholarship and makes it available to readers everywhere as digital, open-access work and affordable paperback books. As a diamond/platinum open-access press, we charge no fees to authors, their institutions, or readers. Our books are published on <a href="https://www.fulcrum.org">Fulcrum</a>, a platform created by <a href="https://publishing.umich.edu">Michigan Publishing</a>, allowing narrative to be richly integrated with multimedia and optimized for long-term preservation and accessibility.</p>
 
 ACP publishes titles in art history and visual studies; digital and game studies; Latin American studies; literary and media studies; music and sound studies; and Russian, East European, and Eurasian Studies. We also have deep interests in activist studies, environmental and energy humanities, multilingualism and translation, public and community humanities, and all forms of justice-oriented scholarship and methodology.
 

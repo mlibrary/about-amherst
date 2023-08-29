@@ -8,10 +8,9 @@ import BookList from "../components/books/bookList"
 import Tagline from "../components/tagline"
 import Newsletter from "../components/newsletter"
 import Fundraiser from "../components/fundraiser"
-import NewsList from "../components/news/newsList"
-import EventList from "../components/events/eventList"
+import BlogList from "../components/blog/blogList"
+import ConferenceList from "../components/conferences/conferenceList"
 import MapImage from "../components/mapImage"
-import CommunityImage from "../components/communityImage"
 import Catalog from "../components/catalog"
 
 export const IndexQuery = graphql`
@@ -36,24 +35,6 @@ query {
       mapSection {
         heading
         description
-        mapImage {
-          childImageSharp {
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-      }
-      communitySection {
-        heading
-        description
-        communityImage {
-          childImageSharp {
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
       }
       catalogSection {
         heading
@@ -94,9 +75,9 @@ query {
       }
     }
   }
-  news: allMarkdownRemark (
+  blog: allMarkdownRemark (
     filter: {
-      frontmatter: { templateKey: { eq: "news" } }
+      frontmatter: { templateKey: { eq: "blog" } }
     },
     sort: {
       fields: frontmatter___date,
@@ -119,9 +100,9 @@ query {
       }
     }
   }
-  events: allMarkdownRemark (
+  conferences: allMarkdownRemark (
     filter: {
-      frontmatter: { templateKey: { eq: "event" } }
+      frontmatter: { templateKey: { eq: "conference" } }
     },
     sort: {
       fields: frontmatter___date,
@@ -152,11 +133,10 @@ const IndexPage = ({data}) => {
   const newsletter = data.home.frontmatter.newsletterSection
   const fundraiser = data.home.frontmatter.fundraiserSection
   const map = data.home.frontmatter.mapSection
-  const community = data.home.frontmatter.communitySection
   const catalog = data.home.frontmatter.catalogSection
   const books = data.books.edges
-  const news = data.news.edges
-  const events = data.events.edges
+  const blog = data.blog.edges
+  const conferences = data.conferences.edges
 
   return (
     <Layout>
@@ -166,7 +146,7 @@ const IndexPage = ({data}) => {
           <div className="row mt-4">
             <div className="col-md-12">
               <p className="text-right">
-                <a href="https://fulcrum.org/amherst">Read more books...</a>
+                <a href="https://fulcrum.org/amherst">Browse more books...</a>
               </p>
             </div>
           </div>
@@ -210,33 +190,30 @@ const IndexPage = ({data}) => {
         <section className="video-impact-container">
           <div className="container">
           <div className="row">
-            <div className="video-container col-md-6">
-              <CommunityImage communityImage={community} />
-            </div>
-            <div className="map-container col-md-6">
+            <div className="map-container col-md-12">
               <MapImage mapImage={map} />
             </div>
           </div>
           </div>
         </section>
         <section className="news-events-container container">
-          <div className="row">
-            <div className="news-container col-md-6">
-              <NewsList news={news} />
+          <div className="row justify-content-around">
+            <div className="news-container col-lg-5">
+              <BlogList blog={blog} />
               <div className="row mt-4">
                 <div className="col-md-12">
                   <p className="text-right">
-                    <Link to="/news">Read all News</Link>
+                    <Link to="/news">See all posts</Link>
                   </p>
                 </div>
               </div>
             </div>
-            <div className="events-container col-md-6">
-              <EventList events={events} />
+            <div className="events-container col-lg-5">
+              <ConferenceList conferences={conferences} />
               <div className="row mt-4">
                 <div className="col-md-12">
                   <p className="text-right">
-                    <Link to="/events">Read all Events</Link>
+                    <Link to="/conferences">See all conferences</Link>
                   </p>
                 </div>
               </div>
