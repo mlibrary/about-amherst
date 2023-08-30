@@ -17,8 +17,7 @@ fundraiserSection:
 catalogSection:
   heading: Amherst College Press Catalog
   catalogImage: /assets/2023_acp-catalog_cover.jpg
-  catalogPdf: <a class="btn btn-secondary"
-    href="/assets/2023_acp-catalog_web-1.pdf">Explore our Catalog</a>
+  catalogPdf: <a class="btn btn-secondary" href="/assets/2023_acp-catalog_web-1.pdf">Explore our Catalog</a>
 mapSection:
   description: The Readership Map replays every view or download of Amherst Press books or media components that occurred over the previous four weeks.
   heading: Our impact and reach is global
