@@ -30,7 +30,7 @@ Please see our [Peer Review Commitments and Guidelines page](https://about-amher
 
 ACP publishes books [through the Fulcrum platform](https://www.fulcrum.org/amherst?locale=en) and delivers titles to a range of book indexers, library discovery services, and platforms including JSTOR Open, Muse Open, Open Research Library, and OAPEN. [MARC records are available for free download under a CC0 license](https://ftp.fulcrum.org/Amherst_College_Press/). 
 
-Fulcrum is dedicated to providing durable, long-term stewardship for digital scholarship through a [comprehensive preservation strategy](https://www.fulcrum.org/preservation/) that adheres to the practices and policies of the University of Michigan Library. ACP titles will also be deposited into [CLOCKSS](https://clockss.org/), a leading digital preservation archive.  
+Fulcrum is dedicated to providing durable, long-term stewardship for digital scholarship through a [comprehensive preservation strategy](https://www.fulcrum.org/preservation/) that adheres to the practices and policies of the University of Michigan Library. ACP titles are also deposited into [CLOCKSS](https://clockss.org/), a leading digital preservation archive.  
 
 Amherst College Press Press titles are made available under [Creative Commons](https://creativecommons.org/) (CC) licenses. The particular CC license chosen is up to the author.
 
