@@ -12,12 +12,12 @@ title: Contact Us
 
 Email: bbouloukos@amherst.edu
 
-Beth acquires a wide range of subjects including Latin American Studies, Musicology, Literary Studies, and works that are a fit for ACP series. 
+Beth acquires a wide range of subjects including Latin American studies, musicology, literary studies, and works that are a fit for ACP series. 
 
 ##### Hannah Brooks-Motl, Acquisitions Editor
 
 Email: hbrooksmotl@amherst.edu
 
-Hannah acquires for ACP's Art History & Visual Studies; Literary Studies; Digital & Games Studies; Sound, Music, & Media Studies; and Russian, East European, & Eurasian Studies lists.
+Hannah acquires for ACP's art history & visual studies; literary studies; digital & games studies; sound, music, & media studies; and Russian, East European, & Eurasian studies lists.
 
 <div class="ctct-inline-form" data-form-id="e216dee7-7292-46ad-8706-34aa5ef2aacf"></div>
