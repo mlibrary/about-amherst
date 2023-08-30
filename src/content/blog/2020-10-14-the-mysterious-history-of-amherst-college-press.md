@@ -1,8 +1,7 @@
 ---
 templateKey: blog
 title: The Mysterious History of Amherst College Press?
-summary: Greg Call summer intern Joy Won on the "fascinatingly" sparse
-  historical record of ACP
+summary: Greg Call summer intern Joy Won on the "fascinatingly" sparse historical record of ACP
 date: 2020-10-14T13:44:48.531Z
 ---
 As I continue my journey in learning more about Amherst College Press (ACP) and the world of open access publishing, I became interested in digging a little into the history of the press at Amherst. Around six years ago, ACP converted to what it is now, an open-access, digital publisher focusing on scholarly works. However, beyond the last six years there is fascinatingly little information about the press’s existence. Although the press has been around for quite a number of years (more than 60 according to Amherst’s digital collections), there is not much that has been documented about the press.

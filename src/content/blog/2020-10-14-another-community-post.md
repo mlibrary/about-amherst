@@ -1,8 +1,7 @@
 ---
 templateKey: blog
 title: An Introduction to Amherst College Press and Open Access
-summary: ACP's Greg Call summer intern, Joy Won ('23), on What Open Access Means
-  to Undergrads
+summary: ACP's Greg Call summer intern, Joy Won ('23), on What Open Access Means to Undergrads
 date: 2020-10-14T12:55:40.888Z
 ---
 ![open access logo opened lock](assets/2000px-open_access_logo_smaller.png "Open Access Logo")

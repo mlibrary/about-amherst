@@ -1,8 +1,7 @@
 ---
 templateKey: blog
 title: Bootleg Beowulf and Pirated Proust
-summary: "ACP's spring 2020 intern, Jaclyn Chetty ('20), on Why Internet
-  Archive’s Open Library Isn’t All It's Cracked Up To Be "
+summary: "ACP's spring 2020 intern, Jaclyn Chetty ('20), on Why Internet Archive’s Open Library Isn’t All It's Cracked Up To Be "
 date: 2020-10-14T01:06:03.352Z
 ---
 It is news to nobody that COVID-19’s effects have been far-reaching.[ Libraries are feeling the pressure](https://www.nytimes.com/2020/05/28/opinion/libraries-coronavirus.html) to find new ways to provide access to patrons. Yet, one library in particular is causing a stir in the publishing world - the Internet Archive’s Open Library is removing its waitlists and giving free and unlimited access to all e-books on its site.

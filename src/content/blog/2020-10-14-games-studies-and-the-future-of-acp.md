@@ -1,8 +1,7 @@
 ---
 templateKey: blog
 title: Games Studies and the Future of ACP
-summary: Greg Call summer intern Joy Won on new titles and directions underway
-  at the Press
+summary: Greg Call summer intern Joy Won on new titles and directions underway at the Press
 date: 2020-10-14T13:55:25.220Z
 ---
 With Google Forms to Zoom meetings becoming staples in our lives, the importance of open-access and free digital resources has come to the forefront. It is interesting to see the role of digital technologies and resources during this time when new forms of scholarship and resources are coming to the forefront of pedagogy and access.

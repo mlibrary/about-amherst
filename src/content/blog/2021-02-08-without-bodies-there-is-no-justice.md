@@ -1,8 +1,7 @@
 ---
 templateKey: blog
 title: “Without Bodies There Is No Justice”
-summary: "ACP interns Angel Musyimi (‘23) and Sydney Ireland (‘23) explore the
-  works of James R. Martel and Carlos Alberto Sánchez "
+summary: "ACP interns Angel Musyimi (‘23) and Sydney Ireland (‘23) explore the works of James R. Martel and Carlos Alberto Sánchez "
 date: 2021-02-08T17:15:26.298Z
 ---
 On October 21st, 2020 Amherst College Press (ACP) Director Beth Bouloukos sat down for a CHI Salon over Zoom with two ACP authors, Carlos Alberto Sánchez, whose book *A Sense of Brutality: Philosophy after Narco-Culture*, ACP published in 2020, and James R. Martel, who wrote *Unburied Bodies: Subversive Corpses and the Authority of the Dead*, published in 2018. Students, faculty, staff, and other community members gathered to learn about and discuss the connections between these two open-access books. There was one recurring connection that prevailed throughout the Salon which was the idea of state power and resistance to authority.
