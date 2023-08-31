@@ -104,6 +104,13 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: authors-page }
           - { name: title, label: Authors }
           - { name: body, label: Body, widget: markdown }    
+      - file: "src/content/blog.md"
+        name: "blog page"
+        label: "Blog Page"
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: blog-page }
+          - { name: title, label: Blog }
+          - { name: body, label: Body, widget: markdown }
       - file: "src/content/series.md"
         name: series
         label: Series

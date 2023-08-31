@@ -2,10 +2,12 @@ import React from "react"
 import {graphql} from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
+import Title from "../components/title"
 import BlogList from "../components/blog/blogList"
 
 const Blog = ({data}) => {
-  const blog = data.allMarkdownRemark.edges
+  const heading = data.heading
+  const blog = data.blogs.edges
 
   return (
     <Layout>
@@ -22,6 +24,12 @@ const Blog = ({data}) => {
         </div>
         <div className="row justify-content-md-center">
           <div className="col-md-10">
+            <Title title={heading.frontmatter.title} />
+            <div dangerouslySetInnerHTML={{ __html: heading.html }} />
+          </div>
+        </div>
+        <div className="row justify-content-md-center">
+          <div className="col-md-10">
             <BlogList blog={blog} />
           </div>
         </div>
@@ -31,8 +39,14 @@ const Blog = ({data}) => {
 }
 
 export const query = graphql`
-{
-  allMarkdownRemark (
+query {
+  heading: markdownRemark (frontmatter: {templateKey: { eq: "blog-page" }}) {
+    html
+    frontmatter{
+      title
+    }
+  },
+  blogs: allMarkdownRemark (
     filter: {
       frontmatter: { templateKey: { eq: "blog" } }
     },
