@@ -2,7 +2,7 @@
 templateKey: series-page
 title: Series
 ---
-<p class="lead">Below are active series for Amherst College Press.</p>
+<p class="lead">Check out ACP's active series below.</p>
 
 See our [individual project proposal template](https://docs.google.com/document/d/1jGNlpD6nT7ZlVTs6tNwyNB164AExiIQ0lPHhWM8usLs/edit?usp=sharing) to get a sense of what we look for when considering projects. If you are interested in proposing a series, please review our [series proposal guidelines](https://docs.google.com/document/d/1j3W09SHS3fj0VKvC8WiilYmpg3P0w3lecp8liRZSAvw/edit?usp=sharing). When you’re ready, submit a proposal to [acpress@amherst.edu](mailto:acpress@amherst.edu).
 
