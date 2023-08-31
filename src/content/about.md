@@ -63,8 +63,8 @@ Amherst College Press strives to ensure our books and their associated media and
 
 * Continuing to charge no fees (commonly called “book processing charges”) to authors or their institutions to publish OA.
 * Making resources available that guide authors through the publication process on our website.
-*  Communicating to readers the type of peer review each project underwent in a transparent fashion.
-*  Utilizing [Creative Commons licensing](https://creativecommons.org/licenses/) to ensure our titles can be easily and fairly cited and reused.
+* Communicating to readers the type of peer review each project underwent in a transparent fashion.
+* Utilizing [Creative Commons licensing](https://creativecommons.org/licenses/) to ensure our titles can be easily and fairly cited and reused.
 * Working to make our books available and accessible in venues such as Bookshare and in audio formats on, for example, Googleplay. 
 
 We understand that there are many ways to do and read scholarship, which is why we partner with Fulcrum, a platform that makes accessibility a core value and design component. [Read more about the ways Fulcrum is developing the platform](https://www.fulcrum.org/accessibility/) and its content to be inclusive, accessible, and usable for all readers.
@@ -94,6 +94,6 @@ Ex officio positions:
 
 <a href="/assets/acp-2014-charter.pdf">Read the original Amherst College Press charter from 2014. </a>
 
- The current Amherst College Press extends the long tradition of publishing at Amherst College.
+The current Amherst College Press extends the long tradition of publishing at Amherst College.
 
 <a href="/assets/acp-historical-titles.pdf">Take a look at some of our legacy titles here.</a>
