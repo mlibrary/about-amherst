@@ -2,7 +2,7 @@
 templateKey: series-page
 title: Series
 ---
-<p class="lead">Interested in submitting a proposal to one of our existing series? Please send inquires to <a href="mailto:acpress@amherst.edu">acpress@amherst.edu</a>.</p>
+See our [individual project proposal template](https://docs.google.com/document/d/1jGNlpD6nT7ZlVTs6tNwyNB164AExiIQ0lPHhWM8usLs/edit?usp=sharing) to get a sense of what we look for when considering projects. For guidance on proposing and developing edited collections, please see our [edited collections information sheet](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing). If you are interested in proposing a series, please review our [series proposal guidelines](https://docs.google.com/document/d/1j3W09SHS3fj0VKvC8WiilYmpg3P0w3lecp8liRZSAvw/edit?usp=sharing). When you’re ready, submit a proposal to <a href="mailto:acpress@amherst.edu">acpress@amherst.edu</a>.
 
 <h2 id="acp-records"><cite>ACP Records</cite></h2>
 
