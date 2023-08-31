@@ -12,6 +12,8 @@ title: Contact Us
 
 Email: bbouloukos@amherst.edu
 
+Mailing address: Frost Library, 61 Quadrangle Drive, Amherst MA 01002
+
 Beth acquires a wide range of subjects including Latin American studies, musicology, literary studies, and works that are a fit for ACP series. 
 
 ##### Hannah Brooks-Motl, Acquisitions Editor
