@@ -3,7 +3,7 @@ templateKey: book
 title: "Deep Horizons: A Multisensory Archive of Ecological Affects and Prospects"
 authorLastname: Cohen
 author: Edited by Brianne Cohen, Erin Espelie, & Bonnie Etherington
-cover: assets/cohen_cover_2pdf.jpg
+cover: assets/cohen_cover_2_w_border.jpg
 description: "Deep Horizons: A Multisensory Archive of Ecological Affects and
   Prospects gathers contributions from multiple disciplines to investigate
   intersectional questions of how the changing planet affects specific peoples,
