@@ -9,7 +9,7 @@ description: Pagano questions the apparent opposition between diaspora and
   through spontaneous emigration envisioned by Italian liberal intellectuals at
   the turn of the century and the military colonialism of Italian Nationalists
   and Fascists.
-orderOnPage: 2
+orderOnPage: 3
 readLink: https://doi.org/10.3998/mpub.12758341
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-943208-54-8&PRESS=amherst
 ---
