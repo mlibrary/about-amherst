@@ -39,7 +39,7 @@ Amherst College Press Press titles are made available under [Creative Commons](h
 Amherst College Press partners with Fulcrum, the digital publishing platform of Michigan Publishing Services, to produce our books. MPS handles all aspects of our production: copyediting, typesetting, cover design, EPUB creation, and final publication and distribution. Our books are available through the Chicago Distribution Center. Key partners at MPS are:
 
 * Jason Colman, Director, Michigan Publishing Services
-* Carl Lavigne, Digital Publishing Coordinator, Michigan Publishing Services
+* Katie Rokakis, Senior Digital Publishing Coordinator, Michigan Publishing Services
 * Jeremy Morse, Director of Publishing Technology, Michigan Publishing Services
 
 <h2 id="dei-statement">Statement on Diversity, Equity, and Inclusion</h2>
