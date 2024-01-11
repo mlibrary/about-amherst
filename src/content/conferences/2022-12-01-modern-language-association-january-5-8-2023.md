@@ -1,7 +1,7 @@
 ---
 templateKey: conference
-title: "National Women's Studies Association: October 26-29, 2023"
-summary: ACP will be in-person for this year's NWSA in Baltimore
+title: "Society for Cinema and Media Studies: March 14-17, 2024"
+summary: ACP to exhibit at this year's SCMS in Boston
 date: 2022-12-01T19:08:56.010Z
 ---
-ACP will be attending this year's NWSA. If you have a project that might be a fit for us, don't hesitate to reach out for a meeting, either before or after the conference.
+ACP will be have a table at this year's SCMS. If you have a project that might be a fit for us, don't hesitate to reach out for a meeting, either before or after the conference.
