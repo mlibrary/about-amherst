@@ -8,7 +8,7 @@ description: "Previous studies of judicial opinions have explored rhetorical
   strategies that produce legitimacy, but none have examined the laudatory, even
   operatic, forms of writing Supreme Court justices have used to justify
   fundamental rights decisions. "
-orderOnPage: 4
+orderOnPage: 0
 readLink: https://doi.org/10.3998/mpub.12752816
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-943208-46-3&PRESS=amherst
 ---
