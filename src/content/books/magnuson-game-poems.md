@@ -9,7 +9,7 @@ description: "In Game Poems: Videogame Design as Lyric Practice, independent
   and lyric poetry and makes the surprising proposition that videogames can
   operate as a kind of poetry apart from any reliance on linguistic signs or
   symbols."
-orderOnPage: 4
+orderOnPage: 0
 readLink: https://doi.org/10.3998/mpub.12758539
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-943208-52-4&PRESS=amherst
 ---
