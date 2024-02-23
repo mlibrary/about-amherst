@@ -56,7 +56,7 @@ Public Works seeks out and makes available the perspective of leading scholars i
 
 Series editors: Brian Glavey, University of South Carolina; Kamran Javadizadeh, Villanova University; Johanna Winant, West Virginia University
 
-Re/verse is a series of compact introductions to individual books of poetry. Poems are often understood in relation to their canonization in anthologies and Collected Works, or, more recently, through forms of viral circulation on social media and other digital platforms. Re/verse proposes that the poetry collection itself is a significant unit of meaning and that studying a collection brings new insights to our reading of the poems it contains. These short, accessibly-written books will appeal to nonacademic readers and writers as well as teachers and students in literary studies and creative writing classes.
+Re/verse is a series of compact introductions to individual books of poetry. Poems are often understood in relation to their canonization in anthologies and *Collected Works*, or, more recently, through forms of viral circulation on social media and other digital platforms. Re/verse proposes that the poetry collection itself is a significant unit of meaning and that studying a collection brings new insights to our reading of the poems it contains. These short, accessibly-written books will appeal to nonacademic readers and writers as well as teachers and students in literary studies and creative writing classes.
 
 <h2 id="russian-travelogues"><cite>Russian Travelogues</cite></h2>
 
