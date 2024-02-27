@@ -9,7 +9,7 @@ description: "Deep Horizons: A Multisensory Archive of Ecological Affects and
   intersectional questions of how the changing planet affects specific peoples,
   communities, wildlife species, and ecosystems in varying and inequitable
   ways."
-orderOnPage: 4
+orderOnPage: 0
 readLink: https://doi.org/10.3998/mpub.12780342
 buyLink: https://doi.org/10.3998/mpub.12780342
 ---
