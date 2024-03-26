@@ -1,5 +1,5 @@
 ---
-templateKey: blog 
+templateKey: blog
 title: The Arts of Losing
 summary: ACP's acquisition editor Hannah Brooks-Motl on acquiring books while
   developing a preservability mindset
@@ -24,5 +24,7 @@ Once we editors began sharing our workflows with platform developers and preserv
 These kinds of logs are familiar to publishers already. They do lots of work. They also are a lot of work—for authors. Confusion can creep in at this moment as it seems like we (editors) are asking them (authors) to do a lot of busy work without clearly explaining why. The conversation around preservation has helped me re-understand this piece of our process. Rather than send the metadata template to authors with a bunch of other production documents, I now try to schedule a meeting to go over it together. I show them examples of what a media asset or resource with lots of good metadata looks like and what a skimpy spreadsheet yields. Someday something will break or not get updated and what will remain—think of it as the “trace” of the resource, I tell authors—is whatever choice someone made to fill out a field or leave it blank. 
 
 I used to struggle to communicate to authors the importance of this template and wondered how to help them “see” what its many columns and rows meant for publication itself, let alone for long-term preservation. I now feel able to give authors a slightly better, if still incomplete, view–if I don’t yet have a whole picture of what digital preservation is (no one does), then at least I can share my own emerging mindset of why it matters. Together we can choose, or not, to make their project a little more preservable. There will need to be many more such conversations that include all of us–preservation experts, library workers, publishers, and authors–if we are going to seriously attend to threats that digital loss poses to our scholarly and cultural record.
+
+*
 
 Hannah Brooks-Motl is an acquisitions editor at Amherst College Press where she acquires broadly in the humanities and humanistic social sciences and runs ACP's internship program. Hannah is interested in acquiring manuscripts that bring together unexpected archives, objects, institutions, regions, and histories in engaging and accessible ways, and she is committed to helping authors, readers, and students understand the scholarly communications landscape. She earned her MFA from the University of Massachusetts-Amherst and PhD from the University of Chicago.
