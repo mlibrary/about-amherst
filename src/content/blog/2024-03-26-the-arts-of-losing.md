@@ -1,5 +1,5 @@
 ---
-templateKey: news
+templateKey: blog 
 title: The Arts of Losing
 summary: ACP's acquisition editor Hannah Brooks-Motl on acquiring books while
   developing a preservability mindset
