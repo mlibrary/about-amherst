@@ -30,7 +30,7 @@ According to Lin, “*Reimagining Nabokov* constructs an image of a writer to wh
 
 ### *Deep Horizons* contributor Craig Santos Perez wins 2023 National Book Award
 
-Craig Santos Perez, a contributor for *Deep Horizons: A Multisensory Archive of Ecological Affects and Prospects* edited by Brianne Cohen, Erin Espelie & Bonnie Etherington, has won the 2023 National Book Award in poetry for his new collection *[from unincorporated territory \[åmot]](https://r20.rs6.net/tn.jsp?f=001GTx3jh-L6qd_1f-eFfDDaV60I4dJKYLFqmLqBHddFNuvatJLAablTswmC9N-VkR73mMVWwPEi2okZQkeB86XhfUbWGw7NC1zBih7PwW6tDq_bbwUAlVOuCPIileTgvEPVATsWu8ontiArg-g-YfbP0BpovHeQ330c6ZQxD8DSlMRRaUCJLu3dA==&c=_VhwW0EXlpiUbq-HNRSs1dT6rmtIj8BehZeY7yM4FuqAnK8aHpBSZw==&ch=QucXrKT2LlEQShDcwfw81LfzJS7axTYVnJ4rkAwgvJpF3gbB-XeJcw==)*.
+Craig Santos Perez, a contributor for *Deep Horizons: A Multisensory Archive of Ecological Affects and Prospects* edited by Brianne Cohen, Erin Espelie & Bonnie Etherington, has won the 2023 National Book Award in poetry for his new collection *[From Unincorporated Territory \[åmot]](https://press.uchicago.edu/ucp/books/book/distributed/F/bo196817480.html)*
 
 Congratulations to Perez and to all this year's [NBA winners](https://r20.rs6.net/tn.jsp?f=001GTx3jh-L6qd_1f-eFfDDaV60I4dJKYLFqmLqBHddFNuvatJLAablTswmC9N-VkR71321oRtSfHcCEwvhn3vJl6g-JRL-TnAiNI5kWy0njOehz5jVwDMVr4N0RF11SEOz267D2V60ZnBTqJn7-jZQwuZ21RX8yHj0PfLjnVSd3-CGuOH9oGApOfb8lQGgdb4Kw0RufbFqSQHP2URrzJCXxg==&c=_VhwW0EXlpiUbq-HNRSs1dT6rmtIj8BehZeY7yM4FuqAnK8aHpBSZw==&ch=QucXrKT2LlEQShDcwfw81LfzJS7axTYVnJ4rkAwgvJpF3gbB-XeJcw==)!
 
