@@ -1,5 +1,5 @@
 ---
-templateKey: news
+templateKey: blog
 title: Winter/Spring 2024 Newsletter
 summary: Read the latest from ACP
 date: 2024-03-26T15:23:13.179Z
