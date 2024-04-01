@@ -18,7 +18,7 @@ In September, ACP headed to NYC for two days of discussion and workshops around 
 
 ![](assets/pagano.jpg)
 
-*Italy to Argentina: Travel Writing and Emigrant Colonialism* by Tullio Pagano was reviewed by Fernanda Elisa Bravo Herrera of the Instituto de Literatura Argentina, UBA in *Revista de Literatura Hispanoamericana y Comp*arada.
+*Italy to Argentina: Travel Writing and Emigrant Colonialism* by Tullio Pagano was reviewed by Fernanda Elisa Bravo Herrera of the Instituto de Literatura Argentina, UBA in *Revista de Literatura Hispanoamericana y Comparada*.
 
 Herrera writes: “Por todo esto Italy to Argentina. *Travel writing and emigrant colonialism* de Tullio Pagano es un libro necesario para los estudios que abordan los contactos entre Argentina e Italia, especialmente los fenómenos migratorios, y un recordatorio de tantas historias, desvíos y cruces entre ambos espacios geoculturales.”
 
