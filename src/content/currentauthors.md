@@ -7,7 +7,7 @@ title: For Current Authors
 ## Production documents
 
 * [Author Guide and Final Manuscript Preparation Guidelines](https://docs.google.com/document/d/1ophHc6i5g4KiEfBgyarmZozhbciXcL7Gj0kAQaWqUVs/edit?usp=sharing)
-* [Metadata Template](https://docs.google.com/spreadsheets/d/1ibNeACiXKZbk2MVNj4bpHoopqtt-7HyDxf7ana3SI_s/edit#gid=0)
+* [Metadata Template](https://docs.google.com/spreadsheets/d/1i17lzOT88pO8a_Y98Fnzc_tJlGBXaFuN1B400qpzodg/edit?usp=sharing)
 * [](https://docs.google.com/document/d/1s2PXqXTJ2qBEeD1ZRXMeBJy79pc6yrtsXTP-b2DstnM/edit?usp=sharing)[Pre-Production Checklist](https://docs.google.com/document/d/12Zkv_aCeAsNi7RaRxhRxofWEJm3GzIKaKs9i_5Uc9pY/edit)
 * [Cover Info Sheet](https://docs.google.com/document/d/1cP0m9EPmbMittQmfeJthyJESC6SFfZV3f44iwlyg8I8/edit?usp=share_link)
 
