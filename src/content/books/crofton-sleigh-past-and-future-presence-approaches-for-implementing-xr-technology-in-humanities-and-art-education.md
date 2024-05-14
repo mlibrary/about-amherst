@@ -14,7 +14,7 @@ description: While uses and studies of XR technology within STEM-based education
   ranging in topics from ancient to modern languages, classical and contemporary
   art, and reenvisioned historical scenes and events presented in ways never
   seen before.
-orderOnPage: -33
+orderOnPage: 1
 readLink: https://doi.org/10.3998/mpub.14371789
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-943208-69-2&PRESS=amherst
 ---
