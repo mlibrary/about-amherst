@@ -22,10 +22,6 @@ Email: hbrooksmotl@amherst.edu
 
 Hannah acquires for ACP's art history & visual studies; literary studies; digital & games studies; sound, music, & media studies; and Russian, East European, & Eurasian studies lists.
 
-<div class="ctct-inline-form" data-form-id="e216dee7-7292-46ad-8706-34aa5ef2aacf"></div>
-
-
-
 Takedown Requests: Rights holders should direct electronic inquiries and complaints about possible copyright infringements to: dmca\[at]amherst.edu
 
 Paper inquiries and complaints should be directed to:
@@ -34,3 +30,5 @@ Director of IT Analysis, Planning & Budget\
 Rm B-15 Converse Hall\
 Amherst College\
 Amherst, MA  01002-5000
+
+<div class="ctct-inline-form" data-form-id="e216dee7-7292-46ad-8706-34aa5ef2aacf"></div>
