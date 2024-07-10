@@ -16,6 +16,7 @@ title: For Current Authors
 * [Contributor's Agreement](https://docs.google.com/document/d/1Svqoo0-W3tKqlP-F8usmIrlIrc6l6kpUE2FTC0FX7-4/edit)
 * [Permissions Requests](https://docs.google.com/document/d/1mR4s0DOJrqIUo5kJepEUvnb38oT3_0LVXp8JCS4Qk4w/edit)
 * [Permissions Log](https://docs.google.com/spreadsheets/d/1m5hzxO1l-n4gF_j4e5BeIXwQl5_m4Mqf9U5yJEVr82I/edit?usp=sharing)
+* [Permissions Guidelines for Authors and Creators](https://docs.google.com/document/d/1xZbrkuq2fS4fBRieu2xcao74ZtyKpT-rHa-cC36WHCA/edit?usp=sharing)
 
 ## Marketing
 
