@@ -24,6 +24,13 @@ Email: hbrooksmotl@amherst.edu
 
 Hannah acquires for ACP's art history & visual studies; literary studies; digital & games studies; sound, music & media studies; and Russian, East European & Eurasian studies lists.
 
+##### Trevor Perri, Acquisitions Editor-at-Large
+
+Email: acpress-acquisitions@amherst.edu
+
+Trevor acquires in areas including art history and visual studies; Latin American studies; literary studies; philosophy; and Russian, East European, and Eurasian studies.
+
+
 \*
 
 **Takedown Requests:** Rights holders should direct electronic inquiries and complaints about possible copyright infringements to: dmca\[at]amherst.edu
