@@ -80,14 +80,15 @@ Editorial Board members:
 * Class of 2021: Tariq Jaffer, Laure Katsaros
 * Class of 2022: Jen Manion, Michael Kunichika
 * Class of 2023: Aneeka Henderson
-* Class of 2024: Kristin Bumiller, Chris Grobe (chair), Paul Schroeder Rodríguez
+* Class of 2024: Kristin Bumiller, Chris Grobe, Paul Schroeder Rodríguez
 * Class of 2025: Pawan Dhingra, Pooja Rangan
 * Class of 2026: Yael Rice, Catherine Infante
+* Class of 2027: Amy Coddington, Lloyd Barba
 
 Ex officio positions:
 
 * Martin Garnar, Director of the Library, Amherst College
-* Chris Grobe, Director of the Center for Humanistic Inquiry, Amherst College
+* Michael Kunichika, Director of the Center for Humanistic Inquiry, Amherst College
 * Lisa Crossman, Curator of American Art and Arts of the Americas, Mead Art Museum, Amherst College
 
 <h2 id="historical-docs">Historical Documents</h2>
