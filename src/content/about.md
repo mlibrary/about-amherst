@@ -65,7 +65,7 @@ Amherst College Press strives to ensure our books and their associated media and
 * Making resources available that guide authors through the publication process on our website.
 * Communicating to readers the type of peer review each project underwent in a transparent fashion.
 * Utilizing [Creative Commons licensing](https://creativecommons.org/licenses/) to ensure our titles can be easily and fairly cited and reused.
-* Working to make our books available and accessible in venues such as Bookshare and in audio formats on, for example, Googleplay. 
+* Working to make our books available and accessible in venues such as Bookshare and in audio formats on, for example, Google Play. 
 
 We understand that there are many ways to do and read scholarship, which is why we partner with Fulcrum, a platform that makes accessibility a core value and design component. [Read more about the ways Fulcrum is developing the platform](https://www.fulcrum.org/accessibility/) and its content to be inclusive, accessible, and usable for all readers.
 
