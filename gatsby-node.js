@@ -79,6 +79,26 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     }
     // end HELIO-3193
 
+    if (node.frontmatter.catalogImage) {
+      console.log("OLDPATH", node.frontmatter.catalogImage)
+      console.log("FIXPATH", node.frontmatter.catalogImage.replace(/^.*assets/, "/assets"))
+      createNodeField({
+        node,
+        name: `catalogImage`,
+        value: node.frontmatter.catalogImage.replace(/^.*assets/, "/assets")
+      })
+    }
+
+    if (node.frontmatter.catalogPdf) {
+      console.log("OLDPATH", node.frontmatter.catalogPdf)
+      console.log("FIXPATH", node.frontmatter.catalogPdf.replace(/^.*assets/, "/assets"))
+      createNodeField({
+        node,
+        name: `catalogPdf`,
+        value: node.frontmatter.catalogPdf.replace(/^.*assets/, "/assets")
+      })
+    }
+
     const value = createFilePath({ node, getNode });
     createNodeField({
       name: `slug`,
