@@ -6,7 +6,7 @@ const MapImage = ({mapImage}) => {
       <h2>{mapImage.heading}</h2>
       <p>{mapImage.description}</p>
       <div className="readership-map-embed">
-        <iframe title="Amherst College Press Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.view=202426456"></iframe>
+        <iframe title="Amherst College Press Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.stream=4557309451"></iframe>
       </div>
     </div>
   )
