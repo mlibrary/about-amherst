@@ -32,7 +32,7 @@ Emergent Ideas: Lateral Books in Cultural Studies publishes concise analyses and
 
 Series Editor: Austin Sarat, Amherst College
 
-Editorial Board: Peter Brooks, Princeton University; Susan Sage Heinzelman, University of Texas, Austin; Bernadette Meyler, Stanford University; Ravit Reichman, Brown University; Eric Slauter, University of Chicago
+Advisory Board: Peter Brooks, Princeton University; Susan Sage Heinzelman, University of Texas, Austin; Bernadette Meyler, Stanford University; Ravit Reichman, Brown University; Eric Slauter, University of Chicago
 
 Law and literature have for millennia been closely allied as means of persuasion and the creation of cultural norms. This series sets law, literature, and culture in new dialogues, exploring the textual dimensions and cultural work of law and the legal frameworks of literature. We seek work that brings literary, legal, and/or cultural analysis together to explore specific social and political problems and that attends carefully to historical contexts and issues. Of particular interest are works that define and argue a thesis drawing on both textual and non-textual sources for which a multimodal, digital presentation offers unique expressive power.
 
