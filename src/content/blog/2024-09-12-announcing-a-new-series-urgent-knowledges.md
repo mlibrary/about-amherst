@@ -1,6 +1,6 @@
 ---
 templateKey: blog
-title: "Announcing a new series: Urgent Knowledges"
+title: "New Series Announcement: Urgent Knowledges"
 summary: " Translation series that highlights Indigenous, Afro-descendant, and
   similarly marginalized intellectual traditions in the geocultural area known
   as Latin America, including the Caribbean."
