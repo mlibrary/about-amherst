@@ -10,7 +10,7 @@ See our [individual project proposal template](https://docs.google.com/document/
 
 Series Editor: Darryl Harper, Amherst College
 
-Editors: Regina Carter, Violinist & MacArthur Fellow; Xavier Davis, Michigan State University; Tom Welsh, Managing Director, Big Ears Festival
+Advisory Board: Regina Carter, Violinist & MacArthur Fellow; Xavier Davis, Michigan State University; Tom Welsh, Managing Director, Big Ears Festival
 
 ACP Records is an academic record label focusing on new jazz recordings. In music today, the means of production are increasingly accessible yet distribution has become tightly controlled by a few actors. ACP Records employs the structure of open access scholarly publishing to rectify the music industry’s neglect of “new knowledge” by utilizing digital formats, peer review as a collaborative process, and limited distribution rights associated with Creative Commons licensing. The series models a commitment to the liberal arts by cultivating discovery through analysis, interpretation, and connecting ideas across disciplines.
 
@@ -69,6 +69,8 @@ Russian Travelogues introduces to the English-speaking world narratives of explo
 <h2 id="Urgent-Knowledges"><cite>Urgent Knowledges</cite></h2>
 
 Series Editor: Paul Schroeder Rodríguez
+
+Advisory Board: Emil' Keme, Emory University & Christen Smith, Yale University
 
 Urgent Knowledges is a translation series that highlights Indigenous, Afro-descendant, and similarly marginalized intellectual traditions in the geocultural area known as Latin America, including the Caribbean. We actively seek proposals for translations of works and bilingual editions that explore timely and pressing matters such as the climate crisis, forms of inequality, and responses to extractivism. The series will consider texts from a variety of periods and genres, in both fiction and nonfiction, that center concepts and practices such as *suma qamaña* (Aymara for ‘convivial living’) and *ubuntu* (Nguni for ‘I am because we are’). Urgent Knowledges will thus amplify voices that offer an expansive horizon of living in harmony with oneself, with other human and non-human beings, and with the diverse ecosystems that sustain us all. 
 
