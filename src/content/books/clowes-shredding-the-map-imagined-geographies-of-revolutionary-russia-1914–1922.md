@@ -12,7 +12,7 @@ description: Shredding the Map investigates Russian place consciousness in the
   the metamorphic changes in how Russians related to places—whether abstractions
   like “country” or concrete spaces of borders, fronts, and edgelands—during
   these years.
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://doi.org/10.3998/mpub.14378050
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-943208-77-7&PRESS=amherst
 ---
