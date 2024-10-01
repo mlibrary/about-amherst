@@ -13,7 +13,7 @@ description: Re-entry is acclaimed musician Marianne Solivan’s fifth jazz albu
   jumped in on every song. Arrangements were shaped and reshaped until we all
   felt they were right. We had no allegiances to style or genre but only to our
   own musicianship and musicality.”
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://doi.org/10.3998/mpub.14527339
 buyLink: https://mariannesolivanjazz.com/album/2908167/re-entry
 ---
