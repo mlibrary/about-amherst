@@ -8,7 +8,7 @@ We are committed to developing and sustaining an internship program for Amherst 
 
 <a href="/assets/2022-acp-intern-guide.pdf">Amherst College Press Intern Guide</a>
 
-<a href="/assets/future-intern-letter.pdf">Letter from a Former Intern to Future Interns</a>
+<a href="assets/oa-for-student-researchers.pdf">Open Access for Student Researchers</a>
 
 <a href="/assets/acp-mezzanine-gallery-.pdf">From Manuscript to Syllabus Exhibit by ACP Interns</a>
 
