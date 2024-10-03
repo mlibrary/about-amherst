@@ -18,7 +18,7 @@ catalogSection:
   heading: Amherst College Press Catalog
   catalogImage: assets/acp-catalog-cover.jpg
   catalogPdf: >-
-    <a href="assets/acp-catalog-25-final-web.pdf">undefined</a>
+    <a href="assets/acp-catalog-25-final-web.pdf">Explore our Catalog</a>
 
 
     <a class="btn btn-secondary" href="/assets/acp-catalog-25-final-web.pdf">Explore our Catalog</a>
