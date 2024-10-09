@@ -2,7 +2,7 @@
 templateKey: authors-page
 title: Publish With Us
 ---
-## Areas of Interest
+## [](https://aseees.org/newsnet-article/speak-ai-a-conversation-about-publishing-ai-narrated-audiobooks-and-vladimir-nabokov/)Areas of Interest
 
 ACP publishes titles in art history and visual studies; digital and game studies; Latin American studies; literary and media studies; music and sound studies; and Russian, East European, and Eurasian Studies. We also have deep interests in activist studies, environmental and energy humanities, multilingualism and translation, public and community humanities, and all forms of justice-oriented scholarship and methodology.
 
@@ -16,6 +16,18 @@ See our [individual project proposal template](https://docs.google.com/document/
 
 Here you can find our [ACP reader report form for proposals ](https://docs.google.com/document/d/1qPhWyABNPNcDT_-V7tI8_gIyUeptHdFixrELk81FLFY/edit?usp=sharing)and [ACP reader report form for full manuscripts](https://docs.google.com/document/d/1Pn1IV67WIyZkOiz3Nc-vulowq5bwCbjfyya5NBrh_Hg/edit?usp=sharing). We undertook an iterative, collaborative process to create these forms, working with Amherst College Press interns to review, analyze, and synthesize current reader report forms from other university presses. We also sought to to engage in and incorporate anti-racist practices as articulated in this [anti-racist scholarly reviewing practices](https://docs.google.com/document/d/1lZmZqeNNnYfYgmTKSbL2ijYbR4OMovv6A-bDwJRnwx8/edit).
 
-Have questions? Write to us at <a href="mailto:acpress@amherst.edu">acpress@amherst.edu</a>.
+### ACP Contracts, Copyright, and Creative Commons
+
+Authors retain the copyright to their work when they sign a contract with ACP. However, as with most university presses, our contract gives us rights to do a broad range of things with an author’s book, including creating an AI-narrated audiobook for accessibility purposes (see [this conversation](https://aseees.org/newsnet-article/speak-ai-a-conversation-about-publishing-ai-narrated-audiobooks-and-vladimir-nabokov/) between an ACP editor and authors about contracts in the context of our audiobook commitments). 
+
+Unlike most presses, ACP uses Creative Commons licenses to govern reuse. Authors choose the restrictiveness of the license. These licenses allow others (the author included) to do a range of things with the book’s content without going through an onerous permissions process with ACP. It’s important to note that the CC license doesn’t necessarily cover content not original to the author; see our [Permissions Requests](https://docs.google.com/document/d/1mR4s0DOJrqIUo5kJepEUvnb38oT3_0LVXp8JCS4Qk4w/edit) for more information.
+
+CC-BY-NC, for example, allows others to cite (with attribution) without seeking permission. It also allows others to translate the work (technically considered making a "derivative" of the work) so long as they are not selling it (the "NC" stands for non-commercial meaning people can reuse the content so long as it's for non-commercial purposes). 
+
+CC-BY-NC-ND is the most restrictive license: the "ND" here means that derivatives are also not allowed without first seeking permission. You can read more about [Creative Commons licenses here](https://creativecommons.org/licenses/). 
+
+ACP authors tend to choose either CC-BY-NC or CC-BY-NC-ND.
+
+#### Have questions? Write to us at <a href="mailto:acpress@amherst.edu">acpress@amherst.edu</a>.
 
 You can also find more useful information about scholarly publishing at [Ask UP](https://ask.up.hcommons.org/), a website maintained by the Association of University Presses that answers "basic and not-so-basic questions about how to publish and promote scholarship."
