@@ -11,7 +11,7 @@ description: Silencing the Drum exposes the profound struggle of Afro-Brazilian
   Brazil. This multidisciplinary exploration examines the relentless attacks
   against the practitioners of Afro-Brazilian religions—from discriminatory
   noise complaints in Bahia to vigilante violence in Rio de Janeiro.
-orderOnPage: 3
+orderOnPage: 4
 readLink: https://doi.org/10.3998/mpub.14419786
 buyLink: https://services.publishing.umich.edu/Books/S/Silencing-the-Drum3
 ---
