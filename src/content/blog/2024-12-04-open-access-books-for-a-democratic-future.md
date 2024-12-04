@@ -30,7 +30,7 @@ At times when democracy is threatened, peer reviewed, open access scholarship r
 
 [James R. Martel](https://www.fulcrum.org/concern/monographs/hd76s176d?locale=en)
 
-[](https://www.fulcrum.org/concern/monographs/p5547t831?locale=en)
+![](https://www.fulcrum.org/image-service/3r074w6461568310038/full/full/0/default.png)
 
 ### [Race and the Law in South Carolina: From Slavery to Jim Crow](https://www.fulcrum.org/concern/monographs/p5547t831?locale=en)
 
