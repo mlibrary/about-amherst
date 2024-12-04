@@ -36,7 +36,7 @@ At times when democracy is threatened, peer reviewed, open access scholarship r
 
 [John W. Wertheimer](https://www.fulcrum.org/concern/monographs/p5547t831?locale=en)
 
-[](https://www.fulcrum.org/concern/monographs/sx61dp467?locale=en)
+![](https://www.fulcrum.org/image-service/db78tf68d1670598855/full/full/0/default.png)
 
 ### [Studies into Darkness: The Perils and Promise of Freedom of Speech](https://www.fulcrum.org/concern/monographs/sx61dp467?locale=en)
 
