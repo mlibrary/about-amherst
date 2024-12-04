@@ -18,7 +18,7 @@ At times when democracy is threatened, peer reviewed, open access scholarship r
 
 [Linda Ross Meyer](https://www.fulcrum.org/concern/monographs/bc386k85c?locale=en)
 
-[](https://www.fulcrum.org/concern/monographs/rf55z988p?locale=en)
+![](https://www.fulcrum.org/image-service/0p096835d1572296874/full/full/0/default.png)
 
 ### [Radical Roots: Public History and a Tradition of Social Justice Activism](https://www.fulcrum.org/concern/monographs/rf55z988p?locale=en)
 
