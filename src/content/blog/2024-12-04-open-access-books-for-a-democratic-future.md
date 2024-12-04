@@ -12,7 +12,7 @@ At times when democracy is threatened, peer reviewed, open access scholarship r
 
 [Matthew MacWilliams](https://www.fulcrum.org/concern/monographs/8910jw37s?locale=en)
 
-![](https://www.fulcrum.org/concern/monographs/8910jw37s?locale=en)
+![](https://www.fulcrum.org/image-service/v118rg38r1572363234/full/145,/0/default.png)
 
 ### [Sentencing in Time](https://www.fulcrum.org/concern/monographs/bc386k85c?locale=en)
 
