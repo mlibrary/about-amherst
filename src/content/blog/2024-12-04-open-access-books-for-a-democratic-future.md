@@ -24,7 +24,7 @@ At times when democracy is threatened, peer reviewed, open access scholarship r
 
 [Edited by Denise D. Meringolo](https://www.fulcrum.org/concern/monographs/rf55z988p?locale=en)
 
-[](https://www.fulcrum.org/concern/monographs/hd76s176d?locale=en)
+![](https://www.fulcrum.org/image-service/37720g07d1635280588/full/full/0/default.png)
 
 ### [Unburied Bodies: Subversive Corpses and the Authority of the Dead](https://www.fulcrum.org/concern/monographs/hd76s176d?locale=en)
 
