@@ -4,13 +4,15 @@ title: Open Access Books for a Democratic Future
 summary: Titles to read for understanding threats to US democracy
 date: 2024-12-04T21:45:39.658Z
 ---
-At times when democracy is threatened, peer reviewed, open access scholarship remains a viable lifeline to a constellation of credible research. As a fully open access press that makes all of our books free to read, we are proud to be part of the global conversation related to issues of justice and democracy. We would like to highlight some of our titles that offer understanding about how we got to where we are today in the US and that also provide strategies to fight for a more equitable democracy. [](https://www.fulcrum.org/concern/monographs/8910jw37s?locale=en)
+At times when democracy is threatened, peer reviewed, open access scholarship remains a viable lifeline to a constellation of credible research. As a fully open access press that makes all of our books free to read, we are proud to be part of the global conversation related to issues of justice and democracy. We would like to highlight some of our titles that offer understanding about how we got to where we are today in the US and that also provide strategies to fight for a more equitable democracy. 
+
+[](https://www.fulcrum.org/concern/monographs/8910jw37s?locale=en)
 
 ### [ The Rise of Trump: America's Authoritarian Spring](https://www.fulcrum.org/concern/monographs/8910jw37s?locale=en)
 
 [Matthew MacWilliams](https://www.fulcrum.org/concern/monographs/8910jw37s?locale=en)
 
-[](https://www.fulcrum.org/concern/monographs/bc386k85c?locale=en)
+![](https://www.fulcrum.org/image-service/v118rg38r1572363234/full/full/0/default.png)
 
 ### [Sentencing in Time](https://www.fulcrum.org/concern/monographs/bc386k85c?locale=en)
 
