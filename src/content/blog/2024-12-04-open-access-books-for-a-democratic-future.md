@@ -42,6 +42,10 @@ At times when democracy is threatened, peer reviewed, open access scholarship r
 
 [Edited by Carin Kuoni and Laura Raicovich](https://www.fulcrum.org/concern/monographs/sx61dp467?locale=en)
 
+![](https://www.fulcrum.org/image-service/v692t863j1654532014/full/full/0/default.png)
+
 ### [Abortion Pills: US History and Politics](https://www.fulcrum.org/concern/monographs/m900nx46q?locale=en)
 
 [Carrie Baker](https://www.fulcrum.org/concern/monographs/m900nx46q?locale=en)
+
+![](https://www.fulcrum.org/image-service/b2773z6411713547907/full/145,/0/default.png)
