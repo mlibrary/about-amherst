@@ -23,46 +23,45 @@ const Navbar = () => {
           }
         >
           <ul className="navbar-nav float-right">
-            <li className="nav-item">
-              <Link to="/about" className="nav-link text-dark">
+            <li className="nav-item dropdown">
+              <a href="#" className="nav-link text-dark dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
                 About
-              </Link>
+              </a>
+              <div className="dropdown-menu">
+                <a className="dropdown-item" href="/about">About Us</a>                
+                <a className="dropdown-item" href="/contact">Contact Us</a>
+                <a className="dropdown-item" href="/internships">Internships</a>
+              </div>
             </li>
-            <li>
+            <li className="nav-item">
               <a href="https://www.fulcrum.org/amherst" className="nav-link text-dark">
                 Books
               </a>
             </li>
-            <li>
+            <li className="nav-item">
               <a href="/series" className="nav-link text-dark">
                 Series
               </a>
             </li>
-            <li>
-              <Link to="/authors" className="nav-link text-dark">
-                Publish With Us
-              </Link>
-            </li>
-            <li>
-              <Link to="/currentauthors" className="nav-link text-dark">
-                For Current Authors
-              </Link>
-            </li>
-            <li>
+            <li className="nav-item dropdown">
+              <a href="#" className="nav-link text-dark dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
+                For Authors
+              </a>
+              <div className="dropdown-menu">
+                <a className="dropdown-item" href="/authors">Prospective Authors</a>                
+                <a className="dropdown-item" href="/currentauthors">Current Authors</a>
+              </div>
+            </li>            
+            <li className="nav-item">
               <Link to="/blog" className="nav-link text-dark">
                 Blog
               </Link>
             </li>
-            <li>
+            <li className="nav-item">
               <Link to="/conferences" className="nav-link text-dark">
                 Conferences
               </Link>
-            </li>
-            <li>
-              <Link to="/contact" className="nav-link text-dark">
-                Contact
-              </Link>
-            </li>
+            </li>            
           </ul>
         </div>
       </div>
