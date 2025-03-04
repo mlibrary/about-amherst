@@ -1,6 +1,6 @@
 ---
 templateKey: book
-title: https://www.fulcrum.org/concern/monographs/0v8383530
+title: "Media Travels: Toward an Atlas of Global Media"
 authorLastname: Llamas-Rodriguez
 author: Juan Llamas-Rodriguez
 cover: assets/llamas-rodriguez.png
