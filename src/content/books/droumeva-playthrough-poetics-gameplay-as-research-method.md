@@ -13,7 +13,7 @@ description: Game streamers and live commentators are producing increasingly
   meta-analyses of self-broadcasting, new procedural methods like gamespace
   soundwalking, as well as the affective aspects of games research. In doing so,
   they model new possibilities for academic players and gamers alike.
-orderOnPage: 2
+orderOnPage: 3
 readLink: https://doi.org/10.3998/mpub.14464860
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-943208-81-4&PRESS=amherst
 ---
