@@ -9,7 +9,7 @@ description: This is the first book to offer a comprehensive history of abortion
   shows how courageous activists waged a decades-long campaign to establish,
   expand, and maintain access to abortion pills. Weaving their voices throughout
   her book, Baker recounts both dramatic and everyday acts of their resistance.
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://doi.org/10.3998/mpub.14469549
 buyLink: https://services.publishing.umich.edu/Books/A/Abortion-Pills3
 ---
