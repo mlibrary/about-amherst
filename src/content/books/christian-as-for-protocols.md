@@ -3,7 +3,7 @@ templateKey: book
 title: As for Protocols
 authorLastname: Christian
 author: Re’al Christian, Carin Kuoni & Eriola Pira
-cover: assets/default.png
+cover: assets/as-for-protocols.png
 description: Explicitly—or not—protocols determine much of what we do. Far
   exceeding traditional notions of “good manners,” protocols are systems of
   language that regulate how we relate to each other, to our cultural, social,
