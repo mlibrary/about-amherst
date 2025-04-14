@@ -13,7 +13,7 @@ description: Explicitly—or not—protocols determine much of what we do. Far
   international artists, writers, scholars, musicians, architects, and
   scientists who explore protocols across various fields, foregrounding
   opportunities for creating new protocols that are inclusive and equitable.
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/3t945t729?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-943208-98-2&PRESS=amherst
 ---
