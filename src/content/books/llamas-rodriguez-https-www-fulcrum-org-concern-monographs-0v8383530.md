@@ -12,7 +12,7 @@ description: "Media Travels: Toward An Atlas of Global Media fills a significant
   historical, and geographical contexts. Examples range from South African video
   games to Korean TV series popular in Latin America to Indigenous film and
   media from the US and Canada."
-orderOnPage: 3
+orderOnPage: 4
 readLink: https://www.fulcrum.org/concern/monographs/0v8383530
 buyLink: https://services.publishing.umich.edu/Books/M/Media-Travels2
 ---
