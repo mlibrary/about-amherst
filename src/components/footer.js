@@ -21,7 +21,7 @@ const Footer = () => {
     <footer className="footer text-white">
       <div className="container">
         <div className="row">
-          <div className="col-md-6">
+          <div className="col-md-5">
             <a href="/" className="text-light mb-2 scala-sans"><img src="/assets/AmherstLogo-White.svg" alt="" height="100" width="auto" className="block" /><span className="sr-only">Amherst College Press</span></a>
             <small className="text-light d-block">Amherst, MA</small>
             <p className="social">
@@ -31,16 +31,25 @@ const Footer = () => {
               <a href="https://visitor.r20.constantcontact.com/manage/optin?v=0013DrR6g8m_-n07OrbI1eZRz5CjLmfcdeXQPZX4RlDGW9zhWbxaf90uX_8hMD9IXD2pSe5XnutydjyXery33ZRgKEOSwQbT9bWpgP0TFN-LGE%3D"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" className="social-link email" aria-hidden="false"><title>Sign-up for Emails</title><path d="M0 0h24v24H0V0z" fill="none"/><path d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6zm-2 0l-8 5-8-5h16zm0 12H4V8l8 5 8-5v10z"/></svg></a>
             </p>
           </div>          
-          <div className="col-md-3">
-            <div className="footer-head abril">Learn More</div>
-            <ul className="list-unstyled text-small">
-              <li><a className="text-light" href="/contact">Contact Us</a></li>
-              <li><a href="/internships" className="text-light">Internships</a></li>
-              <li><a href="/peerreview" className="text-light">Peer Review Commitments and Guidelines</a></li>              
-              <li><Link to="/about#dei-statement" className="text-light">ACP Statement on Diversity, Equity, and Inclusion</Link></li>
+          <div className="col-md-4">
+            <ul className="list-unstyled text-small footer-link-list">
+              <li><Link to="/about" className="text-light">About Us</Link></li>
+              <li><Link to="/contact" className="text-light">Contact Us</Link></li>
+              <li><Link to="/internships" className="text-light">Internships</Link></li>
+              <li><a href="https://www.fulcrum.org/amherst" className="text-light">Books</a></li>
+              <li><Link to="/series" className="text-light">Series</Link></li>
+              <li><Link to="/authors" className="text-light">Prospective Authors</Link></li>
+              <li><Link to="/currentauthors" className="text-light">Current Authors</Link></li>
+              <li><Link to="/blog" className="text-light">Blog</Link></li>
+              <li><Link to="/conferences" className="text-light">Conferences</Link></li>
             </ul>
           </div>
           <div className="col-md-3">
+            <div className="footer-head abril">Learn More</div>
+            <ul className="list-unstyled text-small">
+              <li><a href="/peerreview" className="text-light">Peer Review Commitments and Guidelines</a></li>              
+              <li><Link to="/about#dei-statement" className="text-light">ACP Statement on Diversity, Equity, and Inclusion</Link></li>
+            </ul>
             <div className="footer-head abril">Our Partners</div>
             <ul className="list-unstyled text-small">
               <li><a href="https://www.veralistcenter.org/" className="text-light">Vera List Center</a></li>
