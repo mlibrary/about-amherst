@@ -71,9 +71,13 @@ $amherst-dark-grey: #505061;
 $amherst-light-grey: #9BA1A7;
 $amherst-black-80: #342f2e;
 
-:focus {
-  outline: 3px solid #00AFEC;
-  outline-offset: 0;
+
+*:focus {
+	/* inner indicator */
+	outline: 2px #F9F9F9 solid !important;
+	outline-offset: 0;
+	/* outer indicator */
+	box-shadow: 0 0 0 4px #193146 !important;
   -webkit-transition: outline .05s ease-out;
   -o-transition: outline .05s ease-out;
   transition: outline .05s ease-out;
@@ -110,7 +114,23 @@ p {
     vertical-align: middle;
   }
 
+  .dropdown-menu-top-link {
+    text-decoration: none;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0;
+  }
+
+  .dropdown-menu-top-link:hover,
+  .dropdown-menu-top-link:active,
+  .dropdown-menu-top-link:focus {
+    cursor: pointer;
+    // This is the bg-light color; we don't want it to change on hover/active/focus
+    background-color: #f8f9fa !important
+  }
 }
+
 
 // page
 .page-container {
@@ -273,11 +293,29 @@ p {
 
   .card:hover {
     border: 1px solid $amherst-brand-color;
+    cursor: pointer;
   }
 
   .card-image {
     max-height: 300px;
     overflow: hidden;
+  }
+
+  .card-body {
+    position: relative;
+
+    a::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+    }
+
+    a:focus {
+      outline: initial;
+    }
   }
 }
 
@@ -407,6 +445,10 @@ p.social {
     font-size: 1.25rem;
     margin-bottom: .5rem;
     font-weight: 500;
+  }
+
+  .footer-link-list {
+    margin-top: .5rem;
   }
 
   li {
