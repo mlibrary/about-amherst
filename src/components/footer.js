@@ -32,15 +32,24 @@ const Footer = () => {
             </p>
           </div>          
           <div className="col-md-3">
-            <div className="footer-head abril">Learn More</div>
-            <ul className="list-unstyled text-small">
-              <li><a className="text-light" href="/contact">Contact Us</a></li>
-              <li><a href="/internships" className="text-light">Internships</a></li>
-              <li><a href="/peerreview" className="text-light">Peer Review Commitments and Guidelines</a></li>              
-              <li><Link to="/about#dei-statement" className="text-light">ACP Statement on Diversity, Equity, and Inclusion</Link></li>
+            <ul className="list-unstyled text-small footer-link-list">
+              <li><Link to="/about" className="text-light">About Us</Link></li>
+              <li><Link to="/contact" className="text-light">Contact Us</Link></li>
+              <li><Link to="/internships" className="text-light">Internships</Link></li>
+              <li><a href="https://www.fulcrum.org/amherst" className="text-light">Books</a></li>
+              <li><Link to="/series" className="text-light">Series</Link></li>
+              <li><Link to="/authors" className="text-light">Prospective Authors</Link></li>
+              <li><Link to="/currentauthors" className="text-light">Current Authors</Link></li>
+              <li><Link to="/blog" className="text-light">Blog</Link></li>
+              <li><Link to="/conferences" className="text-light">Conferences</Link></li>
             </ul>
           </div>
           <div className="col-md-3">
+            <div className="footer-head abril">Learn More</div>
+            <ul className="list-unstyled text-small">
+              <li><a href="/peerreview" className="text-light">Peer Review Commitments and Guidelines</a></li>              
+              <li><Link to="/about#dei-statement" className="text-light">ACP Statement on Diversity, Equity, and Inclusion</Link></li>
+            </ul>
             <div className="footer-head abril">Our Partners</div>
             <ul className="list-unstyled text-small">
               <li><a href="https://www.veralistcenter.org/" className="text-light">Vera List Center</a></li>
