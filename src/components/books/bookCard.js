@@ -8,6 +8,7 @@ const Book = ({cover, book}) => {
     readLink,
     buyLink,
     description,
+    orderOnPage
   } = book
 
   return (
@@ -18,11 +19,11 @@ const Book = ({cover, book}) => {
         </div>
         <div className="col-md-8">
           <div className="card-body">
-            <h3 className="card-title">{title}</h3>
+            <h3 id={`book${orderOnPage}`} className="card-title">{title}</h3>
             <p className="card-subtitle text-muted h6">{author}</p>
             <p className="card-text">{description}</p>
-            <a className="card-link btn btn-secondary btn-lg" role="button" href={readLink}>Read free online</a>
-            <a className="card-link btn btn-outline-primary btn-lg" role="button" href={buyLink}>Buy</a>
+            <a className="card-link btn btn-secondary btn-lg" aria-describedby={`book${orderOnPage}`} href={readLink}>Read free online</a>
+            <a className="card-link btn btn-outline-primary btn-lg" aria-describedby={`book${orderOnPage}`} href={buyLink}>Buy</a>
           </div>
         </div>
       </div>

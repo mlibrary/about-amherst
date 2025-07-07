@@ -8,10 +8,10 @@ const Navbar = () => {
   }
 
   return (
-    <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light border-bottom">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light border-bottom">
       <div className="container">
         <a href="/" className="navbar-brand">
-          <img src="/assets/AmherstLogo.svg" alt="" height="70" width="auto" className="navbar-brand-logo" aria-labelledby="title"/> <h1 id="title" className="sr-only">Amherst College Press</h1>
+          <img src="/assets/AmherstLogo.svg" alt="" height="70" width="auto" className="navbar-brand-logo" /> <h1 id="title" className="sr-only">Amherst College Press</h1>
         </a>
         <button className="navbar-toggler" type="button" onClick={toggleNav}>
           <span className="navbar-toggler-icon" />
@@ -24,9 +24,9 @@ const Navbar = () => {
         >
           <ul className="navbar-nav float-right">
             <li className="nav-item dropdown">
-              <a href="#" className="nav-link text-dark dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
+              <button className="dropdown-menu-top-link text-dark bg-light dropdown-toggle" id="dropdownMenuLinkAbout" data-toggle="dropdown" aria-expanded="false">
                 About
-              </a>
+              </button>
               <div className="dropdown-menu">
                 <a className="dropdown-item" href="/about">About Us</a>                
                 <a className="dropdown-item" href="/contact">Contact Us</a>
@@ -44,9 +44,9 @@ const Navbar = () => {
               </a>
             </li>
             <li className="nav-item dropdown">
-              <a href="#" className="nav-link text-dark dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
+              <button className="dropdown-menu-top-link text-dark bg-light dropdown-toggle" id="dropdownMenuLinkForAuthors" data-toggle="dropdown" aria-expanded="false">
                 For Authors
-              </a>
+              </button>
               <div className="dropdown-menu">
                 <a className="dropdown-item" href="/authors">Prospective Authors</a>                
                 <a className="dropdown-item" href="/currentauthors">Current Authors</a>
