@@ -20,7 +20,7 @@ Series Editors: Anastasia Salter, University of Central Florida & Stuart Moulthr
 
 Electronic Communities of Making promotes thoughtful reflection on the communities and practices driving electronic creativity by publishing works that reach across electronic literature, game studies, and internet research to explore the intersection of theory, practice, and pedagogy. We particularly hope to encourage engagement with open-source tools that invite and encourage inclusive making: from established platforms for interactive fiction, to alternative games platforms redefining play, to artistic communities shaping procedural expression.
 
-<a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Electronic+Communities&locale=en">Read Electronic Communities</a>
+<a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Electronic+Communities+of+Making&locale=en">Read Electronic Communities of Making</a>
 
 <h2 id="emergent-ideas"><cite>Emergent Ideas: Lateral Books in Cultural Studies</cite></h2>
 
