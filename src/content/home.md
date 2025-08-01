@@ -18,7 +18,7 @@ catalogSection:
   heading: Amherst College Press Catalog
   catalogImage: /assets/acp-catalog-cover.jpg
   catalogPdf: <a class="btn btn-secondary"
-    href="/assets/acp-catalog-25-final-web.pdf">Explore our Catalog</a>
+    href="/assets/acp-catalog-25-final-web.pdf">Download Our Catalog</a>
 mapSection:
   description: The Readership Map replays every view or download of Amherst Press
     books or media components that occurred over the previous four weeks.
