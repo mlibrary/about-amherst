@@ -6,7 +6,7 @@ taglineSection:
     open-access work and affordable paper-back books.
 newsletterSection:
   buttonLabel: Subscribe
-  description: Stay current with our quarterly newsletter
+  description: Stay current with our newsletter
   heading: Keep up to date with ACP
   url: https://visitor.r20.constantcontact.com/manage/optin?v=0013DrR6g8m_-n07OrbI1eZRz5CjLmfcdeXQPZX4RlDGW9zhWbxaf90uX_8hMD9IXD2pSe5XnutydjyXery33ZRgKEOSwQbT9bWpgP0TFN-LGE%3D
 fundraiserSection:
