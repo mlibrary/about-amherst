@@ -73,6 +73,8 @@ We understand that there are many ways to do and read scholarship, which is why 
 
 The Editorial Board of the Amherst College Press is composed of faculty members of Amherst College. Each member serves a three-year term. Ex officio positions are held by the director of the Amherst College Library, the director of the Mead Art Museum, and the director of the Center for Humanistic Inquiry.
 
+
+
 Editorial Board members:
 
 * Class of 2019: Leah Schmalzbauer, David Little, Vanessa Walker
