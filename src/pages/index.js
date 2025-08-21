@@ -38,7 +38,13 @@ query {
       }
       catalogSection {
         heading
-        catalogImage
+        catalogImage {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         catalogPdf
       }
     }
