@@ -8,7 +8,7 @@ We are committed to developing and sustaining an internship program for Amherst 
 
 T﻿he ACP Internship Program will restart again in January 2026. Stay tuned for information about the application process.
 
-![](assets/acp_internships2026_promo.jpg)
+![](assets/acp_internships2026_promo.png)
 
 <!-- On this page you can find resources connected to our internship program, including a \\\\[working syllabus](https://docs.google.com/document/d/1FQuncoinqADp7R0MyIiIS0LV2RmwoXX_EBJUD-VBa0g/edit?usp=sharing) with links to articles and resources we're using to introduce undergrads to workflows, topics, and issues in scholarly communications. 
 
