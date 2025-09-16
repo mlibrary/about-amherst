@@ -12,7 +12,7 @@ description: "Constructed Latinx(s) Identities: Racialized Bodies in Visual and
   into the intersections of identity in Latinx production and representation and
   challenge the colonial and modern power structures that have continuously
   racialized and gendered Latinx bodies. "
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/tb09j9079
 buyLink: https://services.publishing.umich.edu/Books/C/Constructed-Latinx-s-Identities2
 ---
