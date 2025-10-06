@@ -14,7 +14,7 @@ Advisory Board: Regina Carter, Violinist & MacArthur Fellow; Xavier Davis, Michi
 
 ACP Records is an academic record label focusing on new jazz recordings. In music today, the means of production are increasingly accessible yet distribution has become tightly controlled by a few actors. ACP Records employs the structure of open access scholarly publishing to rectify the music industry’s neglect of “new knowledge” by utilizing digital formats, peer review as a collaborative process, and limited distribution rights associated with Creative Commons licensing. The series models a commitment to the liberal arts by cultivating discovery through analysis, interpretation, and connecting ideas across disciplines.
 
-<a class="btn btn-secondary" href="https://www.fulcrum.org/concern/monographs/9k41zh49d?locale=en">L﻿isten to our debut album, Re-entry, by Marianne Solivan</a>
+<a class="btn btn-secondary" href="https://www.fulcrum.org/concern/monographs/9k41zh49d?locale=en">L﻿isten to our debut album, <em>Re-entry<em>, by Marianne Solivan</a>
 
 <h2 id="electronic-communities-of-making"><cite>Electronic Communities of Making</cite></h2>
 
