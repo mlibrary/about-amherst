@@ -11,7 +11,7 @@ description: "Expressive Networks convenes an urgent conversation on digital
   cast of digital literary culture and the deep-running ambivalence that
   characterizes aesthetic and critical responses to platformed cultural
   production. "
-orderOnPage: 3
+orderOnPage: 4
 readLink: https://www.fulcrum.org/concern/monographs/q237hv84x?locale=en
 buyLink: https://services.publishing.umich.edu/Books/E/Expressive-Networks2
 ---
