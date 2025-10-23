@@ -406,6 +406,11 @@ p.social {
       vertical-align: middle;
       fill: $amherst-brand-color;
     }
+
+    .linkedin {
+      height: 24px;
+      width: 24px;
+    }
   }
   a:first-of-type {
     padding-left: 1em;
@@ -434,6 +439,10 @@ p.social {
         display: inline-block;
         vertical-align: middle;
         fill: $amherst-light-blue;
+      }
+      .linkedin {
+        height: 24px;
+        width: 24px;
       }
     }
     a:first-of-type {
