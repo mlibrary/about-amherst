@@ -2,9 +2,9 @@
 templateKey: internships-page
 title: Internships
 ---
-<p class="lead">Amherst College Press is relatively unique among university presses for being situated in a liberal arts college campus. We take seriously the College’s commitment to excellence in undergraduate teaching and research and believe it is central to our mission to offer Amherst undergraduates pre-professional training and an introduction to scholarly publishing.</p>
+<p class="lead">Amherst College Press is uncommon among university presses in its situation within a liberal arts college campus. We take seriously the College’s commitment to excellence in undergraduate teaching and research and believe it is central to our mission to offer Amherst undergraduates pre-professional training and an introduction to scholarly publishing.</p>
 
-We are committed to developing and sustaining an internship program for Amherst College undergraduates, w﻿ith a focus on scholarly communications, public writing, and social media in support of scholarly publishing. T﻿he ACP Internship Program will restart again in January 2026. Stay tuned for information about the application process! 
+We are committed to developing and sustaining an internship program for Amherst College undergraduates, w﻿ith a focus on scholarly communications, public writing, and social media in support of scholarly publishing. T﻿he ACP Internship Program will restart again in the Spring Semester (February) 2026. Amherst College undergraduates can find our ad and apply through Workday.
 
 ![](assets/acp_internships_promocard144dpi.png)
 
