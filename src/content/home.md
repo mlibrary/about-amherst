@@ -1,9 +1,9 @@
 ---
 templateKey: home-page
 taglineSection:
-  text: Open Access. Peer Reviewed. We produce pathbreaking scholarship with a
-    liberal arts ethos and make it available to readers everywhere as digital,
-    open-access work and affordable paper-back books.
+  text: Open Access. Peer Reviewed. We produce path-breaking scholarship and make
+    digital formats freely available to readers everywhere, with affordable
+    print books for purchase.
 newsletterSection:
   buttonLabel: Subscribe
   description: Stay current with our newsletter
@@ -11,7 +11,7 @@ newsletterSection:
   url: https://visitor.r20.constantcontact.com/manage/optin?v=0013DrR6g8m_-n07OrbI1eZRz5CjLmfcdeXQPZX4RlDGW9zhWbxaf90uX_8hMD9IXD2pSe5XnutydjyXery33ZRgKEOSwQbT9bWpgP0TFN-LGE%3D
 fundraiserSection:
   buttonLabel: Support Us
-  description: Keep us producing pathbreaking scholarship
+  description: Keep us producing path-breaking scholarship
   heading: Support Amherst College Press
   url: https://engage.amherst.edu/give/library
 catalogSection:
