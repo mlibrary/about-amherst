@@ -10,7 +10,7 @@ description: "Examining Russian-language media from the “long 1990s”—the p
   1990s shows how post-Soviet civil society emerged simultaneously with the
   explosion of new media, especially a newly liberated television and internet.
   "
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/ks65hg11g?locale=en
 buyLink: https://services.publishing.umich.edu/Books/M/Media-Cultures-of-the-Russian-1990s2
 ---
