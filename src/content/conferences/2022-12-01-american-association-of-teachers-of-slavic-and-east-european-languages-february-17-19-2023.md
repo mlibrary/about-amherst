@@ -1,6 +1,6 @@
 ---
 templateKey: conference
-title: "Association of Slavic, East European, and Eurasian Studies Annual
+title: "Association for Slavic, East European, and Eurasian Studies Annual
   Convention: November 20-23, 2025"
 summary: ACP was on site for the 2025 ASEEES Convention in Washington, D.C.
 date: 2022-12-01T19:11:22.281Z
