@@ -6,6 +6,12 @@ title: Series
 
 See our [individual project proposal template](https://docs.google.com/document/d/1jGNlpD6nT7ZlVTs6tNwyNB164AExiIQ0lPHhWM8usLs/edit?usp=sharing) to get a sense of what we look for when considering projects. If you are interested in proposing a series, please review our [series proposal guidelines](https://docs.google.com/document/d/1j3W09SHS3fj0VKvC8WiilYmpg3P0w3lecp8liRZSAvw/edit?usp=sharing). When you’re ready, submit a proposal to [acpress@amherst.edu](mailto:acpress@amherst.edu).
 
+<h2 id="accented"><cite>Accented</cite></h2>
+
+Series Editors: Pooja Rangan, Amherst College; Akshya Saxena, Vanderbilt University; Ragini Tharoor Srinivasan, Rice University; Pavitra Sundar, Hamilton College
+
+Accented publishes works exploring accent as a critical mode of cultural production and interpretation. The series seeks to model accented thinking as a way to disturb the normative logics of academic, archival, media, legal, and bureaucratic structures. Books in the series amplify subversive everyday acts by accented subjects and employ accent as an intersectional, intermedial, and interdisciplinary way of knowing. We invite rigorous, innovative, and daring scholarship (between 40,000 and 70,000 words) that spans textual, archival, ethnographic, and hybrid approaches across time periods and linguistic contexts. The series particularly welcomes projects that embrace the multimodal format, such as video essay books and dialogical experiments.
+
 <h2 id="acp-records"><cite>ACP Records</cite></h2>
 
 Series Editor: Darryl Harper, Amherst College
