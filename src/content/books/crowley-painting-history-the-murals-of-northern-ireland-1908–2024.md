@@ -9,7 +9,7 @@ description: "Painting History: The Murals of Northern Ireland, 1908–2024 is t
   wall art. Tony Crowley shows how muralism became an important medium for the
   unionist and loyalist community in its political domination of public space
   before and after Partition. "
-orderOnPage: 3
+orderOnPage: 4
 readLink: https://www.fulcrum.org/concern/monographs/3197xq18h?locale=en
 buyLink: https://services.publishing.umich.edu/Books/P/Painting-History2
 ---
