@@ -11,7 +11,7 @@ description: "Forgotten Friendships: Yugoslavia and the Anticolonial Francophone
   friendships helped shape major intellectual movements like Négritude, African
   socialism, and global socialist feminisms, which surged beyond national,
   regional, and even diasporic spaces."
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/rx913s71x?locale=en
 buyLink: https://services.publishing.umich.edu/Books/F/Forgotten-Friendships3
 ---
