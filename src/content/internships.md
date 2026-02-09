@@ -11,7 +11,8 @@ We are committed to developing and sustaining an internship program for Amherst 
 <a href="/assets/oa-for-student-researchers.pdf">Open Access for Student Researchers</a>
 <a href="/assets/acp-mezzanine-gallery-.pdf">From Manuscript to Syllabus Exhibit by ACP Interns</a>
 
-\-->Current and former ACP interns:
+<p>  </p>
+-->Current and former ACP interns:
 
 2﻿026: Audrey Xia ('28) and Ava Wong ('29)
 
