@@ -6,18 +6,13 @@ title: Internships
 
 We are committed to developing and sustaining an internship program for Amherst College undergraduates, w﻿ith a focus on scholarly communications, public writing, and social media in support of scholarly publishing. T﻿he ACP Internship Program will restart again in the Spring Semester (February) 2026. Amherst College undergraduates can find our ad and apply through Workday.
 
-![](assets/acp_internships_promocard144dpi.png)
-
-<!-- On this page you can find resources connected to our internship program, including a \\\\\[working syllabus](https://docs.google.com/document/d/1FQuncoinqADp7R0MyIiIS0LV2RmwoXX_EBJUD-VBa0g/edit?usp=sharing) with links to articles and resources we're using to introduce undergrads to workflows, topics, and issues in scholarly communications. 
-
+<!-- On this page you can find resources connected to our internship program, including a \\\\\\[working syllabus](https://docs.google.com/document/d/1FQuncoinqADp7R0MyIiIS0LV2RmwoXX_EBJUD-VBa0g/edit?usp=sharing) with links to articles and resources we're using to introduce undergrads to workflows, topics, and issues in scholarly communications. 
 <a href="/assets/2022-acp-intern-guide.pdf">Amherst College Press Intern Guide</a>
-
 <a href="/assets/oa-for-student-researchers.pdf">Open Access for Student Researchers</a>
-
 <a href="/assets/acp-mezzanine-gallery-.pdf">From Manuscript to Syllabus Exhibit by ACP Interns</a>
--->
+-->Current and former ACP interns:
 
-Current and former ACP interns:
+2﻿026: Audrey Xia ('28) and Ava Wong ('29)
 
 2023-24: Priscilla Lee ('25; acquisitions & editorial intern) and Giovanna Da Silva ('26; marketing & outreach intern)
 
