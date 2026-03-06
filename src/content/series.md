@@ -82,7 +82,7 @@ Advisory Board: Emil' Keme, Emory University & Christen Smith, Yale University
 
 Urgent Knowledges is a translation series that highlights Indigenous, Afro-descendant, and similarly marginalized intellectual traditions in the geocultural area known as Latin America, including the Caribbean. We actively seek proposals for translations of works and bilingual editions that explore timely and pressing matters such as the climate crisis, forms of inequality, and responses to extractivism. The series will consider texts from a variety of periods and genres, in both fiction and nonfiction, that center concepts and practices such as *suma qamaña* (Aymara for ‘convivial living’) and *ubuntu* (Nguni for ‘I am because we are’). Urgent Knowledges will thus amplify voices that offer an expansive horizon of living in harmony with oneself, with other human and non-human beings, and with the diverse ecosystems that sustain us all. 
 
-<a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?utf8=%E2%9C%93&locale=en&q=urgent+knowledges">Read Urgent Knowledges</a>
+<a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f[series_sim]=Urgent+Knowledges&locale=en">Read Urgent Knowledges</a>
 
 <h2 id="The vera-list-center-for-art-and-politics"><cite>The Vera List Center for Art and Politics</cite></h2>
 
