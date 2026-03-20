@@ -90,6 +90,13 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
           - { name: title, label: About }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/accessibility.md"
+        name: accessibility
+        label: Accessibility
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: accessibility-page }
+          - { name: title, label: Accessibility }
+          - { name: body, label: Body, widget: markdown }
       - file: "src/content/authors.md"
         name: authors
         label: Authors
