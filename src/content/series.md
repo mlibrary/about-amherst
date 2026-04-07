@@ -18,7 +18,7 @@ Series Editor: Darryl Harper, Amherst College
 
 Advisory Board: Regina Carter, Violinist & MacArthur Fellow; Xavier Davis, Michigan State University; Tom Welsh, Artist Manager
 
-ACP Records is an academic record label focusing on new jazz recordings. In music today, the means of production are increasingly accessible yet distribution has become tightly controlled by a few actors. ACP Records employs the structure of open access scholarly publishing to rectify the music industry’s neglect of “new knowledge” by utilizing digital formats, peer review as a collaborative process, and limited distribution rights associated with Creative Commons licensing. The series models a commitment to the liberal arts by cultivating discovery through analysis, interpretation, and connecting ideas across disciplines.
+ACP Records is Amherst College Press’s open-access record label for new jazz recordings. It brings the values and practices of scholarly publishing—collaborative peer review and academic rigor—into music. Artists use Creative Commons’ flexible licensing to share their work under terms they determine. ACP Records supports the creation of new knowledge outside of traditional commercial models, fostering a novel space for musicians to share work that is freely available to listeners.
 
 <a class="btn btn-secondary" href="https://www.fulcrum.org/concern/monographs/9k41zh49d?locale=en">L﻿isten to our debut album, <em>Re-entry</em>, by Marianne Solivan</a>
 
@@ -64,7 +64,7 @@ Public Works seeks out and makes available the perspective of leading scholars i
 
 Series editors: Brian Glavey, University of South Carolina; Kamran Javadizadeh, Villanova University; Johanna Winant, West Virginia University
 
-Re/verse is a series of compact introductions to individual books of poetry. Poems are often understood in relation to their canonization in anthologies and *Collected Works*, or, more recently, through forms of viral circulation on social media and other digital platforms. Re/verse proposes that the poetry collection itself is a significant unit of meaning and that studying a collection brings new insights to our reading of the poems it contains. These short, accessibly-written books will appeal to nonacademic readers and writers as well as teachers and students in literary studies and creative writing classes.
+Re/verse is a series of compact introductions to individual books of poetry. Poems are often understood in relation to their canonization in anthologies and *Collected Works*, or, more recently, through forms of viral circulation on social media and other digital platforms. Re/verse proposes that the poetry collection itself is a significant unit of meaning and that studying a collection brings new insights to our reading of the poems it contains. These short, accessibly written books will appeal to nonacademic readers and writers as well as teachers and students in literary studies and creative writing classes.
 
 <h2 id="russian-travelogues"><cite>Russian Travelogues</cite></h2>
 
