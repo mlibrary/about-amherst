@@ -4,7 +4,7 @@ title: About Amherst College Press
 ---
 <p class="lead">Amherst College Press produces pathbreaking, peer-reviewed scholarship and makes it available to readers everywhere in open-access digital formats, with print books for purchase. As a diamond/platinum open-access press, we charge no fees to authors, their institutions, or readers. Our books are published on <a href="https://www.fulcrum.org">Fulcrum</a>, a platform created by <a href="https://publishing.umich.edu">Michigan Publishing</a>, allowing narrative to be richly integrated with multimedia and optimized for long-term preservation and accessibility.</p> 
 
-ACP publishes titles in art history and visual studies; digital and game studies; Latin American studies; literary and media studies; music and sound studies; and Russian, East European, and Eurasian Studies. We also have deep interests in activist studies, environmental and energy humanities, multilingualism and translation, public and community humanities, and all forms of justice-oriented scholarship and methodology.
+ACP publishes titles in art history and visual studies; digital and game studies; Latin American and Afro-Luso-Brazilian studies; literary and media studies; music and sound studies; and Russian, East European, and Eurasian Studies. We also have deep interests in activist studies, environmental and energy humanities, multilingualism and translation, public and community humanities, and all forms of justice oriented scholarship and methodology.
 
 Amherst College Press is a member of the [Association of University Presses](http://www.aupresses.org/) and is fully funded by Amherst College.
 
@@ -48,10 +48,10 @@ Amherst College Press holds diversity, equity, inclusion, and justice as core va
 
 ACP stands in solidarity with Black people and the movements centering Black lives and racial, economic, and educational justice. We recognize the need to educate ourselves and to continually emphasize the importance of working towards a scholarly community that listens, learns, and works to rectify past and present grievances. We also recognize the ways in which scholarly publishing has been complicit in perpetuating white supremacy and propping up systems of exclusion, from its reliance on opaque peer review practices and prohibitive pricing models to the industry’s predominantly white labor force. (See the 2019 Lee & Low Books survey of publishers that found the “publishing industry to be… 76% white, showing little change over 5 years in staff diversity across gender identity, race/ethnicity, dis/ability, and sexual orientation,” from the[ AUP Statement on Equity and Anti-Racism](https://aupresses.org/about-aupresses/equity-and-antiracism/).)
 
-As a small open-access press based at Amherst College, we seek to offer a different model for how the work of scholarly publishing can be done and a voice not typically heard—from the distinctive perspective of a liberal-arts institution—among the institutions that produce published scholarship. We do not assume that our work ends there. Specific steps we have taken and plan to take in order to advance diversity, equity, and inclusion at ACP include:
+As a small open-access press based at Amherst College, we seek to offer a different model for how the work of scholarly publishing can be done and a voice not typically heard—from the distinctive perspective of a liberal arts institution—among the institutions that produce published scholarship. We do not assume that our work ends there. Specific steps we have taken and plan to take in order to advance diversity, equity, and inclusion at ACP include:
 
 * Ensuring our Faculty Board is inclusive and representative of students and former students of Amherst College as well as the audiences we hope to reach with our publishing program. 
-* Contributing to industry-wide efforts in transparency around peer review and conducting regular audits on own peer review practices. 
+* Contributing to industry-wide efforts in transparency around peer review and conducting regular audits on own peer review practices.
 * Contributing to industry-wide efforts to seek out and amplify scholarship from underrepresented groups.
 * Maintaining the mission of open access, including the removal of price and permissions barriers to readers, authors, and institutions.
 * Developing and sustaining an internship program for Amherst College undergraduates in the hopes of creating pipeline opportunities for those who have been historically underrepresented in the publishing industry.
@@ -72,8 +72,6 @@ We understand that there are many ways to do and read scholarship, which is why 
 <h2 id="editorial">Editorial Board</h2>
 
 The Editorial Board of the Amherst College Press is composed of faculty members of Amherst College. Each member serves a three-year term. Ex officio positions are held by the director of the Amherst College Library, the director of the Mead Art Museum, and the director of the Center for Humanistic Inquiry.
-
-
 
 Editorial Board members:
 
