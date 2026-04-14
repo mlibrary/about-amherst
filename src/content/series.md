@@ -18,7 +18,7 @@ Series Editor: Darryl Harper, Amherst College
 
 Advisory Board: Regina Carter, Violinist & MacArthur Fellow; Xavier Davis, Michigan State University; Tom Welsh, Artist Manager
 
-ACP Records is Amherst College Press’s open-access record label for new jazz recordings. It brings the values and practices of scholarly publishing—collaborative peer review and academic rigor—into music. Artists use Creative Commons’ flexible licensing to share their work under terms they determine. ACP Records supports the creation of new knowledge outside of traditional commercial models, fostering a novel space for musicians to share work that is freely available to listeners.
+ACP Records is Amherst College Press’s open-access record label for new jazz recordings. It supports the values and practices of scholarly publishing—collaborative peer review and academic rigor—in music. Artists use Creative Commons’ flexible licensing to share their work under terms they determine. ACP Records supports the creation of new knowledge outside of traditional commercial models, fostering a novel space for musicians to share work that is freely available to listeners.
 
 <a class="btn btn-secondary" href="https://www.fulcrum.org/concern/monographs/9k41zh49d?locale=en">L﻿isten to our debut album, <em>Re-entry</em>, by Marianne Solivan</a>
 
