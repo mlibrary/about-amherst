@@ -2,7 +2,7 @@
 templateKey: authors-page
 title: Publish With Us
 ---
-## [](https://aseees.org/newsnet-article/speak-ai-a-conversation-about-publishing-ai-narrated-audiobooks-and-vladimir-nabokov/)Areas of Interest
+## Areas of Interest
 
 ACP publishes titles in art history and visual studies; digital and game studies; Latin American studies; literary and media studies; music and sound studies; and Russian, East European, and Eurasian Studies. We also have deep interests in activist studies, environmental and energy humanities, multilingualism and translation, public and community humanities, and all forms of justice-oriented scholarship and methodology.
 
