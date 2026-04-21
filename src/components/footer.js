@@ -42,6 +42,7 @@ const Footer = () => {
               <li><Link to="/currentauthors" className="text-light">Current Authors</Link></li>
               <li><Link to="/blog" className="text-light">Blog</Link></li>
               <li><Link to="/conferences" className="text-light">Conferences</Link></li>
+              <li><Link to="/accessibility" className="text-light">Accessibility</Link></li>
             </ul>
           </div>
           <div className="col-md-3">

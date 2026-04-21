@@ -13,7 +13,7 @@ const Navbar = () => {
         <a href="/" className="navbar-brand">
           <img src="/assets/AmherstLogo.svg" alt="" height="70" width="auto" className="navbar-brand-logo" /> <h1 id="title" className="sr-only">Amherst College Press</h1>
         </a>
-        <button className="navbar-toggler" type="button" onClick={toggleNav}>
+        <button className="navbar-toggler" type="button" aria-label="Toggle Mobile Navigation Menu" onClick={toggleNav}>
           <span className="navbar-toggler-icon" />
         </button>
         <div id="navbar" className={
