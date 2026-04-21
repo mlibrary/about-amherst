@@ -2,15 +2,13 @@
 templateKey: accessibility-page
 title: Accessibility
 ---
-<p class="lead">We make every reasonable effort to ensure our websites, platforms, and ebooks are available to all readers, especially those with disabilities, allocating significant time and resources towards ensuring readers have equal access.</p>
+<p class="lead">We are committed to making our websites, platforms, and ebooks accessible to readers with disabilities. We dedicate significant time and resources toward ensuring equal access for all readers.</p>
 
-*Last updated: March 20, 2026*
+*Last updated: April 21, 2026*
 
 ## Accessible File Requests
 
-<a class="btn btn-secondary btn-lg" href="https://umich.qualtrics.com/jfe/form/SV_8AiVezqglaUnQZo?press=acpress&Q_PopulateResponse={%22QID14%22:%22Amherst College Press%22}">Request a File</a>
-
-<p class="lead">To request a file for remediation, please complete the <a href="https://umich.qualtrics.com/jfe/form/SV_8AiVezqglaUnQZo?press=acpress&Q_PopulateResponse={%22QID14%22:%22Amherst%20College%20Press%22}">Fulcrum Accessible File Request form</a>. We also make Amherst College Press ebooks available through the major support channels, including <a href="https://www.bookshare.org">Bookshare</a>/<a href="https://www.rnibbookshare.org">RNIB Bookshare</a>.</p>
+<p class="lead">We make Amherst College Press ebooks available through major accessible text platforms, including <a href="https://www.bookshare.org">Bookshare</a> and <a href="https://www.rnibbookshare.org">RNIB Bookshare</a>. Additionally, to request a file for remediation, please complete the <a href="https://umich.qualtrics.com/jfe/form/SV_8AiVezqglaUnQZo?press=acpress&Q_PopulateResponse={%22QID14%22:%22Amherst%20College%20Press%22}">Fulcrum Accessible File Request form</a>.</p>
 
 ## Ebook Accessibility
 *Last manual evaluation: December 2025* 
@@ -28,6 +26,6 @@ Our baseline accessibility target for this website is to meet WCAG 2.2 AA standa
 
 The last accessibility evaluation for [acpress.amherst.edu](https://acpress.amherst.edu) was in December 2025.
 
-Please see the [Fulcrum Accessibility page](https://www.fulcrum.org/accessibility) for accessibility information about the website and ebook platform at [fulcrum.org/amherst](https://fulcrum.org/amherst).
+Please see the [Fulcrum Accessibility page](https://www.fulcrum.org/accessibility) to share feedback, report issues, and for accessibility information about the website and ebook platform at [fulcrum.org/amherst](https://fulcrum.org/amherst).
 
 The next scheduled accessibility evaluation for this website is in 2027.
