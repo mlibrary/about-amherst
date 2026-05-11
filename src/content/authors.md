@@ -16,8 +16,6 @@ See our [individual project proposal template](https://docs.google.com/document/
 
 Here you can find our [ACP reader report form for proposals ](https://docs.google.com/document/d/1qPhWyABNPNcDT_-V7tI8_gIyUeptHdFixrELk81FLFY/edit?usp=sharing)and [ACP reader report form for full manuscripts](https://docs.google.com/document/d/1Pn1IV67WIyZkOiz3Nc-vulowq5bwCbjfyya5NBrh_Hg/edit?usp=sharing). We undertook an iterative, collaborative process to create these forms, working with Amherst College Press interns to review, analyze, and synthesize current reader report forms from other university presses. We also sought to to engage in and incorporate anti-racist practices as articulated in this [anti-racist scholarly reviewing practices](https://docs.google.com/document/d/1lZmZqeNNnYfYgmTKSbL2ijYbR4OMovv6A-bDwJRnwx8/edit).
 
-[A﻿CP's pre-production checklist is here.](https://docs.google.com/document/d/12Zkv_aCeAsNi7RaRxhRxofWEJm3GzIKaKs9i_5Uc9pY/edit?tab=t.0)
-
 ### ACP Contracts, Copyright, and Creative Commons
 
 Authors retain the copyright to their work when they sign a contract with ACP. However, as with most university presses, our contract gives us rights to do a broad range of things with an author’s book, including creating an AI-narrated audiobook for accessibility purposes (see [this conversation](https://aseees.org/newsnet-article/speak-ai-a-conversation-about-publishing-ai-narrated-audiobooks-and-vladimir-nabokov/) between an ACP editor and authors about contracts in the context of our audiobook commitments). 
