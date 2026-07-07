@@ -80,13 +80,13 @@ Series Editor: Paul Schroeder Rodríguez
 
 Advisory Board: Emil' Keme, Emory University & Christen Smith, Yale University
 
-Urgent Knowledges is a translation series that highlights Indigenous, Afro-descendant, and similarly marginalized intellectual traditions in the geocultural area known as Latin America, including the Caribbean. We actively seek proposals for translations of works and bilingual editions that explore timely and pressing matters such as the climate crisis, forms of inequality, and responses to extractivism. The series will consider texts from a variety of periods and genres, in both fiction and nonfiction, that center concepts and practices such as *suma qamaña* (Aymara for ‘convivial living’) and *ubuntu* (Nguni for ‘I am because we are’). Urgent Knowledges will thus amplify voices that offer an expansive horizon of living in harmony with oneself, with other human and non-human beings, and with the diverse ecosystems that sustain us all. 
+Urgent Knowledges is a translation series that highlights Indigenous, Afro-descendant, and similarly marginalized intellectual traditions in the geocultural area known as Latin America, including the Caribbean. We actively seek proposals for translations of works and bilingual editions that explore timely and pressing matters such as the climate crisis, forms of inequality, and responses to extractivism. The series considers texts from a variety of periods and genres, in both fiction and nonfiction, that center concepts and practices such as *suma qamaña* (Aymara for ‘convivial living’) and *ubuntu* (Nguni for ‘I am because we are’). Urgent Knowledges thus amplifies voices that offer an expansive horizon of living in harmony with oneself, with other human and non-human beings, and with the diverse ecosystems that sustain us all. 
 
 <a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Urgent+Knowledges&locale=en">Read Urgent Knowledges</a>
 
 <h2 id="The vera-list-center-for-art-and-politics"><cite>The Vera List Center for Art and Politics</cite></h2>
 
-The Vera List Center for Art and Politics is a research center and a public forum for public scholarship on art, culture, and politics. Their publishing partnership with ACP furthers each institution’s commitment to advancing the understanding of the intersection of art and politics, centering exciting contemporary publishing on art and politics as international discourse. All titles are available both in print and as open access works.
+The Vera List Center for Art and Politics is a research center and a public forum for public scholarship on art, culture, and politics. The VLC's publishing partnership with ACP furthers each institution’s commitment to advancing the understanding of the intersection of art and politics, centering exciting contemporary publishing on art and politics as international discourse. All titles are available both in print and as open access works.
 
 <a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Vera+List+Center+for+Art+and+Politics&locale=en">The Vera List Center for Art and Politics</a>
 
