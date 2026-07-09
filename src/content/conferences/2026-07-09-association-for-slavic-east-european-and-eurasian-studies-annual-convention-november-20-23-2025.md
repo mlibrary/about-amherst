@@ -1,7 +1,7 @@
 ---
 templateKey: conference
 title: "Association for Slavic, East European, and Eurasian Studies Annual
-  Convention: November 20-23, 2025"
+  Convention: November 12-16, 2026"
 summary: ACP will attend the 2026 ASEEES Convention in Chicago!
 date: 2026-07-09T17:58:27.927Z
 ---
