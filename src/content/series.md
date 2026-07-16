@@ -20,7 +20,7 @@ Advisory Board: Regina Carter, Violinist & MacArthur Fellow; Xavier Davis, Michi
 
 ACP Records is Amherst College Press’s open access record label for new jazz recordings. It supports the values and practices of scholarly publishing—collaborative peer review and academic rigor—in music. Artists use Creative Commons’s flexible licensing to share their work under terms they determine. ACP Records supports the creation of new knowledge outside of traditional commercial models, fostering a novel space for musicians to share work that is freely available to listeners.
 
-<a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?utf8=%E2%9C%93&press=amherst&q=Albums">L﻿isten</a>!
+<a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?utf8=%E2%9C%93&press=amherst&q=Albums">L﻿isten!</a>
 
 <h2 id="electronic-communities-of-making"><cite>Electronic Communities of Making</cite></h2>
 
