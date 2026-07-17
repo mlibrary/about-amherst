@@ -13,7 +13,7 @@ description: 'Amherst Suite: Emily Dickinson, Spanish Translation & Poetic
   Following these translations is Blanco’s collection of original poems
   dedicated to Dickinson, "Amherst Suite," translated into English by Jennifer
   Rathbun for the first time.'
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/xd07gx26v?locale=en
 buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9798895060308&PRESS=amherst
 ---
