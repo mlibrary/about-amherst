@@ -86,7 +86,7 @@ Urgent Knowledges is a translation series that highlights Indigenous, Afro-desce
 
 <h2 id="The vera-list-center-for-art-and-politics"><cite>The Vera List Center for Art and Politics</cite></h2>
 
-The Vera List Center for Art and Politics is a research center and a public forum for public scholarship on art, culture, and politics. The VLC's publishing partnership with ACP furthers each institution’s commitment to advancing the understanding of the intersection of art and politics, centering exciting contemporary publishing on art and politics as international discourse. All titles are available both in print and as open access works.
+The Vera List Center for Art and Politics at The New School is a research center and a public forum for public scholarship on art, culture, and politics. The VLC's publishing partnership with ACP furthers each institution’s commitment to advancing the understanding of the intersection of art and politics, centering exciting contemporary publishing on art and politics as international discourse. All titles are available both in print and as open access works.
 
 <a class="btn btn-secondary" href="https://www.fulcrum.org/amherst?f%5Bseries_sim%5D%5B%5D=Vera+List+Center+for+Art+and+Politics&locale=en">Browse titles published with the Vera List Center for Art and Politics</a>
 
