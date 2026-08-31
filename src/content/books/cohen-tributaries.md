@@ -11,7 +11,7 @@ description: Tributaries, the debut release from the New England Jazz
   The compositions traverse an expansive musical landscape—from New
   Orleans-inspired collective improvisation and lyrical balladry to Third Stream
   experimentation, funk, and West African highlife.
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://www.fulcrum.org/concern/monographs/2n49t519x?locale=en
 buyLink: https://www.fulcrum.org/concern/monographs/2n49t519x?locale=en
 ---
