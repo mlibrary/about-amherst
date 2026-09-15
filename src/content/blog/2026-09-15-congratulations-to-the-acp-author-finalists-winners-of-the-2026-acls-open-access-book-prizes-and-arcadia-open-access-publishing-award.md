@@ -9,7 +9,7 @@ summary: With two winning titles, 3 books by 4 authors garnered finalist
 date: 2026-09-15T18:11:23.224Z
 ---
 Supported by the American Council of Learned Societies and Arcadia,
-[these prizes](https://www.acls.org/2026-acls-open-access-book-prizes-and-arcadia-open-access-publishing-awards/), in six categories, recognize the authors and publishers
+[these prizes](https://www.acls.org/2026-acls-open-access-book-prizes-and-arcadia-open-access-publishing-awards/) recognize the authors and publishers
 of exceptional and innovative open access humanities books published
 from 2019 to 2024.
 
