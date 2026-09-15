@@ -15,7 +15,7 @@ from 2019 to 2024.
 
 #### Science for *[Abortion Pills: US History and Politics](https://www.fulcrum.org/concern/monographs/m900nx46q?locale=en)* (2024)
 
-![Book cover for Abortion Pills: US History and Politics](https://www.fulcrum.org/image-service/b2773z6411713547907/full/286,/0/default.png "Abortion Pills: US History and Politics")
+![Book cover for Abortion Pills: US History and Politics](assets/abortionpills-cover_bordered_small.png "Abortion Pills: US History and Politics")
 
 #### [Anastasia Salter](https://anastasiasalter.net/) and [Stuart Moulthrop](https://smoulthrop.com/), prize winners in Literary/Media
 
@@ -27,7 +27,7 @@ from 2019 to 2024.
 
 #### *[A Sense of Brutality: Philosophy after Narco-Culture](https://www.fulcrum.org/concern/monographs/6h440v48j?locale=en)*  (2020)
 
-![Book cover for A Sense of Brutality: Philosophy after Narco-Culture](https://www.fulcrum.org/image-service/2v23vw4451597773708/full/286,/0/default.png "A Sense of Brutality: Philosophy after Narco-Culture")
+![Book cover for A Sense of Brutality: Philosophy after Narco-Culture](assets/a-sense-of-brutality_cover-bordered-_small.png "A Sense of Brutality: Philosophy after Narco-Culture")
 
 [Read more about the authors, books, and award on
 the ACLS website](https://www.acls.org/2026-acls-open-access-book-prizes-and-arcadia-open-access-publishing-awards/)!
