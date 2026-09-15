@@ -21,7 +21,7 @@ from 2019 to 2024.
 
 #### Studies for *[Twining: Critical and Creative Approaches to Hypertext Narratives](https://www.fulcrum.org/concern/monographs/ms35tb924?locale=en)*  (2021)
 
-![Book cover for Twining: Critical and Creative Approaches to Hypertext Narratives](assets/twiningcover-bordered.png "Twining: Critical and Creative Approaches to Hypertext Narratives")
+![Book cover for Twining: Critical and Creative Approaches to Hypertext Narratives](assets/twiningcover-bordered_small.png "Twining: Critical and Creative Approaches to Hypertext Narratives")
 
 #### [Carlos Alberto Sánchez](https://www.drcarlosalbertosanchez.com/), finalist in Political Science for
 
