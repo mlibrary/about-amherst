@@ -27,3 +27,8 @@ Studies for *[Twining: Critical and Creative Approaches to Hypertext Narratives]
 *[A Sense of Brutality: Philosophy after Narco-Culture](https://www.fulcrum.org/concern/monographs/6h440v48j?locale=en)*(2020)
 
 ![Book cover for A Sense of Brutality: Philosophy after Narco-Culture](https://www.fulcrum.org/image-service/2v23vw4451597773708/full/286,/0/default.png "A Sense of Brutality: Philosophy after Narco-Culture")
+
+
+
+[Read more about the authors, books, and award on
+the ACLS website](https://www.acls.org/2026-acls-open-access-book-prizes-and-arcadia-open-access-publishing-awards/)!
