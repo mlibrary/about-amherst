@@ -2,8 +2,8 @@
 templateKey: blog
 title: Congratulations to the ACP author finalists & winners of the 2026 ACLS
   Open Access Book Prizes and Arcadia Open Access Publishing Award!
-summary: With two winning titles, three ACP titles by 4 authors garnered
-  finalist recognition in 4 out of 6 categories for this award that highlights
+summary: With two winning titles, 3 books by 4 authors garnered finalist
+  recognition in 4 out of 6 categories for this award that highlights
   exceptional and innovative open access humanities books published from 2019 to
   2024.
 date: 2026-09-15T18:11:23.224Z
