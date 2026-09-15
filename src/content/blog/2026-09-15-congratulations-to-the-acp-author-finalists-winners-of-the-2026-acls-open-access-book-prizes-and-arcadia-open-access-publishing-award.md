@@ -18,7 +18,7 @@ Science for *[Abortion Pills: US History and Politics](https://www.fulcrum.org/c
 ![Book cover for Abortion Pills: US History and Politics](https://www.fulcrum.org/image-service/b2773z6411713547907/full/286,/0/default.png "Abortion Pills: US History and Politics")
 
 [Anastasia Salter](https://anastasiasalter.net/) and [Stuart Moulthrop](https://smoulthrop.com/), prize winners in Literary/Media
-Studies for *[Twining: Critical and Creative Approaches to Hypertext Narratives](https://www.fulcrum.org/concern/monographs/ms35tb924?locale=en)(*2021)
+Studies for *[Twining: Critical and Creative Approaches to Hypertext Narratives](https://www.fulcrum.org/concern/monographs/ms35tb924?locale=en)*(2021)
 
 ![Book cover for Twining: Critical and Creative Approaches to Hypertext Narratives](https://www.fulcrum.org/image-service/5h73pz5121623352020/full/286,/0/default.png "Twining: Critical and Creative Approaches to Hypertext Narratives")
 
