@@ -36,10 +36,7 @@ export const query = graphql`
     filter: {
       frontmatter: { templateKey: { eq: "conference" } }
     },
-    sort: {
-      fields: frontmatter___date,
-      order: ASC
-    }
+    sort: { frontmatter: { date: ASC } }
   ) {
     edges {
       node {

@@ -53,10 +53,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "book" } }
     },
-    sort: {
-      fields: frontmatter___orderOnPage,
-      order: ASC
-    }
+    sort: { frontmatter: { orderOnPage: ASC } }
   ) {
     edges {
       node {
@@ -79,10 +76,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "blog" } }
     },
-    sort: {
-      fields: frontmatter___date,
-      order: DESC
-    },
+    sort: { frontmatter: { date: DESC } },
     limit: 3
   ) {
     edges {
@@ -104,10 +98,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "conference" } }
     },
-    sort: {
-      fields: frontmatter___date,
-      order: ASC
-    },
+    sort: { frontmatter: { date: ASC } },
     limit: 6
   ) {
     edges {

@@ -1,32 +1,18 @@
-import CMS from 'netlify-cms-app';
+import CMS from 'decap-cms-app';
 import LinkFileComponent from "./components/linkFileComponent"
 import LinkFileButtonComponent from "./components/linkFileButtonComponent"
 
 CMS.registerEditorComponent(LinkFileComponent);
 CMS.registerEditorComponent(LinkFileButtonComponent);
 
-// https://github.com/netlify/netlify-cms/issues/1737 and HELIO-3241
-window.CMS_MANUAL_INIT = true;
+const branch = process.env.GATSBY_CMS_BRANCH || "master";
 
-if (process.env.BRANCH === "preview") {
-  console.log("---- USING PREVIEW BACKEND ----")
-  CMS.init({
-    config: {
-      backend: {
-        name: 'github',
-        repo: 'mlibrary/about-amherst',
-        branch: 'preview'
-      }
+CMS.init({
+  config: {
+    backend: {
+      name: 'github',
+      repo: 'mlibrary/about-amherst',
+      branch,
     }
-  });
-} else {
-  CMS.init({
-    config: {
-      backend: {
-        name: 'github',
-        repo: 'mlibrary/about-amherst',
-        branch: 'master'
-      }
-    }
-  });
-}
+  }
+});
