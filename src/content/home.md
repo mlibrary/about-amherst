@@ -16,7 +16,7 @@ fundraiserSection:
   url: https://engage.amherst.edu/give/library
 catalogSection:
   heading: Amherst College Press Catalog
-  catalogImage: assets/acp-catalog-2627-cover.jpg
+  catalogImage: /assets/acp-catalog-2627-cover.jpg
   catalogPdf: <a class="btn btn-secondary"
     href="/assets/ACP-Catalog-2627.pdf">Download Our Catalog</a>
 mapSection:
