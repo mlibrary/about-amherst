@@ -34,28 +34,28 @@ const Footer = () => {
           <div className="col-md-3">
             <ul className="list-unstyled text-small footer-link-list">
               <li><Link to="/about" className="text-light">About Us</Link></li>
-              <li><Link to="/contact" className="text-light">Contact Us</Link></li>
-              <li><Link to="/internships" className="text-light">Internships</Link></li>
-              <li><a href="https://www.fulcrum.org/amherst" className="text-light">Books</a></li>
-              <li><Link to="/series" className="text-light">Series</Link></li>
-              <li><Link to="/authors" className="text-light">Prospective Authors</Link></li>
-              <li><Link to="/currentauthors" className="text-light">Current Authors</Link></li>
-              <li><Link to="/blog" className="text-light">Blog</Link></li>
-              <li><Link to="/conferences" className="text-light">Conferences</Link></li>
               <li><Link to="/accessibility" className="text-light">Accessibility</Link></li>
+              <li><Link to="/blog" className="text-light">Blog</Link></li>
+              <li><a href="https://www.fulcrum.org/amherst" className="text-light">Books</a></li>
+             <li><Link to="/conferences" className="text-light">Conferences</Link></li>
+             <li><Link to="/contact" className="text-light">Contact Us</Link></li>
+              <li><Link to="/currentauthors" className="text-light">Current Authors</Link></li>
+              <li><Link to="/internships" className="text-light">Internships</Link></li>
+              <li><Link to="/authors" className="text-light">Prospective Authors</Link></li>
+              <li><Link to="/series" className="text-light">Series</Link></li>            
             </ul>
           </div>
           <div className="col-md-3">
             <div className="footer-head abril">Learn More</div>
             <ul className="list-unstyled text-small">
-              <li><a href="/peerreview" className="text-light">Peer Review Commitments and Guidelines</a></li>              
               <li><Link to="/about#dei-statement" className="text-light">ACP Statement on Diversity, Equity, and Inclusion</Link></li>
+              <li><a href="/peerreview" className="text-light">Peer Review Commitments and Guidelines</a></li>                            
             </ul>
             <div className="footer-head abril">Our Partners</div>
             <ul className="list-unstyled text-small">
-              <li><a href="https://www.veralistcenter.org/" className="text-light">Vera List Center</a></li>
-              <li><a href="https://vgagallery.org/" className="text-light">Video Game Art Gallery</a></li>
               <li><a href="https://www.publishing.umich.edu" className="text-light">Michigan Publishing</a></li>
+              <li><a href="https://www.veralistcenter.org/" className="text-light">Vera List Center</a></li>
+              <li><a href="https://vgagallery.org/" className="text-light">Video Game Art Gallery</a></li>              
             </ul>
           </div>
         </div>
