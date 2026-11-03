@@ -12,3 +12,7 @@ ASEEES convenes over 2,800 scholars and practitioners of Slavic, East European, 
 Chicago, November 12-15, 2026
 
 <https://aseees.org/convention/2026-annual-convention/>
+
+Join us to celebrate [ACP authors and titles in REEES](https://www.fulcrum.org/amherst?utf8=%E2%9C%93&press=amherst&q=russian)! 
+
+**ACP author Alexandra Perišić** will be recognized with an Honorable Mention for the University of Southern California Book Prize in Literary and Cultural Studies for *[Forgotten Friendships: Yugoslavia and the Anticolonial Francophone World](https://www.fulcrum.org/concern/monographs/rx913s71x?locale=en)*, which is also the Association for Women in Slavic Studies' 2026 Heldt Prize winner for best book in New and Innovative Scholarship.
