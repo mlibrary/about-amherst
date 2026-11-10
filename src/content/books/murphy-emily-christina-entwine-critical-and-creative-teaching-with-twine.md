@@ -10,7 +10,7 @@ description: "EnTwine: Critical and Creative Teaching with Twine is the first
   on how disparate communities use, share, and learn about Twine. Contributors
   to this volume demonstrate how Twine helps to forge communities of practice
   committed to learning and sharing together, inside and outside of classrooms."
-orderOnPage: 1
+orderOnPage: 2
 readLink: https://doi.org/10.3998/mpub.13143164
 buyLink: https://services.publishing.umich.edu/Books/E/EnTwine2
 ---
