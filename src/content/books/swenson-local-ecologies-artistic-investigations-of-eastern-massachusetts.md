@@ -12,7 +12,7 @@ description: "Local Ecologies: Artistic Investigations of Eastern Massachusetts
   of place. The volume foregrounds multiple ways of knowing and making
   place—through observation, research, memory, and collective action—offering
   the reader models for ongoing engagement with the region and beyond."
-orderOnPage: 2
+orderOnPage: 4
 readLink: https://www.fulcrum.org/concern/monographs/8623j218x?locale=en
 buyLink: https://services.publishing.umich.edu/Books/L/Local-Ecologies2
 ---
