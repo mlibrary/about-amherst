@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-bannerSection: 
+bannerSection:
   enabled: true
 taglineSection:
   text: Open Access. Peer Reviewed. We produce path-breaking scholarship and make
@@ -26,4 +26,4 @@ mapSection:
     books or media components that occurred over the previous four weeks.
   heading: Our impact and reach is global
 ---
-Our Fall 2026/Spring 2027 [catalog is now available](http://localhost:8000/assets/ACP-Catalog-2627.pdf)
+Our Fall 2026/Spring 2027 [catalog is now available!](https://acpress.amherst.edu/assets/ACP-Catalog-2627.pdf)
