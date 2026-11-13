@@ -49,6 +49,19 @@ collections:
           preview: false
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: home-page }
+          - name: bannerSection
+            label: "Banner"
+            widget: object
+            fields:
+              - { name: enabled, label: "Show banner", widget: boolean, default: false }
+          - name: body
+            label: "Banner Message"
+            widget: markdown
+            required: false
+            hint: "Keep it to one short line (about 100 characters). Use the link button to add links."
+            buttons: [bold, italic, link]
+            editor_components: []
+            modes: [rich_text]
           - name: taglineSection
             label: "Tag Line Section"
             widget: object

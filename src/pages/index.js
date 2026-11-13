@@ -12,11 +12,16 @@ import BlogList from "../components/blog/blogList"
 import ConferenceList from "../components/conferences/conferenceList"
 import MapImage from "../components/mapImage"
 import Catalog from "../components/catalog"
+import Banner from "../components/banner"
 
 export const IndexQuery = graphql`
 query {
   home: markdownRemark(frontmatter: { templateKey: { eq: "home-page" } }) {
+    html
     frontmatter {
+      bannerSection {
+        enabled
+      }
       taglineSection {
         text
       }
@@ -98,7 +103,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "conference" } }
     },
-    sort: { frontmatter: { date: ASC } },
+    sort: { frontmatter: { date: DESC } },
     limit: 6
   ) {
     edges {
@@ -128,10 +133,12 @@ const IndexPage = ({data}) => {
   const books = data.books.edges
   const blog = data.blog.edges
   const conferences = data.conferences.edges
+  const showBanner = data.home.frontmatter.bannerSection?.enabled && data.home.html?.trim()
 
   return (
     <Layout>
       <SEO title="Home" />
+      {showBanner && <Banner html={data.home.html} />}
         <section className="books-container container">
           <BookList books={books} />
           <div className="row mt-4">
@@ -177,16 +184,7 @@ const IndexPage = ({data}) => {
               </div>
             </div>
           </div>
-        </section>
-        <section className="video-impact-container">
-          <div className="container">
-          <div className="row">
-            <div id="map" className="map-container col-md-12">
-              <MapImage mapImage={map} />
-            </div>
-          </div>
-          </div>
-        </section>
+        </section>        
         <section className="news-events-container container">
           <div className="row justify-content-around">
             <div className="news-container col-lg-5">

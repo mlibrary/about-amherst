@@ -34,6 +34,9 @@ Fulcrum is dedicated to providing durable, long-term stewardship for digital sch
 
 Amherst College Press Press titles are made available under [Creative Commons](https://creativecommons.org/) (CC) licenses. The particular CC license chosen is up to the author.
 
+### Impact and Reach
+[View our Readership Map](https://maps.publishing.umich.edu/readership-map/?filter.stream=4557309451), which replays the last four weeks' views or downloads of Amherst Press books and media hosted on the Fulcrum platform. Click the red pins on the map to view specific title information.
+
 <h2 id="operations">Our Production Process</h2>
 
 Amherst College Press partners with Fulcrum, the digital publishing platform of Michigan Publishing Services, to produce our books. MPS handles all aspects of our production: copyediting, typesetting, cover design, EPUB creation, and final publication and distribution. Our books are available through the Chicago Distribution Center. Key partners at MPS are:

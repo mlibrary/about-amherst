@@ -134,7 +134,6 @@ p {
 
 // page
 .page-container {
-  padding-top: 2rem;
   padding-bottom: 5rem;
 }
 
@@ -219,6 +218,34 @@ p {
   }
 }
 
+// homepage announcement banner
+.site-banner {
+  background-color: $amherst-brand-color;
+  color: #fff;
+  min-height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: .25rem 0;
+  font-size: 1rem;
+  text-align: center;
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: #fff;
+    font-weight: 400;
+    text-decoration: underline;
+
+    &:hover {
+      color: #EAEAEA;
+    }
+  }
+}
+
+
 // home - catalog
 .catalog-wrapper {
   display: flex;
@@ -238,7 +265,7 @@ p {
 // home - for authors/for libraries, impact report
 .author-library-container {
   padding: 1.5rem 0;
-  border-bottom: 1px solid rgba(0,0,0,.125);
+  border-bottom: 8px solid $amherst-brand-color;
   border-top: 1px solid rgba(0,0,0,.125);
 
   .author-container, .newsletter-container, .library-container {
