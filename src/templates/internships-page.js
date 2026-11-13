@@ -10,7 +10,7 @@ const Internships = ({data}) => {
   return (
     <Layout>
       <SEO title={title} />
-      <div className="container page-container">
+      <div className="container mt-3 page-container">
         <Title title={title} />
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>
