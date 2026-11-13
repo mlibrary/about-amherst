@@ -17,4 +17,4 @@ Join us to celebrate [ACP authors and titles in REEES](https://www.fulcrum.org/a
 
 **ACP author Alexandra Perišić** will be recognized at ASEEES with an Honorable Mention for the University of Southern California Book Prize in Literary and Cultural Studies for *[Forgotten Friendships: Yugoslavia and the Anticolonial Francophone World](https://www.fulcrum.org/concern/monographs/rx913s71x?locale=en)*, which is also the [Association for Women in Slavic Studies' 2026 Heldt Prize winner](https://awsshome.org/awards/heldt-prizes/) for best book in New and Innovative Scholarship.
 
-![The Amherst College Press exhibit table at ASEEES features our REEES titles, a selection of books in game, media, and cultural studies, and print media including catalogs, bookmarks, and postcards.](/assets/acpataseees2026.jpeg)
+![The Amherst College Press exhibit table at ASEEES features our REEES titles, a selection of books in game, media, and cultural studies, and print media including catalogs, bookmarks, and postcards.](/assets/acp_aseees2026.jpg)
