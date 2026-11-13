@@ -138,6 +138,21 @@ p {
   padding-bottom: 5rem;
 }
 
+// Markdown images (gatsby-remark-images): use natural sizing instead of the
+// padding-bottom/absolute-position layout, which can distort the aspect ratio.
+.page-container {
+  .gatsby-resp-image-background-image {
+    display: none !important;
+  }
+
+  .gatsby-resp-image-image {
+    position: static !important;
+    display: block;
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+
 // cards
 
 .card {
