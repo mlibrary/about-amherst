@@ -3,7 +3,7 @@ templateKey: conference
 title: "Association for Slavic, East European, and Eurasian Studies Annual
   Convention: November 12-16, 2026"
 summary: ACP is attending the 2026 ASEEES Convention in Chicago!
-date: 2026-07-09T17:58:27.927Z
+date: 2026-11-13T16:18:00.000-05:00
 ---
 ASEEES convenes over 2,800 scholars and practitioners of Slavic, East European, and Eurasian studies from around the world annually for more than 600 sessions and events.
 
