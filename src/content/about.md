@@ -84,7 +84,7 @@ Editorial Board members:
 * Class of 2025: Pawan Dhingra, Pooja Rangan
 * Class of 2026: Yael Rice, Catherine Infante
 * Class of 2027: Amy Coddington, Lloyd Barba
-* Class of 2028: Solsi del Moral, Maria Heim
+* Class of 2028: Solsi del Moral, Maria Heim, Krup Shandilya
 
 Ex officio positions:
 
