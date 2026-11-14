@@ -10,9 +10,10 @@ date: 2026-11-13T19:17:00.000-05:00
 ![](/assets/carleton-bulkin.jpeg)
 
 Listen or read the captions in the video! 
-
+<div style="text-align: center;">
 <video controls width="452">
   <source src="/assets/carleton-bulkin-interview-clip-oa-final.mp4" type="video/mp4" /></video>
+</div>
 
 Carleton Bulkin is the English translator of *Manfred Macmillan: Book One of the Three Magicians Trilogy* (1907) by Jiří Karásek ze Lvovic, published by Amherst College Press in 2024. Decadence meets gothic in  Manfred Macmillan, a carefully constructed tale of doppelgängers, magical intrigue, and the rootless scion of a noble house. This annotated, first-ever English translation presents an early queer novel long unavailable except in the original Czech.
 
