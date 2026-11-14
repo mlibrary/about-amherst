@@ -1,7 +1,7 @@
 ---
 templateKey: blog
-title: Translator Carleton Bulkin interview on Jiří Karásek ze Lvovic & Manfred
-  MacMillan novel
+title: Translator Carleton Bulkin interview preview on Jiří Karásek ze Lvovic &
+  Manfred MacMillan novel
 summary: "Translator Carleton Bulkin speaks to ACP intern Audrey about open
   access publishing and its role in shaping knowledge-sharing around the world.
   "
