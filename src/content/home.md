@@ -26,4 +26,4 @@ mapSection:
     books or media components that occurred over the previous four weeks.
   heading: Our impact and reach is global
 ---
-Our Fall 2026/Spring 2027 [catalog is now available](/assets/ACP-Catalog-2627.pdf)
+ACP is featuring titles in Russian, East European, and Eurasian Studies (REEES) in Chicago this weekend. [Listen to a short interview with translator Carleton Bulkin about Open Access (OA) publishing with ACP](https://acpress.amherst.edu/blog/2026-11-14-translator-carleton-bulkin-interview-on-ji%C5%99%C3%AD-kar%C3%A1sek-ze-lvovic-manfred-macmillan/)!
